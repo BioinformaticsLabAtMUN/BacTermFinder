@@ -15,6 +15,7 @@ Terminator is a region in the DNA that ends the transcription process. Finding b
 3. After that you can run 
 
 `|        	         |      your fasta file    |  step size sliding window  | output name | Feature gen batch size |   > log.out`
+
 `python genome_scan.py     YOUR_SEQ.fasta                 3 		                  out              10000              > log.out`
 
 The results would be in a file called `outsequence.fasta_mean.csv`
