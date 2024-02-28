@@ -1,0 +1,1000 @@
+  313  ls $ref_genome*genome_length.txt
+  314  ${ref_genome}_genome_length.txt
+  315  echo ${ref_genome}_genome_length.txt
+  316  ref_genome=&(echo $file | cut -d "_" -f 3 | cut -d "." -f 1,2)
+  317  echo $s
+  318  echo ${s}_genome_length.txt
+  319  echo ${s}*_genome_length.txt
+  320  echo ${s}-ref.fasta-genome_length.txt
+  321  refgenome=&(echo $file | cut -d "_" -f 3 | cut -d "." -f 1,2)
+  322  refgenome=$(echo $file | cut -d "_" -f 3 | cut -d "." -f 1,2)
+  323  file_genome_length=${refgenome}-ref.fasta-genome_length.txt
+  324  bedtools slop -i $file -g $file_genome_length -b 50 > $file_100bp
+  325  file_100bp=${file%.bed}_100bp.bed
+  326  bedtools slop -i $file -g $file_genome_length -b 50 > $file_100bp
+  327  cd ..
+  328  ./bed_sloper_getfasta.sh 
+  329  cd 26_PMC8208703/
+  330  tail NC_000964.3-ref.fasta -n+2 | wc -m
+  331  cat NC_000964.3-ref.fasta  | wc -m
+  332  ls -lah
+  333  esearch -db nuccore -query "NC_000964.3" < /dev/null | efetch -format fasta > NC_000964.3-ref.fasta
+  334  tail NC_000964.3-ref.fasta -n+2 | wc -m
+  335  cd ../28_PMC8237595/
+  336  esearch -db nuccore -query "CP010905.2" < /dev/null | efetch -format fasta > CP010905.2-ref.fasta
+  337  cd ..
+  338  pwd
+  339  $dir
+  340  chmod +x markdown_menu_table_creator.sh 
+  341  ./markdown_menu_table_creator.sh 
+  342  cd 16_PMC8155712/
+  343  esearch -db nuccore -query "CP054306.1" < /dev/null | efetch -format fasta > CP054306.1-ref.fasta
+  344  esearch -db nuccore -query "CP054307.1" < /dev/null | efetch -format fasta > CP054307.1-ref.fasta
+  345  esearch -db nuccore -query "CP054308.1" < /dev/null | efetch -format fasta > CP054308.1-ref.fasta
+  346  esearch -db nuccore -query "CP054309.1" < /dev/null | efetch -format fasta > CP054309.1-ref.
+  347  esearch -db nuccore -query "CP054306.1" < /dev/null | efetch -format gff3 > CP054306.1-ref.gff3
+  348  esearch -db nuccore -query "CP054307.1" < /dev/null | efetch -format gff3 > CP054307.1-ref.gff3
+  349  esearch -db nuccore -query "CP054308.1" < /dev/null | efetch -format gff3 > CP054308.1-ref.gff3
+  350  esearch -db nuccore -query "CP054309.1" < /dev/null | efetch -format gff3 > CP054309.1-ref.gff3
+  351  cd ..
+  352  cd 18_PMC9217812/
+  353  esearch -db nuccore -query "LR027876.1" < /dev/null | efetch -format fasta > LR027876.1-ref.fasta
+  354  esearch -db nuccore -query "LR027876.1" < /dev/null | efetch -format gff3 > LR027876.1-ref.gff3
+  355  cd ..
+  356  ./gene_file_creator_for_bed_slop.sh 
+  357  ./bed_sloper_getfasta.sh > log2.txt
+  358  cd 5_PMC1187862/
+  359  esearch -db nuccore -query "NC_000964.3" < /dev/null | efetch -format fasta > NC_000964.3-ref.fasta
+  360  esearch -db nuccore -query "NC_000964.3" < /dev/null | efetch -format gff3 > NC_000964.3-ref.gff3
+  361  cd ..
+  362  ./gene_file_creator_for_bed_slop.sh 
+  363  ./bed_sloper_getfasta.sh >> log3.txt
+  364  ./bed_sloper_getfasta.sh >> log4.txt
+  365  sed -E 's|(.[0-9])_[0-9]\+(\t)|\1,\2|g' StreptomycesCoelicolor_M145_NC003888.3.bed 
+  366  sed -E -i 's|(.[0-9])_[0-9]\+(\t)|\1,\2|g' StreptomycesCoelicolor_M145_NC003888.3.bed 
+  367  sed -E -i 's|(.[0-9])_[0-9]\+(	)|\1,\2|g' StreptomycesCoelicolor_M145_NC003888.3.bed 
+  368  sed -i 's|(.[0-9])_[0-9]\+(	)|\1,\2|g' StreptomycesCoelicolor_M145_NC003888.3.bed 
+  369  sed -i 's|(.[0-9])_[0-9]\+(	)|\1	|g' StreptomycesCoelicolor_M145_NC003888.3.bed 
+  370  sed -E -i 's|(.[0-9])_[0-9]\+(	)|\1	|g' StreptomycesCoelicolor_M145_NC003888.3.bed 
+  371  sed -E -i 's|(\.[0-9]+)_[0-9]\+(	)|\1	|g' StreptomycesCoelicolor_M145_NC003888.3.bed 
+  372  sed -E -i 's|(\.[0-9]+)_[0-9]\+(	)|\1,\2|g' StreptomycesCoelicolor_M145_NC003888.3.bed 
+  373  sed -E -i 's|(\.[0-9])_[0-9]\+	|\1	|g' StreptomycesCoelicolor_M145_NC003888.3.bed 
+  374  sed -E
+  375  sed -E -i 's|(\.[[:digit:]])_[[:digit]]\+	|\1	|g' StreptomycesCoelicolor_M145_NC003888.3.bed 
+  376  sed -E -i 's|(\.[[:digit:]])_[[:digit:]]\+	|\1	|g' StreptomycesCoelicolor_M145_NC003888.3.bed 
+  377  sed -E -i 's|(\.[:digit:])_[:digit:]\+	|\1	|g' StreptomycesCoelicolor_M145_NC003888.3.bed 
+  378  sed -E -i 's|(\.[[:digit:]])_[[:digit:]]\+\t|\1\t|g' StreptomycesCoelicolor_M145_NC003888.3.bed 
+  379  sed -E  's|(\.[[:digit:]])_[[:digit:]]\+\t|\1\t|g' StreptomycesCoelicolor_M145_NC003888.3.bed 
+  380  sed -E  's|(\.[[:digit:]])_[[:digit:]]\+	|\1	|g' StreptomycesCoelicolor_M145_NC003888.3.bed 
+  381  sed -E  's|_[[:digit:]]\+	|\1	|g' StreptomycesCoelicolor_M145_NC003888.3.bed 
+  382  sed -E  's|_[[:digit:]]\+	|	|g' StreptomycesCoelicolor_M145_NC003888.3.bed 
+  383  sed  's|_[0-9]\+	|	|g' StreptomycesCoelicolor_M145_NC003888.3.bed 
+  384  sed -E 's|_[0-9]\+	|	|g' StreptomycesCoelicolor_M145_NC003888.3.bed 
+  385  sed 's|(\.[0-9])_[0-9]\+	|\1	|g' StreptomycesCoelicolor_M145_NC003888.3.bed 
+  386  sed 's|\(\.[0-9]\)_[0-9]\+	|\1	|g' StreptomycesCoelicolor_M145_NC003888.3.bed 
+  387  sed 's|\(\.[0-9]\)_[0-9]\+	|\1	|g' StreptomycesAvermitilis_MA-4680_BA000030.4.bed 
+  388  sed 's|\(\.[0-9]\)_[0-9]\+	|\1	|g' StreptococcusPneumoniae_TIGR4_NC003028.3.bed 
+  389  clear
+  390  cd Data/Bacteria/
+  391  ls
+  392  chmod +x underscore_remover.sh 
+  393  ./underscore_remover.sh 
+  394  sed -i 's|\(\.[0-9]\)_[0-9]\+      |\1     |g' 1_PMC8780764/*.bed
+  395  sed -i 's|\(\.[0-9]\)_[0-9]\+      |\1     |g' 1_PMC8780764/StreptomycesAvermitilis_MA-4680_BA000030.4.bed 
+  396  sed  's|\(\.[0-9]\)_[0-9]\+      |\1     |g' 1_PMC8780764/StreptomycesAvermitilis_MA-4680_BA000030.4.bed 
+  397  sed  's|\(\.[0-9]\)_[0-9]\+      |\1     |g' 13_PMC7738537/StreptomycesAvermitilis_MA4680_BA000030.4.bed 
+  398  sed -E 's|\(\.[0-9]\)_[0-9]\+      |\1     |g' 13_PMC7738537/StreptomycesAvermitilis_MA4680_BA000030.4.bed 
+  399  sed -E 's|(\.[0-9])_[0-9]\+      |\1     |g' 13_PMC7738537/StreptomycesAvermitilis_MA4680_BA000030.4.bed 
+  400  sed  's|(\.[0-9])_[0-9]\+      |\1     |g' 13_PMC7738537/StreptomycesAvermitilis_MA4680_BA000030.4.bed 
+  401  sed  's|\(\.[0-9]\)_[0-9]\+      |\1     |g' 13_PMC7738537/StreptomycesAvermitilis_MA4680_BA000030.4.bed 
+  402  sed  's|\(\.[0-9]\)_[0-9]\+      |\1     |g' 13_PMC7738537/StreptomycesAvermitilis_MA4680_BA000030.4.bed \
+  403  sed 's|\(\.[0-9]\)_[0-9]\+      |\1     |g' 13_PMC7738537/StreptomycesAvermitilis_MA4680_BA000030.4.bed 
+  404  ./underscore_remover.sh 
+  405  chmod +x gene_file_creator_for_bed_slop.sh 
+  406  ./gene_file_creator_for_bed_slop.sh 
+  407  $file
+  408  echo $file
+  409  file=$(echo "nc")
+  410  echo $file
+  411  echo -e "string\t$file" >> {$file}_gen_len.txt
+  412  echo -e "string\t$file" >> $file_gen_len.txt
+  413  echo -e "string\t$file" >> ($file)_gen_len.txt
+  414  echo -e "string\t$file" >> $file+_gen_len.txt
+  415  echo -e "string\t$file" >> $file-gen_len.txt
+  416  ./gene_file_creator_for_bed_slop.sh 
+  417  file=$(echo "StreptomycesAvermitilis_MA-4680_BA000030.4.bed")
+  418  file_100bp=${file%.bed}_100bp.bed
+  419  echo $file_100bp 
+  420  bedtools slop -i $file -g *genome_length.txt -b 50 > $file_100bp
+  421  bedtools getfasta -fi *-ref.fasta -bed $file_100bp
+  422  chmod +x bed_sloper_getfasta.sh 
+  423  ./bed_sloper_getfasta.sh 
+  424  file_genom_length=$(echo ls *genom_length.txt)
+  425  echo $file_genom_length 
+  426  file_genom_length=$(ls *genom_length.txt)
+  427  file_genom_length=$(ls *genom_length.txt/)
+  428  cd 1_PMC8780764/
+  429  file_genom_length=$(ls *genom_length.txt)
+  430  file_genom_length=$(ls *genome_length.txt)
+  431  echo $file_genom_length 
+  432  file_genome_fasta=$(ls *-ref.fasta)
+  433  echo $file_genom_fas
+  434  echo $file_genom_fasta
+  435  file_genome_fasta=$(ls *-ref.fasta)
+  436  echo $file_genome_fasta
+  437  cd ..
+  438  ll
+  439  chmod +x bed_sloper_getfasta.sh 
+  440  ./bed_sloper_getfasta.sh 
+  441  cd /home/amin/Desktop/Asus/Desktop/files/Apply/Canada/MUN/Semesters/4 Fall 2022/TA/1003/A1/soreted_submissions/ iraalam
+  442  cd "/home/amin/Desktop/Asus/Desktop/files/Apply/Canada/MUN/Semesters/4 Fall 2022/TA/1003/A1/soreted_submissions/ iraalam"
+  443  cd \ Sep\ 26\,\ 2022\ 1158\ PM/
+  444  python encryption_test.py 
+  445  python encryption_test.py > out.txt
+  446  exit
+  447  cd soreted_submissions/
+  448  chmod +x sorter.sh 
+  449  cd ..
+  450  git init
+  451  cd soreted_submissions/
+  452  ./sorter.sh 
+  453  echo $dir
+  454  echo $DIR
+  455  ls -d
+  456  ls
+  457  ls -d *
+  458  ls -d */
+  459  ./sorter.sh 
+  460  python --version
+  461  cd \ iraalam/
+  462  pwed
+  463  pwd
+  464  cd \ Sep\ 26\,\ 2022\ 1158\ PM/
+  465  python encryption_test.py 
+  466  python -m unittest encryption_test.py 
+  467  python -m unittest encryption_test.py -verobose 1
+  468  python -m unittest encryption_test.py --verobose 1
+  469  python -m unittest encryption_test.py
+  470  cd ..
+  471  cd Solutions/
+  472  python encryption_test.py 
+  473  cd ..
+  474  cd assign1_base_files/
+  475  python encryption_test.py 
+  476  cd ..
+  477  cd Solutions/
+  478  python encryption_test.py 
+  479  clear
+  480  cd ..
+  481  cd soreted_submissions/\ iraalam/\ Sep\ 26\,\ 2022\ 1158\ PM/
+  482  python encryption_test.py 
+  483  cd ..
+  484  cd \ faghaei/
+  485  cd \ Sep\ 24\,\ 2022\ 906\ PM/
+  486  python encryption_test.py 
+  487  python encryption_test.py 
+  488  cd ../../\ ayata/
+  489  cd \ Sep\ 26\,\ 2022\ 1132\ PM/
+  490  python encryption_test.py 
+  491  conda activate base
+  492  cd Solutions/
+  493  python tester.py 
+  494  clear
+  495  cd ..
+  496  cd .
+  497  cd ..
+  498  cd \ mffaahmed/
+  499  cd \ Sep\ 18\,\ 2022\ 422\ PM/
+  500  python encryption_test.py 
+  501  clear
+  502  cd ../..
+  503  cd \ mzahmed/\ Sep\ 28\,\ 2022\ 1043\ AM/
+  504  python encryption_test.py 
+  505  cd ../../\ simantaa/\ Sep\ 26\,\ 2022\ 654\ PM/
+  506  python encryption_test.py 
+  507  python tester.py 
+  508  cd ../../\ malzarieni/\ Sep\ 26\,\ 2022\ 1052\ PM/
+  509  python encryption_test.py 
+  510  cd ..
+  511  cd ../\ iqawad/\ Sep\ 25\,\ 2022\ 1111\ PM/
+  512  python encryption_test.py 
+  513  clear
+  514  python encryption_test.py 
+  515  clear
+  516  python encryption_test.py 
+  517  clear
+  518  python encryption_test.py 
+  519  clear
+  520  cd ../../\ mgayoub/\ Sep\ 26\,\ 2022\ 710\ PM/
+  521  python encryption_test.py 
+  522  python tester.py 
+  523  cd ../../\ fbaghdadi/
+  524  cd \ Sep\ 26\,\ 2022\ 546\ PM/
+  525  python encryption_test.py 
+  526  cd ../../\ lbatten/\ Sep\ 26\,\ 2022\ 750\ PM/
+  527  python encryption_test.py 
+  528  clear
+  529  python encryption_test.py 
+  530  clear
+  531  python encryption_test.py 
+  532  clear
+  533  python encryption_test.py 
+  534  clear
+  535  cd ../../\ cedbesso/\ Sep\ 26\,\ 2022\ 1137\ PM/
+  536  python encryption_test.py 
+  537  cd ../../\ ebest/\ Sep\ 27\,\ 2022\ 10
+  538  cd ../../\ ebest/\ Sep\ 27\,\ 2022\ 107\ PM/
+  539  python encryption_test.py 
+  540  clear
+  541  python encryption_test.py 
+  542  cd ../\ Sep\ 27\,\ 2022\ 109\ PM/
+  543  clear
+  544  python encryption_test.py 
+  545  cd ../../\ kprbheekhoo/\ Sep\ 26\,\ 2022\ 653\ PM/
+  546  python encryption_test.py 
+  547  lear
+  548  clear
+  549  lear
+  550  python encryption_test.py 
+  551  clear
+  552  cd ../../\ mabinnaser/\ Sep\ 24\,\ 2022\ 230\ PM/
+  553  python encryption_test.py 
+  554  cat encryption.py 
+  555  clear
+  556  cd ../../\ mbintebashar/\ Sep\ 26\,\ 2022\ 1004\ PM/
+  557  python encryption_test.py 
+  558  clear
+  559  python encryption_test.py 
+  560  clear
+  561  python encryption_test.py 
+  562  clear
+  563  cd ../../\ rab733/\ Sep\ 15\,\ 2022\ 210\ PM/
+  564  python encryption_test.py 
+  565  cd ../../\ sschandel/\ Sep\ 26\,\ 2022\ 1041\ AM/
+  566  python encryption_test.py 
+  567  cd ../../\ 
+  568  cd ../../\ slchatman/\ Sep\ 26\,\ 2022\ 520\ PM/
+  569  python encryption_test.py 
+  570  clear
+  571  python encryption_test.py 
+  572  python encryption_test.py clear
+  573  clear
+  574  python encryption_test.py
+  575  cd ../../\ mgmchowdhury/\ Sep\ 26\,\ 2022\ 1150\ PM/
+  576  clear
+  577  python encryption_test.py
+  578  clear
+  579  python encryption_test.py
+  580  clear
+  581  python encryption_test.py
+  582  clear
+  583  python encryption_test.py
+  584  clear
+  585  python encryption_test.py
+  586  cd ../../\ wpchurch/\ Sep\ 26\,\ 2022\ 1155\ PM/
+  587  clear
+  588  python encryption_test.py
+  589  clear
+  590  python encryption_test.py
+  591  clear
+  592  python encryption_test.py
+  593  clear
+  594  python encryption_test.py
+  595  clear
+  596  python encryption_test.py
+  597  clear
+  598  cd ../../\ aaconber/\ Sep\ 23\,\ 2022\ 142\ PM/
+  599  python encryption_test.py
+  600  pytest
+  601  python -m pytest
+  602  pip install pytest
+  603  pytest
+  604  pytest --help
+  605  pytest -v
+  606  pytest -v 1
+  607  pytest --help
+  608  pytest --verbosity 2
+  609  pytest --verbosity 3
+  610  pytest --verbosity 1
+  611  pytest --verbosity 0
+  612  pytest --verbosity 1
+  613  python encryption_test.py
+  614  clear
+  615  python encryption_test.py
+  616  clear
+  617  cd ../../\ jdcooper/\ Sep\ 23\,\ 2022\ 1043\ AM/
+  618  python encryption_test.py
+  619  clear
+  620  python encryption_test.py
+  621  cd ../../\ ctcribb/\ Sep\ 25\,\ 2022\ 634\ PM/
+  622  python encryption_test.py
+  623  pytest 
+  624  cd ../../\ sbdawlat/\ Sep\ 26\,\ 2022\ 1152\ PM/
+  625  clear
+  626  pytest 
+  627  python encryption_test.py
+  628  pytest
+  629  python encryption_test.py
+  630  clear
+  631  python encryption_test.py
+  632  clear
+  633  python encryption_test.py
+  634  clear
+  635  python encryption_test.py
+  636  clear
+  637  python encryption_test.py
+  638  clear
+  639  cd ../../
+  640  cd \ cdoupe/\ Sep\ 26\,\ 2022\ 1155\ PM/
+  641  python encryption_test.py
+  642  pytest
+  643  clear
+  644  cd../...
+  645  cd ../../\ mtrd51/
+  646  cd \ Sep\ 26\,\ 2022\ 1152\ PM/
+  647  python encryption_test.py
+  648  pytest
+  649  pytest -v
+  650  clear
+  651  pytest -v
+  652  python encryption_test.py
+  653  clear
+  654  python encryption_test.py
+  655  cd ../../\ svdsouza/\ Sep\ 26\,\ 2022\ 738\ PM/
+  656  clear
+  657  python encryption_test.py 
+  658  cd ../../\ laearle/\ Sep\ 26\,\ 2022\ 1158\ PM/
+  659  python encryption_test.py 
+  660  clear
+  661  python encryption_test.py 
+  662  cd ../../\ heid/\ Sep\ 26\,\ 2022\ 1045\ PM/
+  663  python encryption_test.py 
+  664  clear
+  665  python encryption_test.py 
+  666  clear
+  667  python encryption_test.py 
+  668  cd ../../\ egelliott/\ Sep\ 26\,\ 2022\ 300\ PM/
+  669  ls
+  670  mv encryption2.py encryption.py
+  671  ls
+  672  clear
+  673  python encryption_
+  674  python encryption_test.py 
+  675  cd ../../\ zmelnady/\ Sep\ 26\,\ 2022\ 454\ PM/
+  676  python encryption_test.py 
+  677  cd ../\ Sep\ 26\,\ 2022\ 1108\ AM/
+  678  python encryption_test.py 
+  679  cd ../../\ selvayn/\ Sep\ 25\,\ 2022\ 931\ PM/
+  680  clear
+  681  python encryption_test.py 
+  682  cd ../../\ aeslami/\ Sep\ 20\,\ 2022\ 745\ PM/
+  683  clear
+  684  python encryption_test.py 
+  685  cd ../../\ pesmkhani/\ Sep\ 26\,\ 2022\ 1126\ PM/
+  686  python encryption_test.py 
+  687  clear
+  688  python encryption_test.py 
+  689  clear
+  690  python encryption_test.py 
+  691  clear
+  692  python encryption_test.py 
+  693  clear
+  694  python encryption_test.py 
+  695  clear
+  696  python encryption_test.py 
+  697  clear
+  698  python encryption_test.py 
+  699  cd ../../\ jnevans/\ Sep\ 25\,\ 2022\ 858\ PM/
+  700  python encryption_test.py 
+  701  ipython
+  702  exit
+  703  pip install copydetect
+  704  exit
+  705  cd ..
+  706  copydetect -t All_submissions/ -e py
+  707  cd Data/Bacteria/
+  708  chmod +x copy_fasta.sh 
+  709  ./copy_fasta.sh 
+  710  python deduplicator.py 
+  711  clear
+  712  python deduplicator.py 
+  713  clear
+  714  python deduplicator.py 
+  715  ./bed_sloper_getfasta.sh 
+  716  python deduplicator.py 
+  717  ./markdown_menu_table_creator.sh 
+  718  python deduplicator.py 
+  719  clear
+  720  python deduplicator.py 
+  721  clear
+  722  python deduplicator.py 
+  723  cd all_csv/
+  724  python dedup.py 
+  725  flatpak
+  726  sudo apt install flatpak
+  727  sudo add-apt-repository ppa:flatpak/stable
+  728  sudo apt update
+  729  sudo apt install v4l2loopback-dkms
+  730  sudo add-apt-repository ppa:obsproject/obs-studio
+  731  sudo apt update
+  732  sudo apt install obs-studio
+  733  sudo apt upgrade
+  734  ipython
+  735  python quiz5_Question8.py 
+  736  ssh -Y amintg@narval.computecanada.ca
+  737  exit
+  738  cd A2/
+  739  cd all_Submissions/
+  740  cd ..
+  741  copydetect -t all_Submissions/ -e py
+  742  copydetect -t all_Submissions/ -e py -b Template/
+  743  cd ..
+  744  git init
+  745  cd A2/Mine_to_mark/
+  746  ls
+  747  chmod +x sorter.sh 
+  748  ./sorter.sh 
+  749  pytest
+  750  ./sorter.sh 
+  751  ipython
+  752  code
+  753  ipython
+  754  python test.py 
+  755  3
+  756  python test.py 
+  757  htop
+  758  sudo apt install --help
+  759  man apt
+  760  sudo apt install ./discord-0.0.2d
+  761  sudo apt install ./discord-0.0.21.deb 
+  762  conda activate base
+  763  python test.py 
+  764  htop
+  765  python test.py 
+  766  htop
+  767  python test.py 
+  768  clear
+  769  python test.py 
+  770  python test.py
+  771  python test.py 
+  772  htop
+  773  python test.py 
+  774  3
+  775  python test.py 
+  776  python test.py 9
+  777  cd IoneeAalam/\ Oct\ 5\,\ 2022\ 1048\ PM/
+  778  ls
+  779  python -m unittest a2_test.py 
+  780  python generate.py 
+  781  python -m unittest a2_test.py 
+  782  pytest
+  783  pytest -v
+  784  clear
+  785  python -m unittest a2_test.py 
+  786  cd ../../../Template/
+  787  python a2_test.py 
+  788  cd ../Mine_to_mark/IoneeAalam/\ Oct\ 5\,\ 2022\ 1048\ PM/
+  789  clear
+  790  python a2_test.py 
+  791  clear
+  792  python a2_test.py 
+  793  clear
+  794  python a2_test.py 
+  795  clear
+  796  python a2_test.py 
+  797  clear
+  798  python a2_test.py 
+  799  clear
+  800  cd ../../FatemehAghaei/\ Oct\ 5\,\ 2022\ 1106\ PM/
+  801  python a2_test.py 
+  802  cd ../../AyatAhmed/\ Oct\ 5\,\ 2022\ 1012\ PM/
+  803  clear
+  804  python a2_test.py 
+  805  clear
+  806  python counter.py 
+  807  python a2_test.py 
+  808  python counter.py 
+  809  cd A2/Mine_to_mark/AyatAhmed/\ Oct\ 5\,\ 2022\ 1012\ PM/
+  810  python counter.py 
+  811  clear
+  812  python a2_test.py 
+  813  clear
+  814  python a2_test.py 
+  815  cd ..
+  816  cd ../MariamAhmed/
+  817  cd \ Sep\ 27\,\ 2022\ 1150\ AM/
+  818  clear
+  819  python a2_test.py 
+  820  cd ../../Md.ZubayerAhmed/\ Oct\ 5\,\ 2022\ 1154\ PM/
+  821  clear
+  822  python a2_test.py 
+  823  cd ../../SimantaAhmed/\ Oct\ 5\,\ 2022\ 932\ PM/
+  824  clear
+  825  python a2_test.py 
+  826  clear
+  827  python a2_test.py 
+  828  cd ../../mohammadalzarieni/\ Oct\ 5\,\ 2022\ 1132\ PM/
+  829  clear
+  830  python a2_test.py 
+  831  code
+  832  clear
+  833  cd ../../IbrahimAwad/\ Oct\ 4\,\ 2022\ 936\ PM/
+  834  python a2_test.py 
+  835  cd ../../IbrahimAwad/\ Oct\ 4\,\ 2022\ 936\ PM/
+  836  python a2_test.py 
+  837  cd ../../MichaelAyoub/\ Oct\ 5\,\ 2022\ 900\ PM/
+  838  clear
+  839  python a2_test.py 
+  840  cd ../../FadiBaghdadi/\ Oct\ 5\,\ 2022\ 147\ PM/
+  841  clear
+  842  python a2_test.py 
+  843  cd ../../AymanBaig/\ Oct\ 4\,\ 2022\ 256\ PM/
+  844  clear
+  845  python a2_test.py 
+  846  clear
+  847  cd ../../LukeBatten/\ Oct\ 5\,\ 2022\ 837\ PM/
+  848  python a2_test.py 
+  849  clear 
+  850  cd ../../ColbyBesso/\ Oct\ 3\,\ 2022\ 1109\ PM/
+  851  python spaced.py 
+  852  python a
+  853  python a2_test.py 
+  854  cd ../../EvanBest/
+  855  cd \ Oct\ 5\,\ 2022\ 1233\ PM/
+  856  clear
+  857  python a2_test.py 
+  858  cd ../../KiranBheekhoo/\ Oct\ 5\,\ 2022\ 715\ PM/
+  859  clear
+  860  python a2_test.py 
+  861  python counter.py 
+  862  python a2_test.py 
+  863  cd ../../MOHDALIBINNASER/\ Oct\ 1\,\ 2022\ 1033\ PM/
+  864  clear
+  865  python a2_test.py 
+  866  clear
+  867  cd ../../ShaimaBinteBashar/
+  868  cd \ Oct\ 5\,\ 2022\ 1017\ PM/
+  869  python a2_test.py 
+  870  cd ../../RileyBrooks/\ Sep\ 28\,\ 2022\ 1137\ AM/
+  871  clear
+  872  python a2_test.py 
+  873  clear
+  874  python a2_test.py 
+  875  python counter.py 
+  876  cd ../../SauravSinghChandel/\ Oct\ 3\,\ 2022\ 822\ PM/
+  877  clear
+  878  python a2_test.py 
+  879  clear 
+  880  cd ../../SpencerChatman/\ Oct\ 3\,\ 2022\ 630\ PM/
+  881  python a2_test.py 
+  882  clear
+  883  python a2_test.py 
+  884  clear
+  885  cd ..
+  886  cd ../VanshChaudhary/\ Oct\ 5\,\ 2022\ 509\ PM/
+  887  python a2_test.py 
+  888  clear
+  889  python a2_test.py 
+  890  clear
+  891  cd ../../MdGolamMahmudChowdhury/\ Oct\ 5\,\ 2022\ 1155\ PM/
+  892  python a2_test.py 
+  893  clear
+  894  python a2_test.py 
+  895  cd ../..
+  896  clear
+  897  cd WilliamChurch/\ Oct\ 5\,\ 2022\ 1141\ PM/
+  898  python a2_test.py 
+  899  clear
+  900  cd ../../AbdelrahmanConber/\ Oct\ 5\,\ 2022\ 1041\ PM/
+  901  python a2_test.py 
+  902  clear
+  903  python a2_test.py 
+  904  cd ../../JagerCooper/\ Oct\ 2\,\ 2022\ 552\ PM/
+  905  clear
+  906  python a2_test.py 
+  907  clear
+  908  python a2_test.py 
+  909  clear
+  910  python a2_test.py 
+  911  clear 
+  912  cd ../../CodyCribb/\ Oct\ 6\,\ 2022\ 911\ PM/
+  913  python a2_test.py 
+  914  cd ../../SaadBinDawlat/\ Oct\ 5\,\ 2022\ 1017\ PM/
+  915  clear
+  916  python a2_test.py 
+  917  cd ../../MatthewDrodge/\ Oct\ 5\,\ 2022\ 1154\ PM/
+  918  clear
+  919  python a2_test.py 
+  920  htop
+  921  cd ../../MatthewDrodge/\ Oct\ 5\,\ 2022\ 1154\ PM/
+  922  cd A2/Mine_to_mark/MatthewDrodge/\ Oct\ 5\,\ 2022\ 1154\ PM/
+  923  python a2_test.py 
+  924  clear
+  925  python a2_test.py 
+  926  clear
+  927  cd ../../SeanVivianDsouza/\ Oct\ 5\,\ 2022\ 1146\ PM/
+  928  python a2_test.py 
+  929  code -r generate.py 
+  930  code -r *.py 
+  931  clear
+  932  python a2_test.py 
+  933  clear
+  934  python a2_test.py 
+  935  cd ../../LiamEarle/\ Oct\ 7\,\ 2022\ 657\ PM/
+  936  clear
+  937  python a2_test.py 
+  938  code -r *.py
+  939  python generate.py 
+  940  cd ../../HanyaEid/\ Oct\ 6\,\ 2022\ 221\ PM/
+  941  code -r *.p
+  942  code -r *.py
+  943  clear
+  944  python generate.py 
+  945  python a2_test.py 
+  946  cd ../../EmilyElliott/\ Oct\ 5\,\ 2022\ 739\ PM/
+  947  clear
+  948  code -r *.py
+  949  python a2_test.py 
+  950  python spaced.py 
+  951  clear
+  952  python spaced.py 
+  953  python a2_test.py 
+  954  clear
+  955  cd ../../ZiadElnady/\ Oct\ 5\,\ 2022\ 313\ PM/
+  956  code -r *.py
+  957  python a2_test.py 
+  958  clear
+  959  python a2_test.py 
+  960  clear
+  961  cd ../../TarekElsaidy/\ Oct\ 3\,\ 2022\ 834\ PM/
+  962  python a2_test.py 
+  963  code -r *.py
+  964  clear
+  965  cd ../../SelinaElvayn/\ Oct\ 5\,\ 2022\ 854\ PM/
+  966  python a2_test.py 
+  967  code -r *.py
+  968  clear
+  969  cd ../../ArshiaEslami/\ Oct\ 4\,\ 2022\ 842\ PM/
+  970  python a2_test.py 
+  971  code -r *.py
+  972  python generate.py 
+  973  clear
+  974  python a2_test.py 
+  975  python generate.py 
+  976  clearB
+  977  python a2_test.py 
+  978  clear
+  979  cd ../../ParsaEsmkhani/\ Oct\ 5\,\ 2022\ 848\ PM/
+  980  python a2_test.py 
+  981  code -r *.py
+  982  clear
+  983  python a2_test.py 
+  984  cd ../../JurezEvans/\ Oct\ 2\,\ 2022\ 1115\ PM/
+  985  clear
+  986  python a2_test.py 
+  987  code -r *.py
+  988  /bin/python3 "/home/amin/Desktop/Asus/Desktop/files/Apply/Canada/MUN/Semesters/4 Fall 2022/TA/1003/A2/Mine_to_mark/EmilyElliott/ Oct 5, 2022 739 PM/generate.py"
+  989  cd A2/Mine_to_mark/MatthewDrodge/\ Oct\ 5\,\ 2022\ 1154\ PM/
+  990  python a2_test.py 
+  991  htop
+  992  lscpu
+  993  lshw
+  994  htop
+  995  lshw
+  996  sudo java -jar client.jar 
+  997  sudo apt purge minecraft-launcher 
+  998  shutdown --help
+  999  sudo shutdown 10
+ 1000  shutdown -c
+ 1001  shutdown now
+ 1002  touch test.py
+ 1003  gedit test.py 
+ 1004  test.py <<< "salam"
+ 1005  python test.py <<< "salam"
+ 1006  python test.py
+ 1007  gedit test.py 
+ 1008  python test.py
+ 1009  cat test.py 
+ 1010  gedit test.py 
+ 1011  python test.py <<< "salam"
+ 1012  python test.py < "salam"
+ 1013  echo "salam" | python test.py
+ 1014  gedit test.py 
+ 1015  echo "salam" | python test.py
+ 1016  gedit test.py 
+ 1017  echo "salam" "bye" | python test.py
+ 1018  echo "salam","salamaaa"|python test.py
+ 1019  python test.py <<< "salam","s"
+ 1020  python test.py <<< "salam" 
+ 1021  echo "s" |echo "salam" | python test.py 
+ 1022  echo "salam"|"s" | python test.py 
+ 1023  echo "salam" && "bye" | python test.py
+ 1024  echo "salam" && echo "bye" | python test.py
+ 1025  ext
+ 1026  exit
+ 1027  cd /home/amin/Downloads/main.pdf
+ 1028  cd /home/amin/Downloads
+ 1029  mv main.pdf AminTaheri_CV_Oct22.pdf
+ 1030  htop
+ 1031  lscpu
+ 1032  ping 8.8.8.8
+ 1033  ssh ataherighahf@cs.garfiled.mun.ca
+ 1034  ssh ataherighahf@garfiled.cs.mun.ca
+ 1035  ssh ataherighahf@garfield.cs.mun.ca
+ 1036  ls
+ 1037  clear
+ 1038  conda activate base
+ 1039  cd 
+ 1040  tail .bashrc 
+ 1041  cat sequence\ \(2\).gb 
+ 1042  head sequence\ \(2\).gb 
+ 1043  head sequence\ \(2\).gb -n 40
+ 1044  head sequence\ \(2\).gb -n 90
+ 1045  head sequence\ \(2\).gb -n 250
+ 1046  conda activate base
+ 1047  cd ..
+ 1048  ls
+ 1049  ./markdown_menu_table_creator.sh 
+ 1050  ./gene_file_creator_for_bed_slop.sh 
+ 1051  ./markdown_menu_table_creator.sh 
+ 1052  ./gene_file_creator_for_bed_slop.sh 
+ 1053  ./get_ref_genome.sh 
+ 1054  cat .bashrc
+ 1055  ./get_ref_genome.sh 
+ 1056  esearch -db nuccore -query "NC_000964.3" < /dev/null | efetch -format gff3 > ref_genome-ga.gff3
+ 1057  esearch -db genome -query "NC_000964.3" < /dev/null | efetch -format gff3 > ref_genome-ga.gff3
+ 1058  esearch -db assembly -query "NC_000964.3" < /dev/null | efetch -format gff3 > ref_genome-ga.gff3
+ 1059  esearch -db nuccore -query "NC_000964.3" < /dev/null | efetch -format gff3 > ref_genome-ga.gff3
+ 1060  esearch -db genomes -query "NC_000964.3" < /dev/null | efetch -format gff3 > ref_genome-ga.gff3
+ 1061  efetch -db genomes -query "NC_000964.3" -format gff3 > ref_genome-ga.gff3
+ 1062  efetch -db genomes -id "NC_000964.3" -format gff3 > ref_genome-ga.gff3
+ 1063  efetch -db nuccore -id "NC_000964.3" -format gff3 > ref_genome-ga.gff3
+ 1064  esearch -db nuccore -query "NC_000964.3" < /dev/null | efetch -format gb > ref_genome-ga.gff3
+ 1065  esearch -db nuccore -query "NC_000964.3"  | efetch -format gff3 > ref_genome-ga.gff3
+ 1066  esearch -db Genome -query "NC_000964.3" | efetch -format gff3 > ref_genome-ga.gff3
+ 1067  esearch --help
+ 1068  esearch -db gene -query "NC_000964.3"  | efetch -format gff3 > ref_genome-ga.gff3
+ 1069  esearch -db gene -query "NC_000964.3"  
+ 1070  esearch -db gene -query "NC_000964.3"  | efetch -format gff > ref_genome-ga.gff3
+ 1071  efetch --help
+ 1072  efetch --help | grep annotation
+ 1073  efetch --help | grep gene
+ 1074  esearch -db gene -query "NC_000964.3"  | efetch  > ref_genome-ga.gff3
+ 1075  esearch -db gene -query "NC_000964.3"  | efetch -format full_report > ref_genome-ga.gff3
+ 1076  esearch -db gene -query "NC_000964.3"  | efetch -format gb > ref_genome-ga.gff3
+ 1077  efetch --help | grep gff3
+ 1078  efetch --help | grep gff
+ 1079  efetch --help 
+ 1080  esearch -db gene -query "NC_000964.3"  | efetch -format gb > ref_genome-ga.gff3
+ 1081  pip install bioconvert
+ 1082  pip install biocode
+ 1083  esearch -db gene -query "NC_000964.3"  | efetch -format gb > ref_genome-ga.gbff
+ 1084  bioconvert genbank2gff3 ref_genome-ga.gbff ref_genome-ga.gff3 
+ 1085  bioconvert genbank2gff3 ref_genome-ga.gbff ref_genome-ga.gff3 --force
+ 1086  bioconvert ref_genome-ga.gbff ref_genome-ga.gff3 
+ 1087  bioconvert genbank3gff3 ref_genome-ga.gbff ref_genome-ga.gff3 --force
+ 1088  bioconvert --help -a 
+ 1089  bioconvert --help -a  | grep gff
+ 1090  bioconvert genbank2gff3 ref_genome-ga.gbff r.gff3
+ 1091  esearch -db gene -query "NC_000964.3"  | efetch  > ref_genome-ga.gbff
+ 1092  efetch -db gene -query "NC_000964.3" ref_genome-ga.gbff
+ 1093  efetch -db gene -id "NC_000964.3" ref_genome-ga.gbff
+ 1094  efetch -db gene -id "NC_000964.3"
+ 1095  efetch -db gene -id "NC_000964.3" > r.gbff
+ 1096  esearch -db nuccore -query "NC_000964.3" < /dev/null | efetch -format gff3 > $ref_genome-ga.gff3
+ 1097  efetch -db nuccore -id "NC_000964.3"  -format gff3 > $ref_genome-ga.gff3
+ 1098  efetch -db nuccore -id "NC_000964.3" > $ref_genome-ga.gff3
+ 1099  efetch -db nuccore -id "NC_000964.3" -format gb > $ref_genome-ga.gff3
+ 1100  efetch -db nuccore -id "NC_000964.3" -format 
+ 1101  efetch --help
+ 1102  efetch -db nuccore -id "NC_000964.3" -format full_report
+ 1103  efetch -db nuccore -id "NC_000964.3" -format full_report > r.g
+ 1104  efetch -db sequences -id "NC_000964.3" -format gb
+ 1105  efetch -db gene -id "NC_000964.3" -format gb
+ 1106  esearch -db gene -id "NC_000964.3" | efetch -format gb
+ 1107  esearch -db gene -query "NC_000964.3" | efetch -format gb
+ 1108  esearch -db gene -query "NC_000964.3" | efetch -format gb --help
+ 1109  efetch -db nuccore -id NC_000964.3 -format gb 
+ 1110  efetch -db nuccore -id NC_000964.3 -format full_report
+ 1111  efetch -db nuccore -id NC_000964.3 
+ 1112  efetch -db nuccore -id NC_000964.3 -format gff3
+ 1113  efetch -db nuccore -id NC_000964.3 -format gb
+ 1114  efetch -db nuccore -id NC_000964.3 -format gb --help
+ 1115  efetch -db nuccore -id NC_000964.3 -format fasta
+ 1116  efetch -db nuccore -id NC_000964.3 -format --help
+ 1117  efetch -db nuccore -id NC_000964.3 -format gb --help
+ 1118  efetch -db gene -id NC_000964.3 -format full_report 
+ 1119  efetch -db nuccore -id NC_000964.3 -format est
+ 1120  efetch -db gene -id NC_000964.3 -format est
+ 1121  ./get_ref_genome.sh 
+ 1122  cd 37_PMC3219970/
+ 1123  tail -n+2 CP000100.1-ref.fasta | wc -m
+ 1124  cd ..
+ 1125  ./bed_sloper_getfasta.sh 
+ 1126  cd 1_PMC8780764/
+ 1127  bedtools getfasta -s -fi BA000030.4-ref.fasta -bed StreptomycesAvermitilis_MA-4680_BA000030.4_100bp.bed > s.fasta
+ 1128  cd ../
+ 1129  ./bed_sloper_getfasta.sh 
+ 1130  cd 1_PMC8780764/
+ 1131  sort -k 1,1 -k2,2n StreptomycesAvermitilis_MA-4680_BA000030.4_100bp.bed
+ 1132  clear
+ 1133  cd ../..
+ 1134  cd Deduplication/
+ 1135  cd StreptomycesLividans_TK24_CP009124.1/
+ 1136  sort -k 1,1 -k2,2n 13_StreptomycesLividans_TK24_CP009124.1_100bp.bed > 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed 
+ 1137  sort -k 1,1 -k2,2n 23_StreptomycesLividans_TK24_CP009124.1_100bp.bed > 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed 
+ 1138  bedtools closest -s -d 50 a 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -b 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed 
+ 1139  bedtools closest -s -d 50 -a 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -b 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed 
+ 1140  bedtools closest -s -d -a 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -b 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed 
+ 1141  bedtools closest -s -d -a 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -b 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | head -n 20
+ 1142  bedtools closest -s -d -a 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -b 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | cut -d "\t" -f 13 | sort 
+ 1143  bedtools closest -s -d -a 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -b 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | cut -d " " -f 13 | sort 
+ 1144  bedtools closest -s -d -a 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -b 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed > closest.txt
+ 1145  awk 'BEGIN { FS="\t" } { print $13 }' closest.txt 
+ 1146  awk 'BEGIN { FS="\t" } { print $13 }' closest.txt | sort 
+ 1147  awk 'BEGIN { FS="\t" } { print $13 }' closest.txt | sort -d
+ 1148  awk 'BEGIN { FS="\t" } { print $13 }' closest.txt | sort -n
+ 1149  awk 'BEGIN { FS="\t" } { if $13 < 50 {print $13 } else pass}' closest.txt | wc -n
+ 1150  awk 'BEGIN -f \t { if ($13 < 50) {print $13 } else pass}' closest.txt | wc -n
+ 1151  awk 'BEGIN -f \t { if ($13 < 50) {print $13} else {pass}}' closest.txt | wc -n
+ 1152  awk  -f \t '{ if ($13 < 50) {print $13} else {pass}}' closest.txt | wc -n
+ 1153  awk  -F \t '{ if ($13 < 50) {print $13} else {pass}}' closest.txt | wc -n
+ 1154  awk  -F \t '{ if ($13 < 50) {print $13} else {pass}}' closest.txt | wc -l
+ 1155  awk  -F \t '{ if ($13 < 50) {print $13} else {pass}}' closest.txt |
+ 1156  awk  -F \t '{ if ($13 < 50) {print $13} else {pass}}' closest.txt 
+ 1157  awk  -F \t '{ if ($13 < 50) {print $13} else {print}}' closest.txt 
+ 1158  awk -F\t {print $13}
+ 1159  awk -F\t '{print $13}'
+ 1160  awk -F\t '{print $13}' closest.txt 
+ 1161  awk -F "\t" '{print $13}' closest.txt 
+ 1162  awk  -F"\t" '{ if ($13 < 50) {print $13} else {print}}' closest.txt 
+ 1163  awk  -F"\t" '{ if ($13 < 50) {print $13} else {pass}}' closest.txt 
+ 1164  awk  -F"\t" '{ if ($13 < 50) {print $13} else {pass}}' closest.txt | wc -l
+ 1165  awk 
+ 1166  man awk
+ 1167  head closest.txt 
+ 1168  awk  -F"\t" '{ if ($13 > 50) {print $1\t($2+$8)//2\t($3+$9)//2\t$10\t$11\t$12} else {pass}}' closest.txt | head 
+ 1169  awk  -F"\t" '{ if ($13 > 50) {print $1"\t"($2+$8)//2"\t"($3+$9)//2"\t"$10"\t"$11"\t"$12} else {pass}}' closest.txt | head 
+ 1170  awk  -F"\t" '{ if ($13 > 50) {print $1"\t"($2+$8)//2"\t"($3+$9)//2"\t"$10"\t"$11"\t"$12} else {pass}}' closest.txt | wc -l
+ 1171  awk  -F"\t" '{ if ($13 > 49) {print $1"\t"($2+$8)//2"\t"($3+$9)//2"\t"$10"\t"$11"\t"$12} else {pass}}' closest.txt | wc -l
+ 1172  wc -l closest.txt 
+ 1173  bedtools closest -s -d -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed > closest.txt
+ 1174  wc -l closest.txt 
+ 1175  awk  -F"\t" '{ if ($13 < 50) {print $13} else {pass}}' closest.txt | wc -l
+ 1176  wc -l 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed 
+ 1177  wc -l 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed 
+ 1178  bedtools merge -i 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed 
+ 1179  cat 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed  23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed > togheter.txt
+ 1180  wc -l togheter.txt 
+ 1181  sort -k1,1 -k2,2n togheter.txt 
+ 1182  sort -k1,1 -k2,2n togheter.txt > together_sorted.txt
+ 1183  bedtools merge -s together_sorted.txt 
+ 1184  bedtools merge -s -i together_sorted.txt 
+ 1185* bedtools merge -s -i together_sorted.txt | awk 
+ 1186  bedtools merge -s -d -50 -i together_sorted.txt 
+ 1187  bedtools merge -s -d -50 -i together_sorted.txt | wc -l
+ 1188  bedtools merge -s -d 1 -i together_sorted.txt | wc -l
+ 1189  bedtools merge -s -d 50 -i together_sorted.txt | wc -l
+ 1190  had together_sorted.txt 
+ 1191  head together_sorted.txt 
+ 1192  bedtools merge -s -d 50 -i -c 3,4,5 together_sorted.txt | wc -l
+ 1193  bedtools merge -s -d 50 -c 3,4,5 -i together_sorted.txt | wc -l
+ 1194  bedtools merge -s -d 50 -i -c 3,4,5 -o collapse together_sorted.txt | wc -l
+ 1195  bedtools merge -s -d 50 -c 3,4,5  -o collapse -i together_sorted.txt | wc -l
+ 1196  bedtools merge -s -d 50 -c 3,4,5  -o collapse -i together_sorted.txt 
+ 1197  bedtools merge -s -d 50 -c 4,5,6  -o collapse -i together_sorted.txt | head
+ 1198  bedtools merge -s -d 50 -c 4,5,6  -o distinct -i together_sorted.txt | head
+ 1199  bedtools merge -s -d 50 -c 4,5,6  -o distinct -i together_sorted.txt | wc -l
+ 1200  bedtools merge -s -d 50 -c 4,5,6  -o distinct -i together_sorted.txt | awk -F"\t" '{if ($3-$2 > 100) {print}}' 
+ 1201  bedtools merge -s -d 50 -c 4,5,6  -o distinct -i together_sorted.txt | awk -F"\t" '{if ($3-$2 > 100) {print}}' | wc -l
+ 1202  bedtools merge -s -d 50 -c 4,5,6  -o distinct -i together_sorted.txt | awk -F"\t" '{if ($3-$2 > 101) {print}}' | wc -l
+ 1203  wc -l together_sorted.txt 
+ 1204  bedtools merge -s -d 50 -c 4,5,6  -o distinct -i together_sorted.txt | awk -F"\t" '{if ($3-$2 > 101) {print $3-$2}}' | sort -n | head -n 50
+ 1205  bedtools merge -s -d 50 -c 4,5,6  -o distinct -i together_sorted.txt | awk -F"\t" '{if ($3-$2 > 101) {print $3-$2}}' | sort -n | head -n 80
+ 1206  bedtools merge -s -d 50 -c 4,5,6  -o distinct -i together_sorted.txt | awk -F"\t" '{if ($3-$2 > 101) {print $3-$2}}' | sort -n | tail -n 80
+ 1207  bedtools merge -s -d -50 -c 4,5,6  -o distinct -i together_sorted.txt | awk -F"\t" '{if ($3-$2 > 101) {print $3-$2}}' | sort -n | tail -n 50
+ 1208  bedtools merge -s -d -50 -c 4,5,6  -o distinct -i together_sorted.txt | awk -F"\t" '{if ($3-$2 > 101) {print $3-$2}}' | wc -l
+ 1209  bedtools merge -s -d -50 -c 4,5,6  -o distinct -i together_sorted.txt 
+ 1210  bedtools merge -s -d -50 -c 4,5,6  -o distinct -i together_sorted.txt | wc -l
+ 1211  bedtools merge -s -d -50 -c 4,5,6  -o distinct -i together_sorted.txt | awk -F"\t" '{if ($3-$2 > 101) {print $3-$2}}' | tail -n 29
+ 1212  bedtools merge -s -d -50 -c 4,5,6  -o distinct -i together_sorted.txt | awk -F"\t" '{if ($3-$2 > 101) {print $3-$2}}' |sort -n| tail -n 29
+ 1213  bedtools merge -s -d -51 -c 4,5,6  -o distinct -i together_sorted.txt | awk -F"\t" '{if ($3-$2 > 101) {print $3-$2}}' |sort -n| tail -n 29
+ 1214  bedtools merge -s -d -51 -c 4,5,6  -o distinct -i together_sorted.txt | awk -F"\t" '{if ($3-$2 > 101) {print $3-$2}}' |wc -l
+ 1215  bedtools merge -s -d -51 -c 4,5,6  -o distinct -i together_sorted.txt | awk -F"\t" '{if ($3-$2 > 100) {print $3-$2}}' |wc -l
+ 1216  bedtools merge -s -d -51 -c 4,5,6  -o distinct -i together_sorted.txt | awk -F"\t" '{if ($3-$2 > 101) {print $3-$2}}' |wc -l
+ 1217  bedtools merge -s -d -51 -c 4,5,6  -o distinct -i together_sorted.txt 
+ 1218  bedtools merge -s -d -51 -c 4,5,6  -o distinct -i together_sorted.txt | wc -l
+ 1219  wc -l together_sorted.txt 
+ 1220  head closest.txt 
+ 1221  awk  -F"\t" '{ if ($13 > 49) {print}}'
+ 1222  awk  -F"\t" '{ if ($13 > 49) {print}}' closest.txt 
+ 1223  awk  -F"\t" '{ if ($13 > 49) {print}}' closest.txt | wc -l
+ 1224  awk  -F"\t" '{ if ($13 < 49) {print}}' closest.txt | wc -l
+ 1225  awk  -F"\t" '{ if ($13 < 49) {print}}' closest.txt | head
+ 1226  sort --help
+ 1227  awk  -F"\t" '{ if ($13 < 49) {print}}' closest.txt | tail -n 20
+ 1228  awk  -F"\t" '{ if ($13 < 49) {print}}' closest.txt | wc -l
+ 1229  bedtools closest -s -d -a 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -b 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed > closest.txt
+ 1230  awk  -F"\t" '{ if ($13 < 49) {print}}' closest.txt | wc -l
+ 1231  awk  -F"\t" '{ if ($13 < 49) {print $13}}' closest.txt | sort -n | wc -l
+ 1232  awk  -F"\t" '{ if ($13 < 49) {print $13}}' closest.txt | sort -n | head 
+ 1233  awk  -F"\t" '{ if ($13 < 49) {print $13}}' closest.txt | sort -n | tail
+ 1234  awk  -F"\t" '{ if ($13 < 49) {print $13}}' closest.txt | sort -n | tail -n 
+ 1235  awk  -F"\t" '{ if ($13 < 49) {print $13}}' closest.txt | sort -n | tail -n 20
+ 1236  awk  -F"\t" '{ if ($13 < 50) {print $13}}' closest.txt | sort -n | wc -l 
+ 1237  awk  -F"\t" '{ if ($13 < 51) {print $13}}' closest.txt | sort -n | wc -l 
+ 1238  awk  -F"\t" '{ if ($13 < 51) {print $13}}' closest.txt | sort -n | head
+ 1239  bedtools merge -s -d -51 -c 4,5,6  -o distinct -i together_sorted.txt | awk -F"\t" '{if ($3-$2 > 101) {print $3-$2}}' |sort -n
+ 1240  bedtools merge -s -d -51 -c 4,5,6  -o distinct -i together_sorted.txt | awk -F"\t" '{if ($3-$2 > 101) {print $3-$2}}' |sort -n | wc -l
+ 1241  awk  -F"\t" '{ if ($13 < 51) {print $13}}' closest.txt | sort -n | wc -l 
+ 1242  awk  -F"\t" '{ if ($13 < 51) {print $13}}' closest.txt | sort -n 
+ 1243  awk  -F"\t" '{ if ($13 < 51) {print $13}}' closest.txt | sort -n | tail -n 60
+ 1244  awk  -F"\t" '{ if ($13 < 51) {print $13}}' closest.txt | sort -n | tail -n 40
+ 1245  awk  -F"\t" '{ if ($13 < 51) {print $13}}' closest.txt | wc -l
+ 1246  bedtools merge -s -d -51 -c 4,5,6  -o distinct -i together_sorted.txt | awk -F"\t" '{if ($3-$2 > 101) {print $3-$2}}' |sort -n
+ 1247  bedtools merge -s -d -51 -c 4,5,6  -o distinct -i together_sorted.txt | awk -F"\t" '{if ($3-$2 > 101) {print $3-$2}}' |sort -n | wc -l
+ 1248  awk  -F"\t" '{ if ($13 > 49) {print $1"\t"($2+$8)//2"\t"($3+$9)//2"\t"$10"\t"$11"\t"$12} else {pass}}' closest.txt | wc -l
+ 1249  awk  -F"\t" '{ if ($13 < 51) {print $13}}' closest.txt | sort -n | wc -l 
+ 1250  head closest.txt 
+ 1251  awk  -F"\t" '{ if ($13 < 51) {print $13}}' closest.txt | sort -n | wc -l 
+ 1252  awk  -F"\t" '{ if ($13 < 50) {print $13}}' closest.txt | sort -n | wc -l 
+ 1253  awk  -F"\t" '{ if ($13 < 49) {print $13}}' closest.txt | sort -n | wc -l 
+ 1254  bedtools closest -s -d -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed > closest.txt
+ 1255  awk  -F"\t" '{ if ($13 < 49) {print $13}}' closest.txt | sort -n | wc -l 
+ 1256  awk  -F"\t" '{ if ($13 < 49) {print $13}}' closest.txt | sort -n | tail -n 20
+ 1257  awk  -F"\t" '{ if ($13 < 49) {print $13}}' closest.txt | sort -n | tail -n 50
+ 1258  awk  -F"\t" '{ if ($13 < 49) {print $13}}' closest.txt | sort -n | tail -n 30
+ 1259  bedtools closest -s -d -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed > closest.txt
+ 1260  awk  -F"\t" '{ if ($13 < 50) {print $13}}' closest.txt | sort -n | wc -l
+ 1261  bedtools closest -s -d -a 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -b 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed > closest.txt
+ 1262  awk  -F"\t" '{ if ($13 < 50) {print $13}}' closest.txt | sort -n | wc -l
+ 1263  wc -l 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed 
+ 1264  wc -l 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed 
+ 1265  less closest.txt 
+ 1266  bedtools closest -s -d -a 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -b 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | grep SLIV_00795
+ 1267  bedtools closest -s -d -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | grep SLIV_00795
+ 1268  bedtools closest -s -d -mdb all -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | grep SLIV_00795
+ 1269  bedtools closest -s -d -mdb all -a 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -b 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | grep SLIV_00795
+ 1270  bedtools closest -s -d -mdb all -t all -a 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -b 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | grep SLIV_00795
+ 1271  bedtools closest -s -d -mdb all -k 5 -a 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -b 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | grep SLIV_00795
+ 1272  bedtools closest -s -d -mdb all -k 5 -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | grep SLIV_00795
+ 1273  bedtools closest -s -d -mdb all -a 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -b 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | grep 160605
+ 1274  bedtools closest -s -d -mdb all -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | grep 160605
+ 1275  bedtools intersect -s -wo -f 0.5 -r -a 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -b 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | grep 160605
+ 1276  bedtools intersect -s -wo -f 0.5 -r -a 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -b 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed 
+ 1277  bedtools intersect -s -wo -f 0.5 -r -a 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -b 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | wc -l
+ 1278  wc -l 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed 
+ 1279  bedtools intersect -s -wo -f 0.5 -r -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | wc -l
+ 1280  bedtools intersect -s -v -f 0.5 -r -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | wc -l
+ 1281  bedtools intersect -s -v -f 0.5 -r -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | less
+ 1282  bedtools intersect -s -v -f 0.5 -r -a 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -b 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | wc -l 
+ 1283  bedtools intersect -s -v -f 0.5 -r -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed > toKeep.bed
+ 1284  bedtools intersect -s -v -f 0.5 -r -a 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -b 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed >> toKeep.bed
+ 1285  wc -l toKeep.bed 
+ 1286  bedtools intersect -s -wo -f 0.5 -r -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed 
+ 1287  bedtools intersect -s -wo -f 0.5 -r -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | awk -F "\t" '$13 == 101 {print}{next}' | cut -f1-6
+ 1288  bedtools intersect -s -wo -f 0.5 -r -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed 
+ 1289  bedtools intersect -s -wo -f 0.5 -r -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | awk -F "\t" '$13 == 101 {print}{next}' | cut -f1-6 >> toKeep.bed 
+ 1290  wc -l toKeep.bed 
+ 1291  bedtools intersect -s -wo -f 0.5 -r -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | awk -F "\t" '$13 == 101 {print}{next}' | wc -l
+ 1292  bedtools intersect -s -wo -f 0.5 -r -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | awk -F "\t" '$13 != 101 {print}{next}' | wc -l
+ 1293  bedtools intersect -s -wo -f 0.5 -r -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | awk -F "\t" '$13 != 101 {print}{next}' 
+ 1294  bedtools intersect -s -wo -f 0.5 -r -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | awk -F "\t" '$13 != 101 {print ($2+$8)//2 - ($3+$9)//2} {next}' 
+ 1295  bedtools intersect -s -wo -f 0.5 -r -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | awk -F "\t" '$13 != 101 {print (($2+$8)//2) - (($3+$9)//2)} {next}' 
+ 1296  bedtools intersect -s -wo -f 0.5 -r -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | awk -F "\t" '$13 != 101 {print (($2+$8)//2) - (($3+$9)//2))} {next}' 
+ 1297  bedtools intersect -s -wo -f 0.5 -r -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | awk -F "\t" '$13 != 101 {print (($2+$8)//2) - (($3+$9)//2)} {next}' 
+ 1298  bedtools intersect -s -wo -f 0.5 -r -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | awk -F "\t" '$13 != 101 {OFS="\t"; print int(($2+$8)/2) - int (($3+$9)//2)} {next}' 
+ 1299  bedtools intersect -s -wo -f 0.5 -r -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | awk -F "\t" '$13 != 101 {print int(($2+$8)/2) - int(($3+$9)//2)} {next}' 
+ 1300  bedtools intersect -s -wo -f 0.5 -r -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | awk -F "\t" '$13 != 101 {print int(($2+$8)/2) - int(($3+$9)/2)} {next}' 
+ 1301  bedtools intersect -s -wo -f 0.5 -r -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | awk -F "\t" '$13 != 101 {print int(($2+$8)/2) - int(($3+$9)/2)} {next}' | wc -l
+ 1302  bedtools intersect -s -wo -f 0.5 -r -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | awk -F "\t" '$13 != 101 {print $1,int(($2+$8)/2) - int(($3+$9)/2)} {next}' 
+ 1303  bedtools intersect -s -wo -f 0.5 -r -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | awk -F "\t" '$13 != 101 {OFS="\t";print $1,int(($2+$8)/2) - int(($3+$9)/2)} {next}' 
+ 1304  bedtools intersect -s -wo -f 0.5 -r -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | awk -F "\t" '$13 != 101 {OFS="\t";print $1,int(($2+$8)/2), int(($3+$9)/2),$4,$5,$6} {next}' 
+ 1305  bedtools intersect -s -wo -f 0.5 -r -b 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed | awk -F "\t" '$13 != 101 {OFS="\t";print $1,int(($2+$8)/2), int(($3+$9)/2),$4,$5,$6} {next}'  >> toKeep.bed 
+ 1306  wc -l toKeep.bed 
+ 1307  wc -l 13_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed 
+ 1308  less toKeep.bed 
+ 1309  history
+ 1310  bedtools intersect -s -wo -f 0.5 -r -b *_sorted*.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed 
+ 1311  bedtools intersect -s -wao -f 0.5 -r -b *_sorted*.bed -a 23_sorted_StreptomycesLividans_TK24_CP009124.1_100bp.bed 
+ 1312  history > ../history.txt

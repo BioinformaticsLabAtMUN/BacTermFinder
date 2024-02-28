@@ -1,0 +1,1786 @@
+NC_014500.1	4032408	4032509	trkD | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	615038	615139	rbsD | medium | Not found	76.9	+
+NC_014500.1	36112	36213	rbsA | medium+pred | Rho-dependent	23.1	+
+NC_014500.1	2276556	2276657	rbsB | strong | Not found	100.0	+
+NC_014500.1	1359635	1359736	rbsK | medium | Not found	43.1	+
+NC_014500.1	95180	95281	rbsR | medium | Not found	56.9	+
+NC_014500.1	4355104	4355205	mobB | medium | Not found	100.0	-
+NC_014500.1	2726736	2726837	dsbA | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	4812886	4812987	polA | strong | Not found	100.0	+
+NC_014500.1	3678175	3678276	yihA | strong | Not found	100.0	-
+NC_014500.1	4828302	4828403	yihI | medium | Not found	63.6	+
+NC_014500.1	4013380	4013481	hemN | medium+pred | Intrinsic	36.4	+
+NC_014500.1	3725727	3725828	bipA | strong+pred | Intrinsic	100.0	+
+NC_014500.1	952332	952433	yiiD | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3964406	3964507	recG | medium | Not found	2.0	-
+NC_014500.1	1687381	1687482	gmk | medium | Not found	98.0	-
+NC_014500.1	466307	466408	eptB | medium | Not found	54.9	+
+NC_014500.1	3308863	3308964	Dda3937_01135 | medium | Not found	45.1	+
+NC_014500.1	4340828	4340929	Dda3937_01136 | medium | Not found	100.0	+
+NC_014500.1	642471	642572	Dda3937_01137 | medium | Not found	100.0	+
+NC_014500.1	3920245	3920346	Dda3937_01141 | medium+pred | Rho-dependent	43.3	+
+NC_014500.1	1107489	1107590	Dda3937_01142 | medium | Not found	56.7	+
+NC_014500.1	4078462	4078563	Dda3937_01143 | medium | Not found	27.4	+
+NC_014500.1	2224677	2224778	Dda3937_01144 | medium | Not found	72.6	+
+NC_014500.1	2795426	2795527	dsdA | medium+pred | Intrinsic	100.0	-
+NC_014500.1	168130	168231	Dda3937_01148 | medium | Not found	100.0	+
+NC_014500.1	2310352	2310453	Dda3937_01154 | medium | Not found	100.0	+
+NC_014500.1	4421959	4422060	Dda3937_01155 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	4873205	4873306	pitA | strong+pred | Intrinsic	100.0	+
+NC_014500.1	4516260	4516361	uspA | strong+pred | Intrinsic	100.0	+
+NC_014500.1	4449026	4449127	Dda3937_01162 | medium+pred | Intrinsic	100.0	-
+NC_014500.1	342599	342700	yidA | medium | Not found	100.0	+
+NC_014500.1	3548860	3548961	uxuA | medium | Not found	100.0	-
+NC_014500.1	2978194	2978295	Dda3937_02523 | medium | Not found	100.0	+
+NC_014500.1	1936822	1936923	Dda3937_02524 | medium | Not found	100.0	-
+NC_014500.1	1520717	1520818	Dda3937_02526 | medium | Not found	55.8	+
+NC_014500.1	1896993	1897094	Dda3937_02531 | medium | Not found	44.2	+
+NC_014500.1	204298	204399	ibpA | strong | Not found	60.4	+
+NC_014500.1	3401851	3401952	ibpB | strong+pred | Intrinsic	39.6	+
+NC_014500.1	3245783	3245884	ybhI | medium+pred | Intrinsic	100.0	+
+NC_014500.1	1184486	1184587	dcuS | medium | Not found	100.0	+
+NC_014500.1	2350407	2350508	dcuR | strong+pred | Intrinsic	100.0	+
+NC_014500.1	2501522	2501623	dppA | strong | Not found	87.9	+
+NC_014500.1	4258813	4258914	dppF | medium+pred | Intrinsic	12.1	+
+NC_014500.1	557563	557664	eamA | medium | Not found	100.0	+
+NC_014500.1	3645888	3645989	cbsQ | medium | Not found	38.4	+
+NC_014500.1	4894652	4894753	dctA | medium | Not found	61.6	+
+NC_014500.1	3445191	3445292	yhjJ | strong | Not found	100.0	+
+NC_014500.1	3379456	3379557	Dda3937_01998 | medium | Not found	100.0	-
+NC_014500.1	2353881	2353982	dcrB | strong+pred | Rho-dependent	100.0	-
+NC_014500.1	1167431	1167532	yhhS | medium | Not found	43.7	+
+NC_014500.1	2672812	2672913	yhhL | strong | Not found	100.0	-
+NC_014500.1	1740111	1740212	Dda3937_02009 | medium | Not found	56.3	+
+NC_014500.1	4667123	4667224	yhhK | strong+pred | Intrinsic	100.0	-
+NC_014500.1	3121239	3121340	rpoH | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	3394534	3394635	livK | strong | Not found	100.0	+
+NC_014500.1	1247035	1247136	livF | strong | Not found	25.8	+
+NC_014500.1	747746	747847	Dda3937_02022 | medium | Not found	74.2	+
+NC_014500.1	4798651	4798752	Dda3937_02024 | strong | Not found	100.0	+
+NC_014500.1	1337581	1337682	Dda3937_02027 | medium+pred | Rho-dependent	100.0	-
+NC_014500.1	2836707	2836808	Dda3937_02028 | strong+pred | Intrinsic	100.0	-
+NC_014500.1	1436491	1436592	ugpB | medium | Not found	100.0	+
+NC_014500.1	4287745	4287846	ugpE | medium | Not found	100.0	+
+NC_014500.1	4287126	4287227	ugpQ | medium | Not found	66.9	+
+NC_014500.1	4680497	4680598	yhhA | strong | Not found	100.0	-
+NC_014500.1	3679625	3679726	Dda3937_03046 | medium | Not found	33.1	+
+NC_014500.1	2220776	2220877	yibK | medium | Not found	32.0	+
+NC_014500.1	2376175	2376276	Dda3937_03049 | medium | Not found	68.0	+
+NC_014500.1	2540916	2541017	cpxP | medium+pred | Intrinsic	100.0	+
+NC_014500.1	1283436	1283537	Dda3937_03055 | medium | Not found	100.0	-
+NC_014500.1	4912499	4912600	Dda3937_03058 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	4415752	4415853	Dda3937_04433 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	1569922	1570023	Dda3937_04434 | medium | Not found	100.0	+
+NC_014500.1	2514976	2515077	Dda3937_03863 | medium | Not found	31.0	+
+NC_014500.1	1675620	1675721	Dda3937_03865 | medium | Not found	69.0	+
+NC_014500.1	3765407	3765508	pfkA | strong+pred | Intrinsic	97.2	+
+NC_014500.1	3055373	3055474	Dda3937_03869 | medium+pred | Intrinsic	2.8	+
+NC_014500.1	4062890	4062991	tpiA | strong+pred | Intrinsic	100.0	-
+NC_014500.1	88185	88286	fpr | strong | Not found	100.0	-
+NC_014500.1	931558	931659	yiiR | medium | Not found	100.0	+
+NC_014500.1	543255	543356	yiiU | medium | Not found	100.0	+
+NC_014500.1	2479022	2479123	hslV | medium | Not found	100.0	-
+NC_014500.1	654229	654330	priA | medium | Not found	100.0	-
+NC_014500.1	599243	599344	rpmE | strong+pred | Intrinsic	77.1	+
+NC_014500.1	1515255	1515356	metF | strong+pred | Intrinsic	18.1	+
+NC_014500.1	125381	125482	oxyR | medium+pred | Intrinsic	4.8	+
+NC_014500.1	3121460	3121561	fabR | medium | Not found	49.3	+
+NC_014500.1	3353739	3353840	yijD | medium | Not found	50.7	+
+NC_014500.1	4362244	4362345	rplJ | strong | Not found	31.8	+
+NC_014500.1	1097478	1097579	rplL | strong+pred | Intrinsic	53.1	+
+NC_014500.1	38420	38521	rpoC | strong+pred | Intrinsic	15.1	+
+NC_014500.1	2941037	2941138	Dda3937_04438 | medium | Not found	100.0	+
+NC_014500.1	4733435	4733536	Dda3937_00222 | strong | Not found	99.0	+
+NC_014500.1	1221720	1221821	yjiR | medium+pred | Rho-dependent	1.0	+
+NC_014500.1	437438	437539	Dda3937_00228 | medium | Not found	60.2	+
+NC_014500.1	3560825	3560926	Dda3937_00229 | medium | Not found	39.8	+
+NC_014500.1	1950890	1950991	rsd | medium+pred | Intrinsic	100.0	-
+NC_014500.1	3554588	3554689	nudC | medium | Not found	65.8	+
+NC_014500.1	993543	993644	yjaG | medium | Not found	34.2	+
+NC_014500.1	1928561	1928662	hupA | strong+pred | Intrinsic	100.0	+
+NC_014500.1	853854	853955	yjaH | medium | Not found	100.0	+
+NC_014500.1	3601255	3601356	Dda3937_04441 | medium | Not found	100.0	-
+NC_014500.1	1664938	1665039	Dda3937_01579 | strong+pred | Rho-dependent	100.0	-
+NC_014500.1	4184828	4184929	Dda3937_01582 | strong+pred | Rho-dependent	95.3	+
+NC_014500.1	1679100	1679201	Dda3937_01583 | medium | Not found	4.7	+
+NC_014500.1	1387547	1387648	Dda3937_01585 | medium | Not found	18.0	+
+NC_014500.1	1049456	1049557	Dda3937_01586 | medium | Not found	46.9	+
+NC_014500.1	179144	179245	yahK | medium+pred | Intrinsic	35.1	+
+NC_014500.1	2967757	2967858	Dda3937_01589 | medium+pred | Rho-dependent	30.9	+
+NC_014500.1	4869540	4869641	Dda3937_04442 | medium | Not found	47.1	+
+NC_014500.1	911275	911376	Dda3937_01592 | medium | Not found	22.0	+
+NC_014500.1	2082187	2082288	Dda3937_01593 | medium | Not found	31.0	+
+NC_014500.1	3288730	3288831	Dda3937_01594 | medium+pred | Intrinsic	69.0	+
+NC_014500.1	2393567	2393668	dusB | medium | Not found	100.0	-
+NC_014500.1	3165972	3166073	yhdH | strong | Not found	100.0	-
+NC_014500.1	1408572	1408673	csrD | medium | Not found	100.0	+
+NC_014500.1	2863052	2863153	mreB | strong | Not found	81.2	+
+NC_014500.1	534821	534922	yhdP | strong | Not found	18.8	+
+NC_014500.1	851495	851596	tldD | strong+pred | Intrinsic	100.0	+
+NC_014500.1	792594	792695	aaeA | medium | Not found	100.0	+
+NC_014500.1	3454969	3455070	aaeB | medium | Not found	100.0	+
+NC_014500.1	3352029	3352130	rnk | strong | Not found	100.0	-
+NC_014500.1	2626450	2626551	pmbA | strong | Not found	100.0	+
+NC_014500.1	1354269	1354370	rpoN | medium | Not found	100.0	-
+NC_014500.1	2171745	2171846	mlaE | medium | Not found	19.1	+
+NC_014500.1	3251424	3251525	mlaC | strong | Not found	80.9	+
+NC_014500.1	3880732	3880833	mlaB | strong+pred | Intrinsic	67.8	+
+NC_014500.1	2036130	2036231	murA | strong | Not found	32.2	+
+NC_014500.1	2817924	2818025	yhcM | medium | Not found	100.0	+
+NC_014500.1	521927	522028	rpsI | strong+pred | Intrinsic	100.0	+
+NC_014500.1	4869168	4869269	sspA | strong+pred | Intrinsic	29.8	+
+NC_014500.1	1384532	1384633	sspB | strong+pred | Intrinsic	59.6	+
+NC_014500.1	3963205	3963306	Dda3937_00707 | medium+pred | Intrinsic	10.5	+
+NC_014500.1	2864334	2864435	gltD | strong+pred | Intrinsic	100.0	-
+NC_014500.1	2774987	2775088	yhcC | medium | Not found	100.0	+
+NC_014500.1	168808	168909	arcB_1 | medium | Not found	100.0	+
+NC_014500.1	1075562	1075663	elbB | medium | Not found	26.0	+
+NC_014500.1	1374204	1374305	Dda3937_00716 | medium | Not found	74.0	+
+NC_014500.1	2749613	2749714	rsmI | medium | Not found	100.0	+
+NC_014500.1	1585738	1585839	Dda3937_00722 | medium | Not found	55.3	+
+NC_014500.1	2656390	2656491	ygiD | medium | Not found	44.7	+
+NC_014500.1	397048	397149	nudF | medium | Not found	21.1	+
+NC_014500.1	4400696	4400797	yqiB | medium | Not found	78.9	+
+NC_014500.1	2850982	2851083	cpdA | medium | Not found	24.8	+
+NC_014500.1	538523	538624	yqiA | strong | Not found	75.2	+
+NC_014500.1	2973309	2973410	parE | medium | Not found	50.1	+
+NC_014500.1	4208333	4208434	mdaB | strong | Not found	100.0	-
+NC_014500.1	3632129	3632230	parC | strong+pred | Intrinsic	23.2	+
+NC_014500.1	1050164	1050265	sufI | medium | Not found	26.8	+
+NC_014500.1	4140711	4140812	yqhC | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	2015126	2015227	exbD | strong+pred | Intrinsic	100.0	+
+NC_014500.1	1666276	1666377	Dda3937_01264 | medium+pred | Intrinsic	100.0	-
+NC_014500.1	1524133	1524234	Dda3937_01270 | medium | Not found	88.6	+
+NC_014500.1	1962547	1962648	yhbP | medium+pred | Rho-dependent	11.4	+
+NC_014500.1	224301	224402	Dda3937_01275 | medium | Not found	31.3	+
+NC_014500.1	1535550	1535651	Dda3937_01278 | medium | Not found	68.7	+
+NC_014500.1	4624805	4624906	iaaH | medium | Not found	100.0	+
+NC_014500.1	315349	315450	Dda3937_01281 | medium | Not found	100.0	+
+NC_014500.1	2172781	2172882	yjgF | strong+pred | Intrinsic	45.8	-
+NC_014500.1	4471706	4471807	pyrB | medium+pred | Rho-dependent	54.2	-
+NC_014500.1	1443844	1443945	yjgK | strong | Not found	100.0	+
+NC_014500.1	1372505	1372606	bglA | medium+pred | Intrinsic	100.0	+
+NC_014500.1	3008414	3008515	rraB | strong+pred | Intrinsic	100.0	+
+NC_014500.1	976242	976343	yedL | medium | Not found	100.0	+
+NC_014500.1	2111724	2111825	Dda3937_01292 | medium+pred | Intrinsic	96.2	+
+NC_014500.1	2197616	2197717	Dda3937_01293 | medium | Not found	3.8	+
+NC_014500.1	4075601	4075702	Dda3937_01295 | medium | Not found	100.0	-
+NC_014500.1	4361945	4362046	valS | strong+pred | Intrinsic	100.0	-
+NC_014500.1	3534955	3535056	yjgP | strong | Not found	32.3	+
+NC_014500.1	1222261	1222362	yjgQ | strong+pred | Intrinsic	65.1	+
+NC_014500.1	4364687	4364788	Dda3937_01301 | medium | Not found	2.5	+
+NC_014500.1	3182269	3182370	Dda3937_01305 | medium+pred | Intrinsic	59.2	+
+NC_014500.1	2776415	2776516	Dda3937_01307 | medium | Not found	40.8	+
+NC_014500.1	2455505	2455606	Dda3937_01310 | medium | Not found	100.0	-
+NC_014500.1	535280	535381	Dda3937_01313 | medium | Not found	4.7	-
+NC_014500.1	3113260	3113361	Dda3937_01315 | medium+pred | Rho-dependent	95.3	-
+NC_014500.1	3915552	3915653	Dda3937_01321 | medium | Not found	37.5	+
+NC_014500.1	18979	19080	Dda3937_01322 | medium | Not found	62.5	+
+NC_014500.1	4040513	4040614	yebQ | medium | Not found	100.0	+
+NC_014500.1	464158	464259	Dda3937_01328 | medium | Not found	71.6	+
+NC_014500.1	3687040	3687141	Dda3937_01329 | medium | Not found	28.4	+
+NC_014500.1	16874	16975	Dda3937_01336 | medium | Not found	25.5	+
+NC_014500.1	331850	331951	Dda3937_01337 | medium | Not found	20.5	+
+NC_014500.1	4885343	4885444	Dda3937_01341 | medium | Not found	54.0	+
+NC_014500.1	2475344	2475445	Dda3937_01347 | medium | Not found	100.0	+
+NC_014500.1	4111495	4111596	Dda3937_01351 | medium | Not found	100.0	+
+NC_014500.1	3431397	3431498	Dda3937_02864 | medium | Not found	100.0	+
+NC_014500.1	746678	746779	Dda3937_02865 | medium | Not found	71.7	+
+NC_014500.1	1770424	1770525	Dda3937_02866 | medium | Not found	28.3	+
+NC_014500.1	2025038	2025139	Dda3937_02869 | medium | Not found	100.0	-
+NC_014500.1	955622	955723	yedJ | medium | Not found	47.1	+
+NC_014500.1	1696416	1696517	Dda3937_02871 | medium | Not found	52.9	+
+NC_014500.1	4060028	4060129	rhaS | medium | Not found	87.4	+
+NC_014500.1	4216666	4216767	rhaR | medium | Not found	12.6	+
+NC_014500.1	1469509	1469610	Dda3937_04456 | medium | Not found	41.2	+
+NC_014500.1	4369459	4369560	Dda3937_02685 | medium | Not found	58.8	+
+NC_014500.1	769475	769576	zapA | strong | Not found	100.0	+
+NC_014500.1	4778664	4778765	ygfA | medium | Not found	100.0	+
+NC_014500.1	4424694	4424795	smp | medium | Not found	100.0	+
+NC_014500.1	4509430	4509531	prfC | strong | Not found	100.0	+
+NC_014500.1	1766498	1766599	osmY | medium+pred | Intrinsic	49.1	+
+NC_014500.1	3238481	3238582	yjbJ | medium | Not found	47.9	+
+NC_014500.1	3128116	3128217	Dda3937_02667 | medium | Not found	2.9	+
+NC_014500.1	513705	513806	Dda3937_02665 | strong | Not found	99.3	+
+NC_014500.1	3599465	3599566	Dda3937_02663 | strong+pred | Intrinsic	100.0	-
+NC_014500.1	2320783	2320884	Dda3937_02661 | medium | Not found	0.7	+
+NC_014500.1	2286634	2286735	Dda3937_02659 | medium | Not found	36.3	+
+NC_014500.1	4034824	4034925	Dda3937_02658 | strong | Not found	47.1	+
+NC_014500.1	372078	372179	Dda3937_02657 | medium | Not found	16.6	+
+NC_014500.1	3013858	3013959	ahpC | strong+pred | Intrinsic	97.7	+
+NC_014500.1	1868700	1868801	ahpF | medium+pred | Intrinsic	2.3	+
+NC_014500.1	4848378	4848479	wbbJ | medium | Not found	100.0	+
+NC_014500.1	4381508	4381609	zntR | medium | Not found	100.0	+
+NC_014500.1	610915	611016	Dda3937_02695 | medium | Not found	100.0	+
+NC_014500.1	3555319	3555420	Dda3937_02696 | medium | Not found	31.3	+
+NC_014500.1	3228925	3229026	Dda3937_02697 | medium | Not found	22.3	+
+NC_014500.1	2613894	2613995	Dda3937_02699 | medium | Not found	43.6	+
+NC_014500.1	1860926	1861027	Dda3937_02700 | medium | Not found	2.8	+
+NC_014500.1	1314324	1314425	Dda3937_02702 | strong | Not found	100.0	+
+NC_014500.1	4039535	4039636	Dda3937_02704 | medium | Not found	20.9	+
+NC_014500.1	4725342	4725443	Dda3937_02705 | medium | Not found	79.1	+
+NC_014500.1	257276	257377	Dda3937_02706 | medium | Not found	100.0	-
+NC_014500.1	1962917	1963018	aspA | strong | Not found	100.0	-
+NC_014500.1	995455	995556	groL | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3741702	3741803	plsB | strong | Not found	100.0	-
+NC_014500.1	948461	948562	ubiA | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	3528084	3528185	lexA | medium | Not found	63.3	+
+NC_014500.1	4492638	4492739	zur | medium | Not found	100.0	-
+NC_014500.1	4851205	4851306	yhaK | medium | Not found	100.0	-
+NC_014500.1	731001	731102	yhaJ | medium+pred | Intrinsic	36.7	+
+NC_014500.1	1479878	1479979	exuT | medium | Not found	100.0	-
+NC_014500.1	2500599	2500700	uxaC | strong | Not found	97.3	+
+NC_014500.1	826166	826267	ygjV | medium | Not found	2.7	+
+NC_014500.1	1057910	1058011	rlmG | medium | Not found	40.2	+
+NC_014500.1	3264323	3264424	Dda3937_03552 | strong | Not found	59.8	+
+NC_014500.1	1625438	1625539	Dda3937_03551 | medium | Not found	100.0	+
+NC_014500.1	4767530	4767631	uhpA | medium | Not found	81.1	+
+NC_014500.1	4259435	4259536	uhpC | medium | Not found	18.9	+
+NC_014500.1	1714171	1714272	uhpT | strong | Not found	53.5	+
+NC_014500.1	2014436	2014537	spy | medium+pred | Intrinsic	46.5	+
+NC_014500.1	427739	427840	yojL | medium | Not found	100.0	+
+NC_014500.1	1328039	1328140	Dda3937_03543 | medium | Not found	100.0	+
+NC_014500.1	4872927	4873028	Dda3937_03542 | medium | Not found	100.0	+
+NC_014500.1	771264	771365	Dda3937_03540 | medium | Not found	100.0	+
+NC_014500.1	2854643	2854744	Dda3937_03535 | medium | Not found	100.0	+
+NC_014500.1	1426891	1426992	rpoD | strong+pred | Rho-dependent	0.8	-
+NC_014500.1	191615	191716	dnaG | medium | Not found	99.2	-
+NC_014500.1	3450231	3450332	tsaD | medium | Not found	100.0	+
+NC_014500.1	2249989	2250090	mdh | strong+pred | Intrinsic	99.6	+
+NC_014500.1	3632200	3632301	Dda3937_03526 | medium | Not found	0.4	+
+NC_014500.1	1006920	1007021	rplU | strong | Not found	46.5	+
+NC_014500.1	2324377	2324478	rpmA | strong+pred | Intrinsic	46.0	+
+NC_014500.1	3961408	3961509	obgE | strong+pred | Intrinsic	7.5	+
+NC_014500.1	3706982	3707083	greA | medium+pred | Intrinsic	100.0	+
+NC_014500.1	4784278	4784379	rpsO | strong+pred | Intrinsic	94.2	+
+NC_014500.1	576523	576624	deaD | strong+pred | Intrinsic	5.8	+
+NC_014500.1	3271813	3271914	yhbS | strong+pred | Intrinsic	45.0	+
+NC_014500.1	3109198	3109299	deoA | medium | Not found	17.2	+
+NC_014500.1	399837	399938	deoB | medium | Not found	29.7	+
+NC_014500.1	2251563	2251664	deoD | medium | Not found	8.1	+
+NC_014500.1	565424	565525	Dda3937_02324 | medium+pred | Rho-dependent	100.0	-
+NC_014500.1	4155163	4155264	Dda3937_02320 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	1263989	1264090	yjjT | medium | Not found	100.0	+
+NC_014500.1	3468131	3468232	yhjC | medium | Not found	100.0	+
+NC_014500.1	861418	861519	Dda3937_02313 | strong+pred | Rho-dependent	100.0	-
+NC_014500.1	4340124	4340225	budA | strong | Not found	17.9	+
+NC_014500.1	2917662	2917763	budB | medium | Not found	82.1	+
+NC_014500.1	3831932	3832033	gcvH | strong+pred | Intrinsic	77.9	+
+NC_014500.1	4028804	4028905	gcvP | strong+pred | Intrinsic	22.1	+
+NC_014500.1	738800	738901	Dda3937_02304 | strong | Not found	100.0	-
+NC_014500.1	2732591	2732692	Dda3937_02305 | strong | Not found	100.0	+
+NC_014500.1	4621872	4621973	ygfZ | strong | Not found	100.0	-
+NC_014500.1	51474	51575	yqfA | medium | Not found	24.9	+
+NC_014500.1	2059080	2059181	ygfY | strong | Not found	60.1	+
+NC_014500.1	4858680	4858781	ygfX | strong | Not found	15.0	+
+NC_014500.1	3941854	3941955	fldB | strong | Not found	100.0	-
+NC_014500.1	2257635	2257736	xerD | strong | Not found	100.0	+
+NC_014500.1	383462	383563	dsbC | strong | Not found	100.0	+
+NC_014500.1	1771950	1772051	recJ | strong+pred | Intrinsic	22.0	+
+NC_014500.1	3766925	3767026	lysS | strong+pred | Intrinsic	78.0	+
+NC_014500.1	2605809	2605910	Dda3937_02290 | medium | Not found	100.0	-
+NC_014500.1	4045362	4045463	Dda3937_02286 | medium | Not found	34.9	+
+NC_014500.1	1964130	1964231	Dda3937_02285 | medium | Not found	55.8	+
+NC_014500.1	4832177	4832278	Dda3937_02284 | medium | Not found	9.4	+
+NC_014500.1	904987	905088	Dda3937_02282 | medium | Not found	66.5	+
+NC_014500.1	845636	845737	Dda3937_02278 | medium | Not found	33.5	+
+NC_014500.1	2963479	2963580	Dda3937_02275 | medium | Not found	100.0	+
+NC_014500.1	2776494	2776595	Dda3937_02273 | medium+pred | Intrinsic	32.5	+
+NC_014500.1	32370	32471	Dda3937_02272 | medium | Not found	67.5	+
+NC_014500.1	4167106	4167207	Dda3937_02266 | strong | Not found	100.0	+
+NC_014500.1	2482513	2482614	yjcD | medium+pred | Intrinsic	100.0	+
+NC_014500.1	3288932	3289033	yjcE | medium | Not found	100.0	+
+NC_014500.1	3042143	3042244	rsmC | strong | Not found	93.0	+
+NC_014500.1	1234243	1234344	Dda3937_04467 | medium | Not found	7.0	+
+NC_014500.1	3749874	3749975	Dda3937_01164 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	3283185	3283286	Dda3937_01165 | strong | Not found	22.2	+
+NC_014500.1	2027424	2027525	Dda3937_01167 | strong | Not found	77.8	+
+NC_014500.1	2482801	2482902	togT | strong+pred | Rho-dependent	100.0	-
+NC_014500.1	2928696	2928797	Dda3937_01170 | medium | Not found	100.0	+
+NC_014500.1	1323232	1323333	ybiS | strong+pred | Rho-dependent	39.5	-
+NC_014500.1	1861253	1861354	Dda3937_01176 | strong | Not found	60.5	-
+NC_014500.1	3934467	3934568	Dda3937_01177 | strong | Not found	91.0	+
+NC_014500.1	4501527	4501628	Dda3937_01178 | strong | Not found	9.0	+
+NC_014500.1	2737039	2737140	ynfC | medium | Not found	100.0	+
+NC_014500.1	1059769	1059870	Dda3937_01185 | strong | Not found	100.0	+
+NC_014500.1	1445674	1445775	Dda3937_01189 | medium | Not found	100.0	+
+NC_014500.1	1780457	1780558	Dda3937_01192 | medium | Not found	100.0	+
+NC_014500.1	3922412	3922513	Dda3937_01197 | medium | Not found	32.2	+
+NC_014500.1	3552896	3552997	Dda3937_01198 | medium | Not found	67.8	+
+NC_014500.1	2013465	2013566	Dda3937_01210 | medium | Not found	73.3	+
+NC_014500.1	2305741	2305842	Dda3937_01211 | medium | Not found	26.7	+
+NC_014500.1	1986228	1986329	Dda3937_01214 | medium | Not found	54.8	+
+NC_014500.1	4756006	4756107	Dda3937_01215 | medium | Not found	45.2	+
+NC_014500.1	2219095	2219196	Dda3937_01216 | medium | Not found	100.0	+
+NC_014500.1	3794189	3794290	Dda3937_01219 | medium | Not found	100.0	+
+NC_014500.1	830889	830990	Dda3937_01220 | medium | Not found	100.0	-
+NC_014500.1	3799371	3799472	Dda3937_01227 | medium | Not found	100.0	+
+NC_014500.1	2378948	2379049	Dda3937_01228 | medium | Not found	48.2	+
+NC_014500.1	1696121	1696222	Dda3937_04473 | medium | Not found	40.9	+
+NC_014500.1	269680	269781	Dda3937_01703 | medium | Not found	10.9	+
+NC_014500.1	1046637	1046738	Dda3937_01704 | medium | Not found	100.0	+
+NC_014500.1	3660864	3660965	yfjY | medium | Not found	100.0	+
+NC_014500.1	2446914	2447015	Dda3937_01709 | medium | Not found	80.5	+
+NC_014500.1	43648	43749	Dda3937_01710 | medium | Not found	19.5	+
+NC_014500.1	191090	191191	Dda3937_01711 | medium+pred | Rho-dependent	99.4	+
+NC_014500.1	3554516	3554617	Dda3937_01712 | medium | Not found	0.6	+
+NC_014500.1	307965	308066	Dda3937_04475 | medium | Not found	100.0	+
+NC_014500.1	953226	953327	Dda3937_01718 | medium | Not found	100.0	+
+NC_014500.1	1495186	1495287	Dda3937_01719 | medium | Not found	39.0	+
+NC_014500.1	2389616	2389717	Dda3937_01720 | medium | Not found	37.9	+
+NC_014500.1	2151647	2151748	Dda3937_01724 | medium | Not found	23.1	+
+NC_014500.1	625063	625164	Dda3937_01730 | strong | Not found	100.0	-
+NC_014500.1	1483183	1483284	Dda3937_01729 | medium | Not found	100.0	+
+NC_014500.1	3523305	3523406	Dda3937_01731 | medium | Not found	100.0	+
+NC_014500.1	2029710	2029811	Dda3937_01733 | medium | Not found	50.0	+
+NC_014500.1	3767521	3767622	Dda3937_01735 | medium | Not found	50.0	+
+NC_014500.1	4003477	4003578	Dda3937_01745 | medium | Not found	100.0	+
+NC_014500.1	4061994	4062095	Dda3937_01750 | medium | Not found	47.4	+
+NC_014500.1	793846	793947	Dda3937_04478 | medium | Not found	45.8	+
+NC_014500.1	3134002	3134103	Dda3937_04479 | medium | Not found	6.8	+
+NC_014500.1	1926428	1926529	Dda3937_01753 | medium | Not found	100.0	-
+NC_014500.1	124267	124368	Dda3937_01756 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	2432652	2432753	hcpA | strong | Not found	100.0	-
+NC_014500.1	3111941	3112042	Dda3937_01766 | medium | Not found	18.4	+
+NC_014500.1	3128208	3128309	Dda3937_01767 | medium | Not found	75.4	+
+NC_014500.1	1061459	1061560	Dda3937_01768 | medium | Not found	6.1	+
+NC_014500.1	1797816	1797917	Dda3937_01770 | medium | Not found	100.0	+
+NC_014500.1	4185983	4186084	Dda3937_01771 | medium | Not found	100.0	+
+NC_014500.1	2723182	2723283	Dda3937_02573 | medium | Not found	100.0	+
+NC_014500.1	4193899	4194000	Dda3937_02566 | medium | Not found	66.7	+
+NC_014500.1	422763	422864	Dda3937_02562 | medium | Not found	33.3	+
+NC_014500.1	2364161	2364262	Dda3937_02560 | medium | Not found	58.0	+
+NC_014500.1	180245	180346	Dda3937_02558 | medium | Not found	42.0	+
+NC_014500.1	2088279	2088380	Dda3937_02556 | medium | Not found	100.0	+
+NC_014500.1	2631248	2631349	Dda3937_02554 | medium | Not found	39.5	+
+NC_014500.1	2612349	2612450	Dda3937_02553 | medium+pred | Intrinsic	60.5	+
+NC_014500.1	1072030	1072131	smpB | medium | Not found	100.0	-
+NC_014500.1	268196	268297	yfjF | medium | Not found	100.0	+
+NC_014500.1	3572000	3572101	smpA | strong+pred | Intrinsic	100.0	-
+NC_014500.1	1753029	1753130	grpE | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	4684710	4684811	mntH | strong | Not found	85.5	+
+NC_014500.1	1799415	1799516	yffH | medium+pred | Intrinsic	14.5	+
+NC_014500.1	3532311	3532412	maeB | medium+pred | Intrinsic	100.0	+
+NC_014500.1	661565	661666	ypeA | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	3882126	3882227	Dda3937_01403 | strong | Not found	42.2	+
+NC_014500.1	1712228	1712329	yfeY | strong | Not found	35.0	+
+NC_014500.1	268242	268343	Dda3937_01408 | medium+pred | Intrinsic	22.8	+
+NC_014500.1	1510624	1510725	Dda3937_01410 | medium | Not found	25.0	+
+NC_014500.1	3407396	3407497	Dda3937_01411 | medium | Not found	25.8	+
+NC_014500.1	4827193	4827294	Dda3937_01412 | medium+pred | Intrinsic	49.1	+
+NC_014500.1	2491392	2491493	yfeX | strong+pred | Intrinsic	96.7	+
+NC_014500.1	4588950	4589051	Dda3937_01415 | medium+pred | Rho-dependent	3.3	+
+NC_014500.1	4115990	4116091	Dda3937_01417 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	3672357	3672458	Dda3937_01421 | medium | Not found	32.5	+
+NC_014500.1	266955	267056	Dda3937_01422 | medium | Not found	67.5	+
+NC_014500.1	4255506	4255607	Dda3937_01424 | medium | Not found	100.0	+
+NC_014500.1	415584	415685	crr | strong+pred | Intrinsic	15.0	-
+NC_014500.1	2349394	2349495	cysK | strong+pred | Intrinsic	85.0	-
+NC_014500.1	1398351	1398452	zipA | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3513351	3513452	ribB | strong+pred | Intrinsic	100.0	+
+NC_014500.1	2578493	2578594	ygaA | medium | Not found	100.0	+
+NC_014500.1	2429439	2429540	Dda3937_01439 | medium | Not found	100.0	-
+NC_014500.1	4744306	4744407	Dda3937_01440 | medium | Not found	100.0	+
+NC_014500.1	3749291	3749392	alkB | medium | Not found	100.0	+
+NC_014500.1	2133214	2133315	nrfC | medium | Not found	100.0	-
+NC_014500.1	4691180	4691281	Dda3937_01450 | medium | Not found	100.0	+
+NC_014500.1	934508	934609	Dda3937_01459 | strong+pred | Intrinsic	100.0	+
+NC_014500.1	2425400	2425501	queF | strong | Not found	100.0	-
+NC_014500.1	3121258	3121359	Dda3937_01461 | medium | Not found	100.0	+
+NC_014500.1	413785	413886	rhiE | medium | Not found	100.0	-
+NC_014500.1	34959	35060	yqhA | strong+pred | Intrinsic	97.4	+
+NC_014500.1	2383462	2383563	Dda3937_01467 | medium | Not found	2.6	+
+NC_014500.1	3096297	3096398	Dda3937_01469 | strong | Not found	27.7	-
+NC_014500.1	3996934	3997035	Dda3937_01470 | strong | Not found	72.3	-
+NC_014500.1	3182617	3182718	Dda3937_01471 | medium | Not found	87.4	+
+NC_014500.1	4605239	4605340	Dda3937_01472 | medium | Not found	12.6	+
+NC_014500.1	974646	974747	Dda3937_01474 | medium | Not found	100.0	+
+NC_014500.1	3272730	3272831	ytfH | medium | Not found	27.9	+
+NC_014500.1	3415473	3415574	Dda3937_01477 | medium | Not found	35.1	+
+NC_014500.1	4090980	4091081	Dda3937_01482 | medium | Not found	19.7	+
+NC_014500.1	300076	300177	Dda3937_01485 | medium | Not found	17.3	+
+NC_014500.1	1324287	1324388	Dda3937_01486 | strong | Not found	99.1	+
+NC_014500.1	4627108	4627209	Dda3937_01489 | medium | Not found	0.9	+
+NC_014500.1	4348627	4348728	Dda3937_04031 | medium | Not found	44.6	+
+NC_014500.1	528636	528737	Dda3937_04032 | medium | Not found	55.4	+
+NC_014500.1	1669987	1670088	Dda3937_03633 | medium | Not found	100.0	+
+NC_014500.1	3727213	3727314	Dda3937_03407 | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3160080	3160181	speC | medium+pred | Intrinsic	100.0	+
+NC_014500.1	2925387	2925488	Dda3937_03403 | medium | Not found	100.0	+
+NC_014500.1	1463534	1463635	ansP | medium | Not found	100.0	-
+NC_014500.1	3077292	3077393	yggL | strong | Not found	69.8	+
+NC_014500.1	4461385	4461486	yggN | medium | Not found	30.1	+
+NC_014500.1	293184	293285	Dda3937_03393 | medium | Not found	0.1	+
+NC_014500.1	1328583	1328684	nudH | strong | Not found	89.2	+
+NC_014500.1	158441	158542	ptsP | medium | Not found	10.8	+
+NC_014500.1	3974921	3975022	lgt | medium | Not found	24.6	+
+NC_014500.1	4235281	4235382	thyA | strong+pred | Intrinsic	75.4	+
+NC_014500.1	4507755	4507856	Dda3937_00854 | medium | Not found	26.6	+
+NC_014500.1	258815	258916	ppdC | medium | Not found	73.4	+
+NC_014500.1	249131	249232	ptr | medium | Not found	100.0	+
+NC_014500.1	1585443	1585544	amiC | medium+pred | Intrinsic	39.2	+
+NC_014500.1	1366092	1366193	mltA | medium | Not found	60.8	+
+NC_014500.1	3783860	3783961	tcdA | medium | Not found	100.0	+
+NC_014500.1	1216080	1216181	ygdD | medium | Not found	49.1	+
+NC_014500.1	4507848	4507949	ygdE | medium | Not found	50.9	+
+NC_014500.1	3210073	3210174	syd | medium | Not found	65.8	+
+NC_014500.1	4107218	4107319	truC | medium | Not found	34.2	+
+NC_014500.1	1455402	1455503	yqcA | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3512120	3512221	yaeH | strong+pred | Intrinsic	100.0	-
+NC_014500.1	2421303	2421404	tsf | strong | Not found	50.4	+
+NC_014500.1	568746	568847	hlpA | strong | Not found	49.4	+
+NC_014500.1	1715290	1715391	rof | strong+pred | Rho-dependent	6.8	-
+NC_014500.1	3531975	3532076	Dda3937_01896 | strong | Not found	93.2	-
+NC_014500.1	482606	482707	yaeQ | medium | Not found	0.2	+
+NC_014500.1	3523703	3523804	cutF | medium+pred | Intrinsic	100.0	+
+NC_014500.1	1267984	1268085	ybcL | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	776777	776878	Dda3937_01907 | medium | Not found	100.0	+
+NC_014500.1	3334345	3334446	Dda3937_01912 | medium | Not found	100.0	+
+NC_014500.1	150116	150217	phnA | strong | Not found	100.0	+
+NC_014500.1	252716	252817	Dda3937_01920 | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	2927111	2927212	Dda3937_01922 | medium | Not found	37.9	+
+NC_014500.1	1935322	1935423	Dda3937_01923 | medium | Not found	62.1	+
+NC_014500.1	4773923	4774024	Dda3937_01926 | medium | Not found	100.0	+
+NC_014500.1	2841540	2841641	yaiE | strong+pred | Intrinsic	100.0	+
+NC_014500.1	428493	428594	Dda3937_01934 | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	3775751	3775852	yaiD | medium | Not found	100.0	-
+NC_014500.1	263034	263135	mak | medium | Not found	100.0	+
+NC_014500.1	191909	192010	phoB | medium+pred | Intrinsic	99.3	+
+NC_014500.1	3707575	3707676	phoR | medium | Not found	0.7	+
+NC_014500.1	3227969	3228070	Dda3937_01942 | strong+pred | Intrinsic	93.4	+
+NC_014500.1	3576352	3576453	proY | medium | Not found	6.6	+
+NC_014500.1	3720941	3721042	Dda3937_01945 | strong+pred | Intrinsic	100.0	-
+NC_014500.1	1806579	1806680	tgt | strong | Not found	64.4	+
+NC_014500.1	3430475	3430576	secF | strong+pred | Intrinsic	35.6	+
+NC_014500.1	2006334	2006435	nusB | strong | Not found	98.4	+
+NC_014500.1	2182014	2182115	pgpA | medium+pred | Intrinsic	1.6	+
+NC_014500.1	2496304	2496405	thiI | medium+pred | Intrinsic	100.0	+
+NC_014500.1	3453068	3453169	yajQ | strong+pred | Intrinsic	100.0	+
+NC_014500.1	1435956	1436057	Dda3937_01967 | medium | Not found	39.9	+
+NC_014500.1	2246387	2246488	Dda3937_01968 | medium | Not found	60.1	+
+NC_014500.1	603437	603538	Dda3937_01969 | medium | Not found	100.0	-
+NC_014500.1	1383218	1383319	cyoE | strong+pred | Intrinsic	100.0	-
+NC_014500.1	783864	783965	bolA | strong | Not found	100.0	+
+NC_014500.1	4383774	4383875	tig | strong+pred | Intrinsic	100.0	+
+NC_014500.1	632195	632296	clpX | strong+pred | Intrinsic	29.9	+
+NC_014500.1	4673598	4673699	lon | strong+pred | Intrinsic	70.1	+
+NC_014500.1	1655408	1655509	hupB | strong+pred | Intrinsic	100.0	+
+NC_014500.1	2850558	2850659	ppiD | strong+pred | Intrinsic	100.0	+
+NC_014500.1	1610435	1610536	ybaV | medium | Not found	100.0	+
+NC_014500.1	1812157	1812258	queC | strong | Not found	100.0	-
+NC_014500.1	2593259	2593360	ybaO | medium | Not found	100.0	+
+NC_014500.1	4492726	4492827	mdlA | medium | Not found	33.3	+
+NC_014500.1	4618859	4618960	mdlB | medium | Not found	66.7	+
+NC_014500.1	1591143	1591244	amtB | strong+pred | Intrinsic	100.0	+
+NC_014500.1	896884	896985	ybaY | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	4904341	4904442	ykgM | strong | Not found	100.0	-
+NC_014500.1	3611439	3611540	acrR | medium | Not found	100.0	+
+NC_014500.1	4702426	4702527	bspB | medium | Not found	100.0	+
+NC_014500.1	747640	747741	ybaN | medium | Not found	100.0	+
+NC_014500.1	148712	148813	htpG | strong+pred | Rho-dependent	50.4	+
+NC_014500.1	2855774	2855875	adk | strong | Not found	49.6	+
+NC_014500.1	2019678	2019779	ybaL | strong | Not found	100.0	-
+NC_014500.1	2332046	2332147	hemH | medium | Not found	100.0	+
+NC_014500.1	2501938	2502039	ushA | strong+pred | Rho-dependent	92.9	+
+NC_014500.1	456373	456474	Dda3937_03901 | strong | Not found	7.1	+
+NC_014500.1	3219189	3219290	pehN | medium+pred | Intrinsic	100.0	+
+NC_014500.1	4536765	4536866	ybbJ | medium | Not found	100.0	-
+NC_014500.1	2259631	2259732	cueR | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	1633440	1633541	yfaE | medium+pred | Rho-dependent	100.0	-
+NC_014500.1	2075392	2075493	gyrA | strong+pred | Rho-dependent	92.4	+
+NC_014500.1	3257333	3257434	rcsC | medium | Not found	7.6	+
+NC_014500.1	1988650	1988751	rcsB | strong | Not found	100.0	-
+NC_014500.1	87674	87775	yfaZ | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3911620	3911721	ybbN | strong+pred | Rho-dependent	100.0	-
+NC_014500.1	631084	631185	yfaY | medium | Not found	100.0	+
+NC_014500.1	2937562	2937663	ybbP | medium+pred | Intrinsic	100.0	+
+NC_014500.1	3183680	3183781	mglC | medium+pred | Intrinsic	100.0	-
+NC_014500.1	3770882	3770983	purN | strong+pred | Intrinsic	100.0	-
+NC_014500.1	3595985	3596086	upp | strong | Not found	86.9	+
+NC_014500.1	3203766	3203867	uraA | medium | Not found	13.1	+
+NC_014500.1	2883228	2883329	yfgD | medium | Not found	100.0	-
+NC_014500.1	3457303	3457404	hda | strong | Not found	100.0	+
+NC_014500.1	3292123	3292224	bcp | strong+pred | Rho-dependent	100.0	-
+NC_014500.1	4000969	4001070	purC | strong | Not found	99.2	+
+NC_014500.1	1744707	1744808	ypfI | medium | Not found	0.8	+
+NC_014500.1	2582773	2582874	ypfH | strong | Not found	100.0	+
+NC_014500.1	2479141	2479242	yffB | medium | Not found	100.0	-
+NC_014500.1	2772791	2772892	cspE | strong+pred | Intrinsic	99.9	+
+NC_014500.1	1491428	1491529	Dda3937_02493 | medium | Not found	0.1	+
+NC_014500.1	2782849	2782950	tatE | strong+pred | Intrinsic	100.0	+
+NC_014500.1	1053576	1053677	ybeL | strong | Not found	100.0	+
+NC_014500.1	806007	806108	gltL | strong+pred | Intrinsic	100.0	-
+NC_014500.1	2315189	2315290	gltI | strong | Not found	100.0	-
+NC_014500.1	672179	672280	lnt | strong | Not found	54.9	-
+NC_014500.1	425429	425530	corC | strong+pred | Intrinsic	45.1	-
+NC_014500.1	914145	914246	ubiF | medium | Not found	36.3	+
+NC_014500.1	3762308	3762409	emrE | strong+pred | Intrinsic	63.7	+
+NC_014500.1	1016294	1016395	Dda3937_04497 | strong+pred | Intrinsic	100.0	-
+NC_014500.1	540693	540794	nagE | medium+pred | Intrinsic	100.0	+
+NC_014500.1	3106742	3106843	glnS | strong+pred | Intrinsic	100.0	+
+NC_014500.1	334670	334771	fur | strong+pred | Intrinsic	100.0	-
+NC_014500.1	2879811	2879912	Dda3937_01559 | strong | Not found	100.0	+
+NC_014500.1	4758452	4758553	ybfF | medium | Not found	100.0	-
+NC_014500.1	4528150	4528251	pgm | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	4054752	4054853	ybfA | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	3604683	3604784	Dda3937_01547 | medium | Not found	18.4	+
+NC_014500.1	4182537	4182638	phr | medium | Not found	33.9	+
+NC_014500.1	2816733	2816834	ybgI | medium | Not found	18.9	+
+NC_014500.1	3578652	3578753	nei | medium+pred | Intrinsic	28.8	+
+NC_014500.1	730223	730324	gltA | strong+pred | Intrinsic	100.0	-
+NC_014500.1	4631655	4631756	sucB | strong+pred | Intrinsic	22.7	+
+NC_014500.1	1265586	1265687	sucD | strong+pred | Intrinsic	77.3	+
+NC_014500.1	655580	655681	ybgT | strong+pred | Intrinsic	19.4	+
+NC_014500.1	4816788	4816889	pal | strong+pred | Rho-dependent	72.0	+
+NC_014500.1	2864659	2864760	cpoB | strong | Not found	8.6	+
+NC_014500.1	2853667	2853768	pnuC | strong | Not found	99.8	+
+NC_014500.1	2663603	2663704	gpmA | strong+pred | Intrinsic	100.0	-
+NC_014500.1	400183	400284	Dda3937_03988 | medium+pred | Rho-dependent	0.2	+
+NC_014500.1	408614	408715	modF | strong | Not found	100.0	-
+NC_014500.1	2969116	2969217	ybhT | strong+pred | Intrinsic	100.0	+
+NC_014500.1	2773732	2773833	modA | strong | Not found	30.9	+
+NC_014500.1	3899829	3899930	ybhE | strong | Not found	69.1	+
+NC_014500.1	1736250	1736351	metG | strong+pred | Rho-dependent	100.0	-
+NC_014500.1	2483708	2483809	mrp | strong | Not found	35.2	+
+NC_014500.1	2926536	2926637	asmA | medium+pred | Intrinsic	64.8	+
+NC_014500.1	983755	983856	rfbC | medium | Not found	45.6	+
+NC_014500.1	201949	202050	rfbD | medium | Not found	49.4	+
+NC_014500.1	77212	77313	Dda3937_03918 | medium | Not found	5.0	+
+NC_014500.1	1693691	1693792	Dda3937_04708 | medium | Not found	22.0	+
+NC_014500.1	1997306	1997407	galF | strong+pred | Intrinsic	76.4	+
+NC_014500.1	3527090	3527191	Dda3937_03271 | medium | Not found	1.5	+
+NC_014500.1	2294484	2294585	gnd | strong+pred | Intrinsic	100.0	+
+NC_014500.1	4627477	4627578	Dda3937_03272 | strong+pred | Intrinsic	99.8	+
+NC_014500.1	1961045	1961146	Dda3937_03275 | medium | Not found	0.2	+
+NC_014500.1	2450480	2450581	yaiC | medium | Not found	100.0	+
+NC_014500.1	4274779	4274880	Dda3937_03278 | medium | Not found	42.1	+
+NC_014500.1	1030440	1030541	Dda3937_03279 | medium | Not found	57.9	+
+NC_014500.1	159211	159312	Dda3937_03281 | medium | Not found	100.0	-
+NC_014500.1	2124108	2124209	hmuT | strong | Not found	20.5	+
+NC_014500.1	868576	868677	Dda3937_00846 | strong+pred | Intrinsic	73.9	+
+NC_014500.1	4653306	4653407	Dda3937_00845 | strong | Not found	5.6	+
+NC_014500.1	4729257	4729358	Dda3937_00844 | strong | Not found	100.0	-
+NC_014500.1	3461930	3462031	Dda3937_00841 | medium | Not found	100.0	+
+NC_014500.1	948653	948754	amn | strong | Not found	100.0	-
+NC_014500.1	529760	529861	yddS | medium | Not found	100.0	+
+NC_014500.1	2464886	2464987	hcpB | strong+pred | Intrinsic	100.0	+
+NC_014500.1	821104	821205	Dda3937_00831 | medium | Not found	43.8	+
+NC_014500.1	1726623	1726724	Dda3937_00830 | medium | Not found	46.7	+
+NC_014500.1	4626603	4626704	Dda3937_00828 | medium | Not found	9.5	+
+NC_014500.1	3673205	3673306	Dda3937_00827 | medium | Not found	100.0	+
+NC_014500.1	2916791	2916892	Dda3937_00826 | medium | Not found	63.5	+
+NC_014500.1	623412	623513	Dda3937_00821 | medium | Not found	36.5	+
+NC_014500.1	1897872	1897973	Dda3937_00819 | medium | Not found	100.0	+
+NC_014500.1	3738092	3738193	Dda3937_00817 | strong | Not found	51.1	+
+NC_014500.1	3568113	3568214	Dda3937_00816 | strong | Not found	25.5	+
+NC_014500.1	790357	790458	Dda3937_00801 | strong | Not found	23.4	+
+NC_014500.1	4896829	4896930	Dda3937_00796 | medium | Not found	100.0	+
+NC_014500.1	4595904	4596005	efeO | strong | Not found	39.0	+
+NC_014500.1	4609827	4609928	Dda3937_04512 | strong | Not found	61.0	+
+NC_014500.1	2365818	2365919	Dda3937_00788 | medium | Not found	100.0	+
+NC_014500.1	1488834	1488935	Dda3937_00785 | medium | Not found	16.2	+
+NC_014500.1	2709530	2709631	Dda3937_00784 | medium | Not found	34.4	+
+NC_014500.1	2461009	2461110	Dda3937_00780 | medium+pred | Rho-dependent	49.5	+
+NC_014500.1	2395362	2395463	Dda3937_00775 | medium | Not found	42.4	+
+NC_014500.1	2436380	2436481	Dda3937_00774 | medium | Not found	57.6	+
+NC_014500.1	1858900	1859001	Dda3937_00767 | medium | Not found	100.0	-
+NC_014500.1	3236032	3236133	Dda3937_00766 | medium | Not found	100.0	+
+NC_014500.1	3021573	3021674	Dda3937_00763 | medium | Not found	34.0	+
+NC_014500.1	4175075	4175176	Dda3937_00762 | medium | Not found	34.0	+
+NC_014500.1	3134217	3134318	Dda3937_00761 | medium+pred | Intrinsic	31.9	+
+NC_014500.1	123158	123259	Dda3937_00759 | medium | Not found	100.0	+
+NC_014500.1	2907785	2907886	Dda3937_00757 | medium | Not found	47.6	+
+NC_014500.1	1238747	1238848	Dda3937_00756 | medium | Not found	29.5	+
+NC_014500.1	1413318	1413419	Dda3937_00755 | medium | Not found	22.9	+
+NC_014500.1	1844792	1844893	Dda3937_00754 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	895048	895149	yjjA | medium | Not found	100.0	+
+NC_014500.1	2972819	2972920	Dda3937_00750 | medium | Not found	100.0	+
+NC_014500.1	3983778	3983879	Dda3937_00749 | medium | Not found	100.0	+
+NC_014500.1	4527123	4527224	Dda3937_00747 | medium | Not found	100.0	-
+NC_014500.1	4824368	4824469	lacZ | medium | Not found	28.2	-
+NC_014500.1	2857325	2857426	Dda3937_00744 | medium | Not found	71.8	-
+NC_014500.1	1488884	1488985	Dda3937_04314 | strong+pred | Intrinsic	100.0	-
+NC_014500.1	81075	81176	yjiE | medium | Not found	100.0	+
+NC_014500.1	712114	712215	fhlA | medium | Not found	100.0	+
+NC_014500.1	2617682	2617783	Dda3937_00739 | medium | Not found	30.8	+
+NC_014500.1	3089204	3089305	Dda3937_00738 | strong+pred | Rho-dependent	69.2	+
+NC_014500.1	4577440	4577541	Dda3937_04116 | medium | Not found	100.0	+
+NC_014500.1	2219929	2220030	cbl | medium+pred | Intrinsic	100.0	+
+NC_014500.1	1012229	1012330	gltP | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3039060	3039161	ydcF | medium+pred | Intrinsic	75.4	+
+NC_014500.1	336418	336519	yghU | strong | Not found	100.0	-
+NC_014500.1	3376842	3376943	ygjR | medium | Not found	24.6	+
+NC_014500.1	3632101	3632202	Dda3937_04123 | medium | Not found	100.0	-
+NC_014500.1	3928906	3929007	Dda3937_02692 | medium | Not found	37.5	+
+NC_014500.1	2814406	2814507	dcyD | medium | Not found	62.5	+
+NC_014500.1	2210356	2210457	Dda3937_04316 | medium | Not found	100.0	+
+NC_014500.1	3908654	3908755	ydcW | strong | Not found	78.5	+
+NC_014500.1	4045591	4045692	ygjG | medium+pred | Intrinsic	21.5	+
+NC_014500.1	3634724	3634825	Dda3937_04522 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	4871193	4871294	Dda3937_04083 | medium | Not found	41.0	+
+NC_014500.1	1536918	1537019	Dda3937_04084 | medium | Not found	59.0	+
+NC_014500.1	4900514	4900615	Dda3937_04085 | strong+pred | Rho-dependent	100.0	-
+NC_014500.1	751495	751596	phnK | medium | Not found	22.4	+
+NC_014500.1	353561	353662	phnL | medium | Not found	51.0	+
+NC_014500.1	4537278	4537379	phnN | medium | Not found	26.5	+
+NC_014500.1	3979483	3979584	phnP | medium | Not found	100.0	+
+NC_014500.1	3449785	3449886	ycaN | medium | Not found	100.0	+
+NC_014500.1	4153969	4154070	Dda3937_04100 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	4280734	4280835	phnE | medium+pred | Intrinsic	100.0	+
+NC_014500.1	929130	929231	Dda3937_02863 | medium | Not found	100.0	-
+NC_014500.1	2630719	2630820	acr | strong | Not found	69.5	+
+NC_014500.1	1986845	1986946	yhcA | strong | Not found	25.4	+
+NC_014500.1	353148	353249	acsA | strong | Not found	5.2	+
+NC_014500.1	4548394	4548495	cbrA | strong | Not found	36.7	+
+NC_014500.1	1028370	1028471	cbrD | strong | Not found	29.6	+
+NC_014500.1	2889096	2889197	Dda3937_02844 | medium | Not found	31.4	+
+NC_014500.1	618406	618507	yhhY | medium | Not found	2.2	+
+NC_014500.1	41434	41535	ybhH | medium | Not found	100.0	+
+NC_014500.1	4854650	4854751	Dda3937_02965 | medium | Not found	100.0	+
+NC_014500.1	2043993	2044094	Dda3937_02964 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	4154575	4154676	Dda3937_02961 | medium | Not found	100.0	+
+NC_014500.1	1419402	1419503	rafR | medium | Not found	100.0	+
+NC_014500.1	2772966	2773067	rafA | medium | Not found	75.3	+
+NC_014500.1	4806184	4806285	rafB | medium+pred | Rho-dependent	24.7	+
+NC_014500.1	4833040	4833141	Dda3937_03026 | medium | Not found	21.7	+
+NC_014500.1	1167000	1167101	Dda3937_03025 | medium | Not found	37.0	+
+NC_014500.1	1061026	1061127	ycdW | medium | Not found	41.3	+
+NC_014500.1	1400678	1400779	Dda3937_03019 | medium | Not found	100.0	-
+NC_014500.1	4360774	4360875	Dda3937_03010 | medium | Not found	30.6	+
+NC_014500.1	3028440	3028541	Dda3937_03009 | medium | Not found	19.4	+
+NC_014500.1	4190496	4190597	Dda3937_03008 | medium | Not found	50.0	+
+NC_014500.1	312675	312776	Dda3937_03006 | medium | Not found	100.0	+
+NC_014500.1	3926153	3926254	Dda3937_03002 | medium | Not found	100.0	+
+NC_014500.1	1161388	1161489	Dda3937_02998 | medium | Not found	71.3	+
+NC_014500.1	67251	67352	Dda3937_02997 | medium | Not found	17.2	+
+NC_014500.1	744799	744900	Dda3937_02996 | medium | Not found	11.5	+
+NC_014500.1	866086	866187	Dda3937_02995 | medium | Not found	18.9	+
+NC_014500.1	3941661	3941762	Dda3937_02994 | medium | Not found	17.1	+
+NC_014500.1	3997743	3997844	Dda3937_02993 | medium | Not found	45.9	+
+NC_014500.1	1652393	1652494	Dda3937_02992 | medium | Not found	18.0	+
+NC_014500.1	3381572	3381673	Dda3937_02990 | medium | Not found	100.0	+
+NC_014500.1	4914018	4914119	Dda3937_02988 | medium | Not found	100.0	+
+NC_014500.1	4226467	4226568	Dda3937_02985 | strong | Not found	100.0	+
+NC_014500.1	3945385	3945486	Dda3937_02983 | medium | Not found	28.3	+
+NC_014500.1	2942523	2942624	Dda3937_00368 | medium | Not found	71.7	+
+NC_014500.1	1678355	1678456	Dda3937_00369 | medium | Not found	25.8	+
+NC_014500.1	2575750	2575851	Dda3937_00370 | medium | Not found	54.5	+
+NC_014500.1	1593956	1594057	Dda3937_00371 | medium | Not found	19.7	+
+NC_014500.1	4416030	4416131	Dda3937_00659 | medium | Not found	100.0	+
+NC_014500.1	4301683	4301784	Dda3937_00657 | medium | Not found	100.0	-
+NC_014500.1	1683183	1683284	Dda3937_00656 | medium+pred | Rho-dependent	17.1	+
+NC_014500.1	1683950	1684051	Dda3937_00655 | medium | Not found	82.9	+
+NC_014500.1	4495197	4495298	Dda3937_00652 | medium | Not found	100.0	+
+NC_014500.1	3386798	3386899	Dda3937_00651 | medium | Not found	100.0	+
+NC_014500.1	3055447	3055548	Dda3937_00650 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	1837786	1837887	Dda3937_00643 | medium | Not found	100.0	+
+NC_014500.1	920186	920287	Dda3937_03581 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	3464785	3464886	Dda3937_03583 | medium | Not found	100.0	-
+NC_014500.1	3087448	3087549	Dda3937_03585 | medium | Not found	100.0	+
+NC_014500.1	4477126	4477227	Dda3937_03586 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	3616426	3616527	Dda3937_03587 | medium | Not found	91.8	+
+NC_014500.1	2471691	2471792	Dda3937_04709 | medium+pred | Intrinsic	8.2	+
+NC_014500.1	3269466	3269567	Dda3937_03588 | medium | Not found	100.0	-
+NC_014500.1	1370734	1370835	Dda3937_03589 | medium | Not found	17.9	+
+NC_014500.1	4076531	4076632	Dda3937_03591 | medium | Not found	100.0	-
+NC_014500.1	1846521	1846622	Dda3937_03592 | medium | Not found	22.5	+
+NC_014500.1	3810220	3810321	Dda3937_03594 | medium | Not found	23.7	+
+NC_014500.1	2355259	2355360	Dda3937_03595 | medium | Not found	30.8	+
+NC_014500.1	1425818	1425919	Dda3937_03596 | medium | Not found	5.1	+
+NC_014500.1	3806812	3806913	Dda3937_03599 | medium | Not found	100.0	+
+NC_014500.1	1502887	1502988	tra8_1 | medium | Not found	100.0	+
+NC_014500.1	4686852	4686953	Dda3937_03601 | medium | Not found	100.0	+
+NC_014500.1	3484318	3484419	Dda3937_03603 | medium | Not found	100.0	+
+NC_014500.1	385253	385354	Dda3937_03604 | medium | Not found	100.0	+
+NC_014500.1	4912820	4912921	Dda3937_04537 | medium | Not found	100.0	+
+NC_014500.1	4556360	4556461	Dda3937_00051 | medium+pred | Rho-dependent	29.5	-
+NC_014500.1	2705290	2705391	mtfA | medium | Not found	70.5	-
+NC_014500.1	448773	448874	Dda3937_03734 | medium+pred | Intrinsic	31.5	+
+NC_014500.1	814815	814916	yqaE | medium+pred | Intrinsic	68.5	+
+NC_014500.1	1734332	1734433	Dda3937_03736 | strong+pred | Intrinsic	100.0	-
+NC_014500.1	1879283	1879384	sfcA | strong+pred | Intrinsic	100.0	-
+NC_014500.1	2428005	2428106	yohK | medium+pred | Rho-dependent	100.0	-
+NC_014500.1	455449	455550	bioA | medium | Not found	100.0	-
+NC_014500.1	2400942	2401043	bioB | medium | Not found	36.9	+
+NC_014500.1	2549307	2549408	bioC | medium | Not found	38.5	+
+NC_014500.1	3821130	3821231	bioD | medium+pred | Intrinsic	24.7	+
+NC_014500.1	4098887	4098988	uvrB | medium | Not found	31.6	+
+NC_014500.1	4866416	4866517	Dda3937_03754 | medium | Not found	68.4	+
+NC_014500.1	1582092	1582193	Dda3937_03759 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	4111829	4111930	moaB | medium | Not found	24.4	+
+NC_014500.1	1341965	1342066	moaD | medium | Not found	32.0	+
+NC_014500.1	3432305	3432406	moaE | medium | Not found	43.6	+
+NC_014500.1	2961463	2961564	sfuA | strong | Not found	71.8	+
+NC_014500.1	4351136	4351237	sfuC | strong+pred | Intrinsic	28.2	+
+NC_014500.1	3849772	3849873	ybhL | strong | Not found	100.0	+
+NC_014500.1	849964	850065	Dda3937_04006 | medium | Not found	100.0	+
+NC_014500.1	2423716	2423817	rhlE | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	2144397	2144498	Dda3937_02914 | medium | Not found	100.0	+
+NC_014500.1	3528623	3528724	Dda3937_02911 | medium | Not found	100.0	+
+NC_014500.1	1501613	1501714	Dda3937_02910 | medium | Not found	45.3	+
+NC_014500.1	2219586	2219687	Dda3937_04540 | medium | Not found	54.7	+
+NC_014500.1	3018330	3018431	ytfF | medium | Not found	100.0	+
+NC_014500.1	1263173	1263274	Dda3937_02907 | medium | Not found	100.0	+
+NC_014500.1	1127474	1127575	Dda3937_02905 | medium+pred | Rho-dependent	43.3	+
+NC_014500.1	4857695	4857796	pbpG | medium+pred | Rho-dependent	56.7	+
+NC_014500.1	3120308	3120409	Dda3937_02896 | medium | Not found	100.0	+
+NC_014500.1	3459910	3460011	bglX | strong | Not found	100.0	+
+NC_014500.1	3824096	3824197	dinG | medium | Not found	100.0	+
+NC_014500.1	2463815	2463916	Dda3937_02893 | strong | Not found	100.0	+
+NC_014500.1	4018096	4018197	Dda3937_02890 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	2011460	2011561	Dda3937_02889 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	2573267	2573368	glnQ | strong | Not found	100.0	-
+NC_014500.1	2929987	2930088	dps | strong+pred | Rho-dependent	100.0	-
+NC_014500.1	4067133	4067234	rhtA | medium | Not found	100.0	-
+NC_014500.1	2468032	2468133	ompX | strong+pred | Intrinsic	97.2	+
+NC_014500.1	4108177	4108278	Dda3937_02880 | medium+pred | Intrinsic	2.8	+
+NC_014500.1	3781155	3781256	cynX | medium | Not found	100.0	+
+NC_014500.1	354841	354942	Dda3937_02460 | medium | Not found	31.4	+
+NC_014500.1	343041	343142	Dda3937_02461 | medium | Not found	36.2	+
+NC_014500.1	2362315	2362416	Dda3937_02463 | medium | Not found	32.4	+
+NC_014500.1	1647193	1647294	Dda3937_02464 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	2438491	2438592	Dda3937_03430 | medium | Not found	48.3	+
+NC_014500.1	4272405	4272506	Dda3937_03433 | medium | Not found	51.7	+
+NC_014500.1	2625590	2625691	ydgC | medium | Not found	100.0	+
+NC_014500.1	828348	828449	Dda3937_03439 | medium | Not found	15.9	+
+NC_014500.1	4459906	4460007	Dda3937_01248 | medium | Not found	28.6	+
+NC_014500.1	2561820	2561921	Dda3937_01247 | medium | Not found	55.6	+
+NC_014500.1	3665712	3665813	Dda3937_01244 | strong | Not found	100.0	-
+NC_014500.1	622987	623088	Dda3937_01245 | medium | Not found	100.0	+
+NC_014500.1	1705376	1705477	Dda3937_01241 | medium+pred | Intrinsic	100.0	-
+NC_014500.1	3320059	3320160	arsB_1 | medium | Not found	100.0	+
+NC_014500.1	2134485	2134586	arsC | medium | Not found	100.0	+
+NC_014500.1	2186747	2186848	Dda3937_01236 | strong+pred | Rho-dependent	100.0	-
+NC_014500.1	2262068	2262169	Dda3937_01235 | medium | Not found	70.9	+
+NC_014500.1	3636655	3636756	Dda3937_01234 | medium | Not found	29.1	+
+NC_014500.1	3220999	3221100	Dda3937_04546 | strong | Not found	100.0	-
+NC_014500.1	115954	116055	Dda3937_01229 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	3127069	3127170	Dda3937_02201 | medium | Not found	100.0	-
+NC_014500.1	478970	479071	yejM | medium | Not found	100.0	-
+NC_014500.1	4902743	4902844	yejK | strong+pred | Intrinsic	100.0	+
+NC_014500.1	4457549	4457650	ypdA | medium | Not found	47.7	+
+NC_014500.1	4148003	4148104	ypdB | medium+pred | Rho-dependent	52.3	+
+NC_014500.1	4497789	4497890	yhjX | medium+pred | Intrinsic	100.0	+
+NC_014500.1	4427235	4427336	rplY | strong+pred | Rho-dependent	100.0	-
+NC_014500.1	1588296	1588397	yejG | strong | Not found	100.0	+
+NC_014500.1	4234037	4234138	spr | strong+pred | Intrinsic	100.0	-
+NC_014500.1	2681557	2681658	Dda3937_03627 | medium | Not found	100.0	+
+NC_014500.1	4514242	4514343	fruA | strong+pred | Intrinsic	99.0	+
+NC_014500.1	1451149	1451250	nfo | strong | Not found	6.4	-
+NC_014500.1	1747873	1747974	Dda3937_03622 | medium | Not found	1.0	+
+NC_014500.1	4625313	4625414	yeiH | medium | Not found	93.6	-
+NC_014500.1	857017	857118	yeiE | medium | Not found	100.0	+
+NC_014500.1	189647	189748	lysP | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3425706	3425807	Dda3937_03616 | medium | Not found	16.0	+
+NC_014500.1	3097518	3097619	Dda3937_03614 | medium | Not found	60.3	+
+NC_014500.1	2349104	2349205	Dda3937_03613 | medium | Not found	18.5	+
+NC_014500.1	3414051	3414152	Dda3937_03612 | medium+pred | Intrinsic	5.2	+
+NC_014500.1	4070193	4070294	Dda3937_03611 | medium | Not found	100.0	-
+NC_014500.1	2390242	2390343	ybdH | medium | Not found	100.0	+
+NC_014500.1	1049147	1049248	Dda3937_00072 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	3614333	3614434	Dda3937_04558 | medium | Not found	58.5	+
+NC_014500.1	2924358	2924459	Dda3937_03501 | medium+pred | Intrinsic	41.5	+
+NC_014500.1	428300	428401	Dda3937_03500 | medium | Not found	100.0	+
+NC_014500.1	1072527	1072628	Dda3937_03499 | strong+pred | Intrinsic	19.2	+
+NC_014500.1	4869541	4869642	Dda3937_03498 | strong | Not found	80.8	+
+NC_014500.1	4497041	4497142	folE | strong | Not found	73.3	+
+NC_014500.1	2377672	2377773	yeiB | medium | Not found	26.7	+
+NC_014500.1	4305614	4305715	yliG | strong | Not found	100.0	-
+NC_014500.1	219031	219132	yliI | medium | Not found	100.0	+
+NC_014500.1	3459191	3459292	Dda3937_03491 | strong+pred | Intrinsic	48.6	+
+NC_014500.1	4465414	4465515	rhlA | strong+pred | Intrinsic	100.0	-
+NC_014500.1	1400976	1401077	Dda3937_03489 | medium | Not found	51.4	+
+NC_014500.1	3216396	3216497	dacC | medium | Not found	100.0	+
+NC_014500.1	1377167	1377268	ybjL | medium | Not found	100.0	-
+NC_014500.1	4858423	4858524	ybjM | medium | Not found	100.0	+
+NC_014500.1	1732475	1732576	grxA | strong+pred | Intrinsic	100.0	-
+NC_014500.1	2917189	2917290	potF | strong+pred | Intrinsic	99.8	+
+NC_014500.1	4523861	4523962	potI | medium | Not found	0.2	+
+NC_014500.1	529727	529828	ybjO | medium+pred | Intrinsic	100.0	+
+NC_014500.1	2289555	2289656	rumB | medium | Not found	100.0	+
+NC_014500.1	2984868	2984969	ybjQ | medium | Not found	50.0	+
+NC_014500.1	4174576	4174677	ybjR | medium | Not found	50.0	+
+NC_014500.1	4377703	4377804	hcr | medium | Not found	100.0	-
+NC_014500.1	1091239	1091340	cspD | strong+pred | Rho-dependent	100.0	-
+NC_014500.1	2217372	2217473	ybjD | medium | Not found	100.0	+
+NC_014500.1	1042042	1042143	clpS | medium | Not found	100.0	+
+NC_014500.1	3811162	3811263	clpA | strong+pred | Intrinsic	100.0	+
+NC_014500.1	4882010	4882111	infA | strong+pred | Intrinsic	5.5	-
+NC_014500.1	388402	388503	aat | medium | Not found	94.5	-
+NC_014500.1	4210568	4210669	lrp | strong | Not found	96.9	+
+NC_014500.1	1660312	1660413	rarA | medium | Not found	3.1	+
+NC_014500.1	1977111	1977212	serS | strong+pred | Intrinsic	100.0	+
+NC_014500.1	973001	973102	dmsD | medium | Not found	100.0	+
+NC_014500.1	2345877	2345978	Dda3937_00136 | medium+pred | Intrinsic	100.0	-
+NC_014500.1	3402777	3402878	Dda3937_03355 | medium | Not found	100.0	+
+NC_014500.1	2243564	2243665	ycaD | medium | Not found	100.0	+
+NC_014500.1	4672807	4672908	pflB | strong+pred | Intrinsic	100.0	-
+NC_014500.1	4540136	4540237	ycaO | strong | Not found	100.0	-
+NC_014500.1	1353886	1353987	serC | strong+pred | Intrinsic	100.0	+
+NC_014500.1	2806093	2806194	ihfB | strong+pred | Intrinsic	100.0	+
+NC_014500.1	2549000	2549101	Dda3937_02982 | strong | Not found	100.0	+
+NC_014500.1	1494626	1494727	hisI | strong+pred | Rho-dependent	100.0	-
+NC_014500.1	2350233	2350334	yeeZ | medium | Not found	100.0	+
+NC_014500.1	2532123	2532224	citW | medium | Not found	80.5	+
+NC_014500.1	4724529	4724630	citF_1 | medium | Not found	19.5	+
+NC_014500.1	982656	982757	citX | medium | Not found	100.0	+
+NC_014500.1	3783713	3783814	citG | medium+pred | Intrinsic	39.2	+
+NC_014500.1	2212059	2212160	ycgR | strong+pred | Intrinsic	60.8	+
+NC_014500.1	2657338	2657439	yeeF | strong+pred | Intrinsic	100.0	+
+NC_014500.1	1009720	1009821	sbcB | medium | Not found	100.0	-
+NC_014500.1	4396458	4396559	yeeX | strong | Not found	100.0	+
+NC_014500.1	1823343	1823444	ycaI | medium | Not found	100.0	+
+NC_014500.1	368056	368157	msbA | medium | Not found	16.1	+
+NC_014500.1	2350767	2350868	lpxK | medium | Not found	24.2	+
+NC_014500.1	2933039	2933140	ycaR | medium | Not found	19.5	+
+NC_014500.1	3388155	3388256	kdsB | strong+pred | Intrinsic	40.3	+
+NC_014500.1	3729783	3729884	Dda3937_03201 | strong+pred | Intrinsic	100.0	+
+NC_014500.1	1035999	1036100	ycbJ | medium | Not found	100.0	+
+NC_014500.1	1245798	1245899	mukB | strong+pred | Intrinsic	100.0	+
+NC_014500.1	2536261	2536362	Dda3937_04195 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	4731066	4731167	Dda3937_04196 | medium | Not found	100.0	+
+NC_014500.1	3030653	3030754	Dda3937_00011 | strong | Not found	100.0	+
+NC_014500.1	716429	716530	Dda3937_00012 | medium | Not found	53.1	-
+NC_014500.1	1717595	1717696	Dda3937_00013 | strong | Not found	46.9	-
+NC_014500.1	3049463	3049564	Dda3937_00014 | medium | Not found	100.0	-
+NC_014500.1	895278	895379	Dda3937_00015 | medium | Not found	100.0	+
+NC_014500.1	2052491	2052592	ycdX | medium | Not found	25.7	+
+NC_014500.1	2467179	2467280	ycdY | medium+pred | Intrinsic	74.3	+
+NC_014500.1	2341304	2341405	rimJ | medium | Not found	88.0	+
+NC_014500.1	1016070	1016171	mviM | medium | Not found	12.0	+
+NC_014500.1	1339317	1339418	mviN | medium+pred | Intrinsic	100.0	+
+NC_014500.1	3501276	3501377	cutC | medium | Not found	20.5	+
+NC_014500.1	3284295	3284396	Dda3937_04572 | strong | Not found	79.5	+
+NC_014500.1	1805258	1805359	aspS | strong | Not found	19.9	+
+NC_014500.1	2356993	2357094	yebC | strong | Not found	37.7	+
+NC_014500.1	2502677	2502778	ruvC | strong | Not found	42.5	+
+NC_014500.1	1505149	1505250	Dda3937_01620 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	111346	111447	ruvA | medium | Not found	18.8	+
+NC_014500.1	1838551	1838652	ruvB | medium | Not found	81.2	+
+NC_014500.1	2569188	2569289	znuA | strong | Not found	26.7	+
+NC_014500.1	4030722	4030823	yebA | strong+pred | Intrinsic	52.3	+
+NC_014500.1	4277560	4277661	lpxM | medium+pred | Intrinsic	21.0	+
+NC_014500.1	4275682	4275783	Dda3937_03578 | medium | Not found	56.4	+
+NC_014500.1	1436893	1436994	Dda3937_03577 | medium+pred | Intrinsic	43.6	+
+NC_014500.1	3621018	3621119	pykA | strong+pred | Intrinsic	100.0	-
+NC_014500.1	967409	967510	kdgA | strong+pred | Intrinsic	100.0	+
+NC_014500.1	4913275	4913376	purT | strong | Not found	100.0	-
+NC_014500.1	3920043	3920144	ptrB | medium | Not found	100.0	+
+NC_014500.1	2617454	2617555	Dda3937_03569 | strong+pred | Rho-dependent	100.0	-
+NC_014500.1	1894000	1894101	ftnA | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	4543923	4544024	Dda3937_00087 | medium | Not found	100.0	+
+NC_014500.1	90085	90186	yebY | medium | Not found	100.0	-
+NC_014500.1	2509672	2509773	Dda3937_03323 | medium+pred | Intrinsic	75.5	+
+NC_014500.1	2068900	2069001	yeaQ | medium | Not found	24.5	+
+NC_014500.1	238336	238437	mipA | medium | Not found	65.6	+
+NC_014500.1	1840393	1840494	yeaD | strong | Not found	8.0	-
+NC_014500.1	4819124	4819225	yeaE | medium | Not found	34.4	+
+NC_014500.1	4403441	4403542	gapA | strong+pred | Intrinsic	92.0	-
+NC_014500.1	3809813	3809914	yeaA | strong | Not found	36.8	+
+NC_014500.1	365661	365762	yeaC | strong | Not found	63.2	+
+NC_014500.1	3211972	3212073	ydjA | strong | Not found	96.2	+
+NC_014500.1	2319702	2319803	topB | medium | Not found	3.8	+
+NC_014500.1	435676	435777	xthA | strong | Not found	100.0	-
+NC_014500.1	278080	278181	Dda3937_04049 | medium | Not found	100.0	+
+NC_014500.1	2844478	2844579	yicG | medium | Not found	100.0	+
+NC_014500.1	4542653	4542754	purU | medium | Not found	100.0	-
+NC_014500.1	3436783	3436884	rssA | medium | Not found	44.3	+
+NC_014500.1	3863334	3863435	rssB | medium | Not found	55.7	+
+NC_014500.1	3209562	3209663	galU | medium | Not found	100.0	+
+NC_014500.1	1258432	1258533	hns | strong+pred | Intrinsic	100.0	-
+NC_014500.1	3544107	3544208	tdk | strong | Not found	100.0	+
+NC_014500.1	4857436	4857537	adhE | strong+pred | Intrinsic	100.0	-
+NC_014500.1	1930146	1930247	oppA | strong | Not found	100.0	+
+NC_014500.1	1209418	1209519	oppC | medium | Not found	26.2	+
+NC_014500.1	4171836	4171937	oppF | strong+pred | Intrinsic	73.8	+
+NC_014500.1	437588	437689	Dda3937_00562 | medium | Not found	100.0	+
+NC_014500.1	3558310	3558411	yciI | strong | Not found	100.0	-
+NC_014500.1	556819	556920	tonB | medium+pred | Intrinsic	100.0	+
+NC_014500.1	3845844	3845945	ompW | medium+pred | Intrinsic	100.0	+
+NC_014500.1	760464	760565	kdgN | strong+pred | Intrinsic	25.0	-
+NC_014500.1	413835	413936	trpA | strong | Not found	75.0	-
+NC_014500.1	4502807	4502908	yciV | medium | Not found	40.7	+
+NC_014500.1	306424	306525	rluB | strong | Not found	59.3	+
+NC_014500.1	3942195	3942296	btuR | medium | Not found	100.0	-
+NC_014500.1	3872446	3872547	sohB | strong | Not found	100.0	+
+NC_014500.1	4361459	4361560	Dda3937_00584 | strong+pred | Intrinsic	100.0	+
+NC_014500.1	894147	894248	Dda3937_00585 | strong+pred | Intrinsic	100.0	-
+NC_014500.1	1949304	1949405	yciN | strong | Not found	100.0	-
+NC_014500.1	156564	156665	topA | strong+pred | Intrinsic	100.0	+
+NC_014500.1	1652437	1652538	cysB | strong+pred | Intrinsic	100.0	+
+NC_014500.1	154366	154467	cnu | medium+pred | Rho-dependent	43.6	-
+NC_014500.1	2959668	2959769	araA | medium | Not found	56.4	-
+NC_014500.1	2510791	2510892	araF | medium | Not found	42.3	+
+NC_014500.1	435930	436031	ydgJ | medium+pred | Intrinsic	57.7	+
+NC_014500.1	2870	2971	yfeH | medium | Not found	100.0	+
+NC_014500.1	4518157	4518258	Dda3937_00605 | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3701180	3701281	add | strong+pred | Intrinsic	100.0	-
+NC_014500.1	1087998	1088099	Dda3937_00068 | medium | Not found	100.0	+
+NC_014500.1	4320724	4320825	fumC | medium | Not found	100.0	+
+NC_014500.1	2437159	2437260	ynfM | medium | Not found	100.0	-
+NC_014500.1	2822835	2822936	dgsA | medium | Not found	25.4	+
+NC_014500.1	2621790	2621891	ynfK | strong | Not found	74.6	+
+NC_014500.1	4261011	4261112	Dda3937_04136 | medium | Not found	100.0	-
+NC_014500.1	2939121	2939222	yafE | strong | Not found	100.0	+
+NC_014500.1	889313	889414	Dda3937_04138 | medium | Not found	100.0	+
+NC_014500.1	1041619	1041720	tehA | medium | Not found	100.0	+
+NC_014500.1	981038	981139	Dda3937_00081 | strong | Not found	100.0	+
+NC_014500.1	3402766	3402867	Dda3937_00082 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	4045142	4045243	Dda3937_00083 | medium | Not found	45.2	+
+NC_014500.1	256426	256527	Dda3937_04582 | medium | Not found	54.8	+
+NC_014500.1	456548	456649	Dda3937_04333 | medium | Not found	100.0	-
+NC_014500.1	23571	23672	Dda3937_00076 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	2666343	2666444	Dda3937_03862 | medium | Not found	100.0	+
+NC_014500.1	298907	299008	prtA | strong+pred | Intrinsic	23.7	-
+NC_014500.1	3838655	3838756	prtC | strong+pred | Intrinsic	76.3	-
+NC_014500.1	1619787	1619888	srfC | strong | Not found	100.0	+
+NC_014500.1	3154651	3154752	Dda3937_01643 | medium | Not found	100.0	+
+NC_014500.1	85264	85365	Dda3937_04334 | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3383629	3383730	Dda3937_01640 | medium+pred | Intrinsic	100.0	-
+NC_014500.1	4356889	4356990	Dda3937_01636 | medium | Not found	100.0	+
+NC_014500.1	311193	311294	Dda3937_01634 | medium | Not found	100.0	+
+NC_014500.1	3869539	3869640	sgaT | strong+pred | Intrinsic	100.0	+
+NC_014500.1	277935	278036	Dda3937_01629 | strong | Not found	76.4	+
+NC_014500.1	2495334	2495435	Dda3937_01627 | medium | Not found	23.6	+
+NC_014500.1	4918850	4918951	fnr | strong | Not found	100.0	+
+NC_014500.1	146146	146247	uspE | strong+pred | Intrinsic	100.0	+
+NC_014500.1	1315510	1315611	pntB | strong+pred | Intrinsic	100.0	-
+NC_014500.1	180171	180272	ydgH | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3121326	3121427	kdsA | strong+pred | Intrinsic	100.0	-
+NC_014500.1	2748386	2748487	ispE | strong | Not found	16.4	+
+NC_014500.1	4640607	4640708	prsA | strong+pred | Intrinsic	83.6	+
+NC_014500.1	4560515	4560616	Dda3937_00066 | medium | Not found	100.0	+
+NC_014500.1	2893972	2894073	ychF | strong+pred | Intrinsic	100.0	+
+NC_014500.1	4660943	4661044	Dda3937_02954 | medium | Not found	39.9	+
+NC_014500.1	1010848	1010949	Dda3937_02952 | medium | Not found	60.1	+
+NC_014500.1	3319172	3319273	recD | medium+pred | Intrinsic	100.0	-
+NC_014500.1	3272204	3272305	dspF | strong | Not found	100.0	-
+NC_014500.1	1878650	1878751	orfC | strong+pred | Intrinsic	100.0	+
+NC_014500.1	4173256	4173357	Dda3937_02941 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	1814479	1814580	Dda3937_02939 | medium | Not found	100.0	+
+NC_014500.1	3865964	3866065	Dda3937_02938 | strong+pred | Intrinsic	100.0	+
+NC_014500.1	1515209	1515310	Dda3937_02937 | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	495505	495606	Dda3937_02936 | medium | Not found	2.3	-
+NC_014500.1	4243829	4243930	Dda3937_04704 | medium | Not found	97.7	-
+NC_014500.1	4808583	4808684	ycgB | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3534811	3534912	fadR | strong+pred | Intrinsic	100.0	-
+NC_014500.1	3043066	3043167	nhaB | medium+pred | Intrinsic	100.0	+
+NC_014500.1	3143147	3143248	dsbB | strong | Not found	100.0	+
+NC_014500.1	2183101	2183202	ycgM | strong | Not found	100.0	-
+NC_014500.1	2425986	2426087	minC | medium | Not found	100.0	+
+NC_014500.1	2074297	2074398	minE | strong | Not found	100.0	+
+NC_014500.1	913226	913327	yeaY | medium+pred | Intrinsic	100.0	-
+NC_014500.1	3890183	3890284	yoaB | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	1572149	1572250	pabB | medium | Not found	100.0	+
+NC_014500.1	2009606	2009707	sdaA | medium | Not found	100.0	+
+NC_014500.1	546001	546102	manZ | strong+pred | Rho-dependent	99.9	+
+NC_014500.1	60272	60373	yobD | medium | Not found	0.1	+
+NC_014500.1	3798975	3799076	yebN | medium | Not found	100.0	+
+NC_014500.1	408883	408984	cspC | strong+pred | Intrinsic	100.0	-
+NC_014500.1	3975396	3975497	yniA | medium | Not found	100.0	+
+NC_014500.1	3804116	3804217	kdgF | strong+pred | Intrinsic	100.0	-
+NC_014500.1	2894826	2894927	kduD | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	4465974	4466075	togM | medium | Not found	38.5	+
+NC_014500.1	2359205	2359306	togN | medium | Not found	22.0	+
+NC_014500.1	149832	149933	togB | strong+pred | Intrinsic	39.5	+
+NC_014500.1	4207417	4207518	kdgM | medium | Not found	72.5	+
+NC_014500.1	2374782	2374883	paeX | medium | Not found	26.8	+
+NC_014500.1	200672	200773	ydjM | medium | Not found	0.6	+
+NC_014500.1	1923685	1923786	ydjN | strong+pred | Intrinsic	100.0	+
+NC_014500.1	2675274	2675375	osmE | strong+pred | Intrinsic	100.0	-
+NC_014500.1	4160996	4161097	nadE | strong+pred | Intrinsic	100.0	+
+NC_014500.1	840827	840928	Dda3937_03675 | medium | Not found	44.9	+
+NC_014500.1	1315642	1315743	ygbA | medium | Not found	55.1	+
+NC_014500.1	164227	164328	ihfA | strong+pred | Intrinsic	100.0	-
+NC_014500.1	2307469	2307570	pheT | medium | Not found	3.0	-
+NC_014500.1	1484982	1485083	thrS | strong | Not found	97.0	-
+NC_014500.1	3691867	3691968	htpX | strong+pred | Intrinsic	100.0	-
+NC_014500.1	813399	813500	icd | strong+pred | Intrinsic	100.0	-
+NC_014500.1	3814783	3814884	mnmA | strong+pred | Intrinsic	45.5	+
+NC_014500.1	1934782	1934883	purB | strong | Not found	51.7	+
+NC_014500.1	3252322	3252423	phoQ | medium | Not found	2.9	+
+NC_014500.1	513447	513548	ycfD | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	2325769	2325870	Dda3937_02093 | medium | Not found	100.0	-
+NC_014500.1	1134816	1134917	hecA2 | medium | Not found	100.0	-
+NC_014500.1	815442	815543	hecB | medium | Not found	100.0	-
+NC_014500.1	2967312	2967413	Dda3937_04153 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	585507	585608	hrpN | strong+pred | Intrinsic	68.8	-
+NC_014500.1	3623961	3624062	hrpF | strong | Not found	31.2	-
+NC_014500.1	2712853	2712954	orf3 | medium | Not found	100.0	+
+NC_014500.1	676962	677063	hrpS | medium | Not found	100.0	-
+NC_014500.1	1090328	1090429	hrpJ | strong | Not found	92.1	+
+NC_014500.1	675913	676014	hrcU | medium | Not found	7.9	+
+NC_014500.1	1663305	1663406	Dda3937_00619 | medium | Not found	100.0	+
+NC_014500.1	1008564	1008665	Dda3937_00620 | strong | Not found	100.0	-
+NC_014500.1	3450757	3450858	Dda3937_00622 | medium | Not found	100.0	+
+NC_014500.1	864103	864204	sbmA | medium | Not found	100.0	+
+NC_014500.1	3351978	3352079	Dda3937_00625 | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	1680340	1680441	Dda3937_00626 | strong | Not found	100.0	+
+NC_014500.1	3623178	3623279	Dda3937_00627 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	475985	476086	Dda3937_00629 | medium | Not found	29.4	+
+NC_014500.1	1495023	1495124	Dda3937_00633 | medium+pred | Rho-dependent	34.3	-
+NC_014500.1	1038823	1038924	Dda3937_00632 | medium | Not found	70.6	+
+NC_014500.1	3995509	3995610	Dda3937_00635 | medium+pred | Rho-dependent	65.7	-
+NC_014500.1	205185	205286	Dda3937_00636 | medium | Not found	100.0	+
+NC_014500.1	1421970	1422071	gabD | strong | Not found	100.0	-
+NC_014500.1	1464070	1464171	Dda3937_04149 | medium | Not found	100.0	+
+NC_014500.1	2058575	2058676	ydcT | medium | Not found	100.0	+
+NC_014500.1	4847927	4848028	ydcE | medium | Not found	100.0	+
+NC_014500.1	2623114	2623215	Dda3937_04145 | strong | Not found	100.0	+
+NC_014500.1	676185	676286	Dda3937_03801 | medium | Not found	100.0	-
+NC_014500.1	2559517	2559618	Dda3937_03800 | medium | Not found	100.0	-
+NC_014500.1	1105581	1105682	Dda3937_03797 | medium | Not found	16.4	-
+NC_014500.1	4591863	4591964	yiaY | strong | Not found	83.6	-
+NC_014500.1	2434254	2434355	Dda3937_03795 | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3311030	3311131	narJ | medium | Not found	100.0	-
+NC_014500.1	1041732	1041833	Dda3937_03789 | medium | Not found	100.0	+
+NC_014500.1	3772847	3772948	narX | medium | Not found	31.2	+
+NC_014500.1	642975	643076	narL | medium | Not found	68.8	+
+NC_014500.1	4592214	4592315	Dda3937_03785 | medium | Not found	100.0	+
+NC_014500.1	3737572	3737673	Dda3937_03784 | strong+pred | Intrinsic	100.0	+
+NC_014500.1	4670403	4670504	yebS | medium | Not found	15.4	+
+NC_014500.1	494148	494249	yebT | medium+pred | Rho-dependent	19.0	+
+NC_014500.1	2472808	2472909	Dda3937_03780 | medium+pred | Intrinsic	65.6	+
+NC_014500.1	332995	333096	yebW | medium | Not found	100.0	+
+NC_014500.1	2086332	2086433	Dda3937_03778 | medium | Not found	100.0	-
+NC_014500.1	962007	962108	Dda3937_04604 | medium | Not found	100.0	+
+NC_014500.1	3031410	3031511	Dda3937_03776 | medium | Not found	68.8	+
+NC_014500.1	1022414	1022515	Dda3937_03774 | medium | Not found	31.2	+
+NC_014500.1	375766	375867	Dda3937_03773 | medium | Not found	52.2	+
+NC_014500.1	3853136	3853237	Dda3937_03771 | medium+pred | Intrinsic	47.8	+
+NC_014500.1	4119701	4119802	Dda3937_00031 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	4271550	4271651	Dda3937_04606 | medium+pred | Intrinsic	61.4	+
+NC_014500.1	1351106	1351207	Dda3937_03806 | medium+pred | Intrinsic	38.6	+
+NC_014500.1	1568577	1568678	Dda3937_03804 | strong | Not found	100.0	+
+NC_014500.1	4522420	4522521	Dda3937_03802 | medium | Not found	100.0	-
+NC_014500.1	2421551	2421652	Dda3937_03809 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	3344069	3344170	Dda3937_03811 | strong+pred | Rho-dependent	99.7	+
+NC_014500.1	3392514	3392615	Dda3937_03816 | medium | Not found	0.3	+
+NC_014500.1	3155142	3155243	Dda3937_04713 | medium | Not found	84.6	+
+NC_014500.1	1631447	1631548	Dda3937_00104 | medium | Not found	15.4	+
+NC_014500.1	3812794	3812895	Dda3937_00105 | medium | Not found	100.0	+
+NC_014500.1	2168422	2168523	Dda3937_00107 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	548624	548725	Dda3937_00111 | medium | Not found	100.0	-
+NC_014500.1	632211	632312	Dda3937_00110 | medium | Not found	100.0	+
+NC_014500.1	2617194	2617295	chaC | strong | Not found	100.0	-
+NC_014500.1	4395521	4395622	chaA | strong | Not found	100.0	+
+NC_014500.1	3131561	3131662	dauA | medium | Not found	100.0	+
+NC_014500.1	3888914	3889015	rstA | medium | Not found	17.3	+
+NC_014500.1	1111708	1111809	rstB | medium | Not found	82.7	+
+NC_014500.1	424130	424231	asr | medium+pred | Intrinsic	97.8	+
+NC_014500.1	4354651	4354752	ydgD | medium+pred | Rho-dependent	2.2	+
+NC_014500.1	506830	506931	yghK | medium | Not found	17.8	+
+NC_014500.1	3039756	3039857	ykgG | medium | Not found	82.2	+
+NC_014500.1	3093858	3093959	azoR | strong | Not found	100.0	+
+NC_014500.1	3179858	3179959	ynbE | medium | Not found	100.0	-
+NC_014500.1	3418373	3418474	aer2 | strong+pred | Intrinsic	100.0	+
+NC_014500.1	112018	112119	ldhA | medium | Not found	100.0	+
+NC_014500.1	1188865	1188966	Dda3937_03142 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	4792041	4792142	ttcA | strong | Not found	100.0	+
+NC_014500.1	2945225	2945326	ydaN | medium | Not found	64.0	-
+NC_014500.1	2329512	2329613	mppA | strong | Not found	36.0	-
+NC_014500.1	1880059	1880160	mpaA | medium | Not found	100.0	+
+NC_014500.1	1970562	1970663	tpx | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3264425	3264526	Dda3937_03132 | medium | Not found	100.0	+
+NC_014500.1	2460671	2460772	Dda3937_03130 | medium | Not found	100.0	+
+NC_014500.1	1220592	1220693	Dda3937_03128 | medium | Not found	100.0	-
+NC_014500.1	3557384	3557485	ycjZ | medium | Not found	100.0	+
+NC_014500.1	3890805	3890906	Dda3937_03122 | medium+pred | Intrinsic	100.0	-
+NC_014500.1	2651102	2651203	pspC | medium | Not found	100.0	-
+NC_014500.1	3192887	3192988	pspF | medium | Not found	100.0	+
+NC_014500.1	2727776	2727877	fabI | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	2360367	2360468	ydeP | strong | Not found	100.0	+
+NC_014500.1	2949333	2949434	Dda3937_03105 | strong | Not found	100.0	+
+NC_014500.1	330101	330202	rnb | strong+pred | Intrinsic	58.1	+
+NC_014500.1	1158480	1158581	ydhF | strong+pred | Rho-dependent	41.9	+
+NC_014500.1	1423021	1423122	Dda3937_03102 | medium | Not found	100.0	+
+NC_014500.1	2674449	2674550	araD | medium | Not found	100.0	-
+NC_014500.1	3993950	3994051	osmB | medium+pred | Intrinsic	100.0	+
+NC_014500.1	2596905	2597006	pyrF | medium | Not found	100.0	-
+NC_014500.1	1539674	1539775	yciM | strong | Not found	9.6	-
+NC_014500.1	1340191	1340292	pgpB | strong | Not found	90.4	-
+NC_014500.1	4006408	4006509	Dda3937_04040 | strong | Not found	100.0	-
+NC_014500.1	3119157	3119258	ribA | strong | Not found	100.0	+
+NC_014500.1	2981087	2981188	gst | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	4010968	4011069	tyrS | strong+pred | Intrinsic	100.0	-
+NC_014500.1	4917407	4917508	slyB | strong+pred | Intrinsic	100.0	+
+NC_014500.1	2198421	2198522	gloA | strong | Not found	91.4	+
+NC_014500.1	2997074	2997175	grxD | strong | Not found	100.0	-
+NC_014500.1	1302242	1302343	rnt | medium | Not found	8.6	+
+NC_014500.1	459559	459660	mepH | strong+pred | Intrinsic	72.6	+
+NC_014500.1	2716180	2716281	purR | medium | Not found	27.4	+
+NC_014500.1	683685	683786	cfa | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3726291	3726392	ribC | strong+pred | Intrinsic	100.0	-
+NC_014500.1	2873247	2873348	mdtK | medium+pred | Intrinsic	100.0	+
+NC_014500.1	2619034	2619135	Dda3937_04107 | medium | Not found	100.0	+
+NC_014500.1	609314	609415	sttE | medium+pred | Intrinsic	39.2	-
+NC_014500.1	3458546	3458647	sttC | medium | Not found	60.8	-
+NC_014500.1	1288914	1289015	arbB | medium | Not found	33.3	-
+NC_014500.1	1733889	1733990	bglG | medium | Not found	66.7	-
+NC_014500.1	4134001	4134102	pykF | strong+pred | Intrinsic	100.0	+
+NC_014500.1	2326780	2326881	lpp | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	4449442	4449543	ycfS | medium | Not found	48.3	-
+NC_014500.1	4659275	4659376	sufE | strong | Not found	51.7	-
+NC_014500.1	731445	731546	Dda3937_00001 | strong | Not found	100.0	+
+NC_014500.1	135199	135300	ydiK | strong | Not found	100.0	+
+NC_014500.1	4357710	4357811	ydiA | strong | Not found	100.0	+
+NC_014500.1	1410705	1410806	aroH | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	4540253	4540354	ycbX | medium | Not found	100.0	+
+NC_014500.1	3072966	3073067	pyrD | medium | Not found	100.0	-
+NC_014500.1	2044092	2044193	ssuB | medium+pred | Intrinsic	100.0	+
+NC_014500.1	704955	705056	pncB | strong | Not found	100.0	+
+NC_014500.1	4681225	4681326	ompF | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3680115	3680216	Dda3937_03660 | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3438791	3438892	Dda3937_03657 | medium | Not found	100.0	+
+NC_014500.1	2580011	2580112	aspC | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3222191	3222292	Dda3937_03651 | medium | Not found	100.0	-
+NC_014500.1	1193399	1193500	Dda3937_03646 | medium | Not found	100.0	+
+NC_014500.1	187508	187609	mfd | medium | Not found	100.0	+
+NC_014500.1	2259602	2259703	ycgG | medium | Not found	100.0	+
+NC_014500.1	4072409	4072510	yegD | medium | Not found	100.0	+
+NC_014500.1	1602688	1602789	lfaA | medium | Not found	100.0	-
+NC_014500.1	4398257	4398358	lfaR | medium | Not found	100.0	+
+NC_014500.1	1812865	1812966	thiK | medium | Not found	100.0	-
+NC_014500.1	78044	78145	Dda3937_02253 | medium | Not found	100.0	-
+NC_014500.1	1294536	1294637	ptsG | strong+pred | Intrinsic	0.5	-
+NC_014500.1	2772246	2772347	yceD | strong | Not found	99.5	-
+NC_014500.1	737264	737365	yceF | medium | Not found	100.0	+
+NC_014500.1	3609495	3609596	yneC | strong | Not found	100.0	-
+NC_014500.1	3907709	3907810	rne | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3609253	3609354	pyrC | strong | Not found	100.0	+
+NC_014500.1	3530463	3530564	yceP | strong | Not found	100.0	+
+NC_014500.1	3265968	3266069	yceI | strong | Not found	100.0	+
+NC_014500.1	2032715	2032816	Dda3937_03560 | strong | Not found	100.0	+
+NC_014500.1	3871664	3871765	htrB | medium | Not found	53.5	+
+NC_014500.1	2438999	2439100	yceE | medium+pred | Intrinsic	46.5	+
+NC_014500.1	3532393	3532494	opgH | strong+pred | Intrinsic	100.0	-
+NC_014500.1	1598764	1598865	Dda3937_03565 | medium | Not found	45.5	+
+NC_014500.1	1611682	1611783	Dda3937_00028 | medium+pred | Intrinsic	54.5	+
+NC_014500.1	1670880	1670981	ydcX | medium | Not found	100.0	+
+NC_014500.1	1273731	1273832	fabA | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	1571972	1572073	spiX | strong+pred | Intrinsic	100.0	+
+NC_014500.1	4202642	4202743	Dda3937_03415 | strong+pred | Intrinsic	100.0	+
+NC_014500.1	2175997	2176098	phoH | strong+pred | Intrinsic	1.2	-
+NC_014500.1	4828020	4828121	Dda3937_03419 | strong | Not found	98.8	-
+NC_014500.1	3034956	3035057	fliC | strong+pred | Intrinsic	100.0	-
+NC_014500.1	2046741	2046842	fliN | strong | Not found	100.0	+
+NC_014500.1	1330603	1330704	fliO | medium | Not found	25.8	+
+NC_014500.1	3163066	3163167	fliP | strong | Not found	42.9	+
+NC_014500.1	3755652	3755753	fliQ | medium | Not found	28.1	+
+NC_014500.1	3197854	3197955	fliR | medium | Not found	3.2	+
+NC_014500.1	1120875	1120976	flgL | strong+pred | Intrinsic	100.0	-
+NC_014500.1	939078	939179	flgA | medium | Not found	100.0	+
+NC_014500.1	3825308	3825409	flgM | strong | Not found	87.2	+
+NC_014500.1	4850529	4850630	flgN | strong+pred | Rho-dependent	12.8	+
+NC_014500.1	2690377	2690478	cheZ | strong | Not found	23.5	-
+NC_014500.1	3182158	3182259	cheA | medium | Not found	76.5	-
+NC_014500.1	337514	337615	Dda3937_02786 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	3190187	3190288	Dda3937_02787 | strong | Not found	100.0	+
+NC_014500.1	2029482	2029583	cybC | strong | Not found	100.0	+
+NC_014500.1	3294836	3294937	cel5Z | strong | Not found	100.0	+
+NC_014500.1	2413067	2413168	pelL | strong+pred | Intrinsic	100.0	-
+NC_014500.1	1723846	1723947	Dda3937_02796 | medium | Not found	100.0	+
+NC_014500.1	2321627	2321728	Dda3937_04641 | medium | Not found	100.0	-
+NC_014500.1	1093519	1093620	Dda3937_03953 | medium | Not found	20.6	+
+NC_014500.1	3735614	3735715	Dda3937_03955 | medium | Not found	79.4	+
+NC_014500.1	338290	338391	Dda3937_03956 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	4126331	4126432	pgsA | strong | Not found	100.0	-
+NC_014500.1	1685310	1685411	yecF | strong | Not found	99.9	+
+NC_014500.1	3640059	3640160	Dda3937_03963 | strong | Not found	100.0	-
+NC_014500.1	2415028	2415129	Dda3937_00080 | medium | Not found	0.1	+
+NC_014500.1	4544602	4544703	Dda3937_02770 | strong | Not found	100.0	-
+NC_014500.1	826967	827068	Dda3937_02768 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	3934694	3934795	Dda3937_02766 | medium | Not found	52.4	+
+NC_014500.1	2003689	2003790	Dda3937_02765 | strong | Not found	47.6	+
+NC_014500.1	3801544	3801645	Dda3937_02763 | medium | Not found	100.0	-
+NC_014500.1	4851983	4852084	Dda3937_02762 | medium | Not found	42.1	+
+NC_014500.1	4191069	4191170	Dda3937_02761 | medium+pred | Rho-dependent	57.9	+
+NC_014500.1	3943841	3943942	Dda3937_02757 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	1248592	1248693	kikA | medium | Not found	100.0	+
+NC_014500.1	4595389	4595490	mobC | medium | Not found	62.5	+
+NC_014500.1	477833	477934	Dda3937_04167 | medium | Not found	37.5	+
+NC_014500.1	4000729	4000830	Dda3937_04348 | medium | Not found	100.0	-
+NC_014500.1	3772699	3772800	Dda3937_04174 | strong+pred | Intrinsic	99.8	+
+NC_014500.1	3778739	3778840	Dda3937_01879 | medium | Not found	0.2	+
+NC_014500.1	900701	900802	Dda3937_01878 | medium | Not found	87.8	+
+NC_014500.1	1763482	1763583	Dda3937_01877 | medium | Not found	12.2	+
+NC_014500.1	4104340	4104441	Dda3937_01873 | medium | Not found	100.0	+
+NC_014500.1	1885461	1885562	Dda3937_01872 | medium | Not found	100.0	+
+NC_014500.1	4421770	4421871	Dda3937_01871 | strong | Not found	100.0	-
+NC_014500.1	665577	665678	Dda3937_01866 | strong | Not found	100.0	-
+NC_014500.1	1754636	1754737	Dda3937_01865 | medium | Not found	71.7	+
+NC_014500.1	3501672	3501773	Dda3937_01864 | medium+pred | Intrinsic	28.3	+
+NC_014500.1	1911525	1911626	Dda3937_01863 | medium+pred | Rho-dependent	19.9	+
+NC_014500.1	4521525	4521626	ggt | medium | Not found	80.1	+
+NC_014500.1	1210808	1210909	Dda3937_01858 | medium | Not found	100.0	-
+NC_014500.1	34820	34921	mccF | medium | Not found	100.0	+
+NC_014500.1	4296998	4297099	Dda3937_01856 | strong+pred | Intrinsic	100.0	+
+NC_014500.1	1867948	1868049	Dda3937_01851 | strong | Not found	100.0	+
+NC_014500.1	1383088	1383189	nasR | medium | Not found	100.0	-
+NC_014500.1	4548811	4548912	Dda3937_01837 | medium | Not found	100.0	+
+NC_014500.1	1198722	1198823	Dda3937_01836 | medium+pred | Intrinsic	100.0	-
+NC_014500.1	4509866	4509967	yfaV | medium | Not found	100.0	+
+NC_014500.1	163625	163726	Dda3937_01833 | medium | Not found	100.0	-
+NC_014500.1	3890665	3890766	pab | strong | Not found	100.0	+
+NC_014500.1	1055075	1055176	Dda3937_01809 | medium+pred | Intrinsic	100.0	-
+NC_014500.1	176479	176580	pecT | strong+pred | Rho-dependent	100.0	-
+NC_014500.1	1939034	1939135	yfbQ | strong | Not found	86.2	+
+NC_014500.1	2132727	2132828	yfbR | strong+pred | Rho-dependent	13.8	+
+NC_014500.1	2677614	2677715	ackA | strong+pred | Intrinsic	39.9	+
+NC_014500.1	2212977	2213078	pta | strong+pred | Rho-dependent	60.1	+
+NC_014500.1	2511790	2511891	yfcG | strong+pred | Rho-dependent	76.0	+
+NC_014500.1	3663583	3663684	yfcH | medium | Not found	24.0	+
+NC_014500.1	3228723	3228824	ubiX | medium | Not found	100.0	-
+NC_014500.1	897118	897219	Dda3937_02111 | medium | Not found	29.6	+
+NC_014500.1	3687051	3687152	Dda3937_02113 | medium | Not found	70.4	+
+NC_014500.1	3765501	3765602	fabB | strong+pred | Rho-dependent	100.0	-
+NC_014500.1	3128779	3128880	flk | medium+pred | Intrinsic	100.0	+
+NC_014500.1	187112	187213	mnmC | medium | Not found	28.0	+
+NC_014500.1	3147141	3147242	Dda3937_02117 | medium | Not found	72.0	+
+NC_014500.1	1338892	1338993	Dda3937_02119 | medium | Not found	100.0	+
+NC_014500.1	2978776	2978877	Dda3937_02124 | medium | Not found	100.0	+
+NC_014500.1	727868	727969	mepA | strong | Not found	100.0	-
+NC_014500.1	104829	104930	smrB | medium | Not found	100.0	+
+NC_014500.1	2144131	2144232	fadJ | medium | Not found	100.0	-
+NC_014500.1	2884335	2884436	fadL | strong+pred | Intrinsic	100.0	+
+NC_014500.1	2077023	2077124	mlaA | strong+pred | Intrinsic	100.0	-
+NC_014500.1	4896377	4896478	nipE | strong | Not found	100.0	-
+NC_014500.1	1417840	1417941	Dda3937_00482 | medium+pred | Intrinsic	100.0	-
+NC_014500.1	3044414	3044515	Dda3937_00481 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	77775	77876	avrM | strong+pred | Intrinsic	100.0	-
+NC_014500.1	233386	233487	cbuB | strong | Not found	100.0	+
+NC_014500.1	1099185	1099286	cbuD | medium | Not found	27.5	+
+NC_014500.1	4377738	4377839	cbuG | medium | Not found	45.8	+
+NC_014500.1	938280	938381	cbuC | strong | Not found	26.7	+
+NC_014500.1	496593	496694	fct | strong | Not found	54.9	+
+NC_014500.1	3633908	3634009	cbsB | strong | Not found	17.2	+
+NC_014500.1	963502	963603	cbsA | strong | Not found	27.4	+
+NC_014500.1	1585954	1586055	Dda3937_02429 | medium | Not found	0.6	+
+NC_014500.1	3067343	3067444	Dda3937_02428 | medium | Not found	100.0	-
+NC_014500.1	418984	419085	Dda3937_02427 | strong | Not found	100.0	-
+NC_014500.1	1341708	1341809	outI | medium | Not found	100.0	-
+NC_014500.1	2492703	2492804	outB | medium | Not found	100.0	+
+NC_014500.1	939636	939737	dat | strong | Not found	100.0	+
+NC_014500.1	3440695	3440796	Dda3937_02407 | medium | Not found	54.4	+
+NC_014500.1	4675573	4675674	Dda3937_02406 | medium | Not found	45.6	+
+NC_014500.1	2028823	2028924	Dda3937_02404 | medium | Not found	80.7	+
+NC_014500.1	3014135	3014236	Dda3937_02403 | medium | Not found	19.3	+
+NC_014500.1	1867600	1867701	Dda3937_02402 | medium | Not found	100.0	+
+NC_014500.1	3674977	3675078	Dda3937_02401 | strong+pred | Intrinsic	100.0	+
+NC_014500.1	2153569	2153670	Dda3937_02400 | medium | Not found	100.0	-
+NC_014500.1	4909357	4909458	Dda3937_02397 | medium | Not found	100.0	+
+NC_014500.1	2948109	2948210	ganL | medium+pred | Intrinsic	100.0	+
+NC_014500.1	631726	631827	ganK | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	1785551	1785652	Dda3937_02386 | medium | Not found	100.0	+
+NC_014500.1	3669616	3669717	Dda3937_00060 | medium | Not found	100.0	-
+NC_014500.1	2910477	2910578	pelI | strong+pred | Intrinsic	100.0	+
+NC_014500.1	279794	279895	rspB | medium | Not found	100.0	+
+NC_014500.1	1772551	1772652	ydfI | medium | Not found	100.0	+
+NC_014500.1	1713657	1713758	ydfH | strong | Not found	100.0	+
+NC_014500.1	70320	70421	yhfR | medium | Not found	100.0	+
+NC_014500.1	3177436	3177537	Dda3937_01670 | medium | Not found	100.0	-
+NC_014500.1	1096437	1096538	Dda3937_01674 | medium | Not found	16.7	+
+NC_014500.1	3864560	3864661	Dda3937_01675 | medium | Not found	83.3	+
+NC_014500.1	3511003	3511104	folD | medium | Not found	19.0	+
+NC_014500.1	4838365	4838466	ybcJ | strong+pred | Intrinsic	81.0	+
+NC_014500.1	2035732	2035833	Dda3937_01679 | strong+pred | Intrinsic	100.0	-
+NC_014500.1	816168	816269	ppiB | strong | Not found	42.9	+
+NC_014500.1	597133	597234	purK | strong | Not found	55.7	+
+NC_014500.1	4110419	4110520	sdaB | medium+pred | Intrinsic	1.4	+
+NC_014500.1	4367945	4368046	Dda3937_01687 | strong+pred | Intrinsic	100.0	-
+NC_014500.1	4500926	4501027	ppx | strong+pred | Rho-dependent	95.7	+
+NC_014500.1	4881342	4881443	ybdQ | strong | Not found	100.0	-
+NC_014500.1	1332877	1332978	ybiI | medium | Not found	4.3	+
+NC_014500.1	3383655	3383756	yneG | medium | Not found	100.0	+
+NC_014500.1	290951	291052	yccA | strong+pred | Intrinsic	94.6	+
+NC_014500.1	3629195	3629296	hspQ | medium | Not found	5.4	+
+NC_014500.1	2877023	2877124	mgsA | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3693194	3693295	yccF | medium | Not found	100.0	+
+NC_014500.1	3859063	3859164	sxy | medium | Not found	100.0	-
+NC_014500.1	3166013	3166114	yccS | medium | Not found	100.0	+
+NC_014500.1	3900948	3901049	sulA | medium | Not found	100.0	+
+NC_014500.1	4126835	4126936	ompA | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3297369	3297470	yajO | strong | Not found	100.0	-
+NC_014500.1	133157	133258	nupC | strong+pred | Intrinsic	100.0	+
+NC_014500.1	2853817	2853918	mdtA | medium | Not found	100.0	+
+NC_014500.1	3285600	3285701	yegN | medium | Not found	84.4	+
+NC_014500.1	4721690	4721791	mdtC | medium | Not found	15.6	+
+NC_014500.1	2224885	2224986	yegB | medium | Not found	100.0	+
+NC_014500.1	4408823	4408924	baeS | medium | Not found	35.5	+
+NC_014500.1	2845089	2845190	Dda3937_02815 | medium | Not found	64.5	+
+NC_014500.1	2134662	2134763	yegQ | medium | Not found	100.0	+
+NC_014500.1	1343659	1343760	psiE | strong | Not found	100.0	-
+NC_014500.1	3047510	3047611	Dda3937_02813 | medium | Not found	100.0	+
+NC_014500.1	568622	568723	Dda3937_02810 | medium | Not found	100.0	+
+NC_014500.1	1972863	1972964	lffR | medium | Not found	100.0	+
+NC_014500.1	2904690	2904791	thiD | medium | Not found	100.0	-
+NC_014500.1	676396	676497	Dda3937_02805 | medium+pred | Intrinsic	35.1	+
+NC_014500.1	4689834	4689935	Dda3937_02804 | medium | Not found	45.1	+
+NC_014500.1	4499085	4499186	Dda3937_02802 | medium | Not found	19.8	+
+NC_014500.1	4352955	4353056	Dda3937_02800 | medium | Not found	100.0	+
+NC_014500.1	2979129	2979230	xseA | medium | Not found	100.0	+
+NC_014500.1	4716771	4716872	prt1 | strong | Not found	80.9	+
+NC_014500.1	3808153	3808254	Dda3937_03711 | strong | Not found	19.1	+
+NC_014500.1	1722339	1722440	Dda3937_03703 | medium | Not found	100.0	-
+NC_014500.1	1290387	1290488	sseA | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3452494	3452595	suhB | strong | Not found	100.0	+
+NC_014500.1	3273130	3273231	Dda3937_02377 | strong | Not found	43.1	+
+NC_014500.1	390515	390616	Dda3937_02378 | medium | Not found	21.4	+
+NC_014500.1	4871546	4871647	Dda3937_02379 | strong+pred | Intrinsic	35.5	+
+NC_014500.1	1727263	1727364	Dda3937_02380 | strong+pred | Intrinsic	100.0	-
+NC_014500.1	3256600	3256701	Dda3937_02381 | medium | Not found	100.0	-
+NC_014500.1	3026454	3026555	hmp | medium+pred | Intrinsic	100.0	+
+NC_014500.1	3625786	3625887	pelA | strong+pred | Intrinsic	100.0	+
+NC_014500.1	1109301	1109402	pelE | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3322857	3322958	pelD | strong+pred | Intrinsic	85.1	+
+NC_014500.1	4673808	4673909	pemA | strong+pred | Intrinsic	14.9	+
+NC_014500.1	1035414	1035515	purL | strong+pred | Intrinsic	100.0	-
+NC_014500.1	4572344	4572445	yfhD | medium | Not found	100.0	+
+NC_014500.1	3199942	3200043	Dda3937_03386 | medium | Not found	36.4	+
+NC_014500.1	3640925	3641026	Dda3937_03859 | medium | Not found	63.6	+
+NC_014500.1	441661	441762	yfhL | medium | Not found	100.0	+
+NC_014500.1	2184681	2184782	lepB | strong | Not found	100.0	-
+NC_014500.1	1551014	1551115	yfiC | medium | Not found	100.0	-
+NC_014500.1	3195891	3195992	nadB | strong | Not found	100.0	+
+NC_014500.1	594285	594386	srmB | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	3174818	3174919	yfiD | strong+pred | Intrinsic	100.0	-
+NC_014500.1	3859228	3859329	ung | strong | Not found	100.0	+
+NC_014500.1	2521642	2521743	gltX | strong+pred | Intrinsic	100.0	-
+NC_014500.1	738777	738878	Dda3937_03503 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	4080461	4080562	cdaR | medium | Not found	100.0	-
+NC_014500.1	4031185	4031286	degP | medium+pred | Intrinsic	100.0	-
+NC_014500.1	3520676	3520777	pfs | strong | Not found	60.8	+
+NC_014500.1	4565909	4566010	btuF | medium | Not found	39.2	+
+NC_014500.1	2901200	2901301	erpA | strong | Not found	100.0	-
+NC_014500.1	2528752	2528853	hemL | strong+pred | Intrinsic	100.0	+
+NC_014500.1	4389021	4389122	fhuD | medium | Not found	100.0	-
+NC_014500.1	288888	288989	mrcB | strong+pred | Intrinsic	100.0	-
+NC_014500.1	2565798	2565899	dksA | strong | Not found	86.7	+
+NC_014500.1	1626973	1627074	panD | strong+pred | Rho-dependent	13.3	+
+NC_014500.1	2600167	2600268	hpt | medium | Not found	100.0	-
+NC_014500.1	55271	55372	can | strong | Not found	97.4	+
+NC_014500.1	3534703	3534804	Dda3937_04069 | medium | Not found	2.6	+
+NC_014500.1	2575502	2575603	yacC | medium | Not found	100.0	+
+NC_014500.1	1202921	1203022	speD | strong | Not found	100.0	+
+NC_014500.1	1415049	1415150	nrdH | medium | Not found	31.0	+
+NC_014500.1	4053067	4053168	nrdF | strong | Not found	69.0	+
+NC_014500.1	752956	753057	dnaQ | medium | Not found	100.0	-
+NC_014500.1	2965026	2965127	rnhA | medium | Not found	100.0	+
+NC_014500.1	4707272	4707373	mltD | strong+pred | Intrinsic	100.0	+
+NC_014500.1	524755	524856	clpB | strong | Not found	100.0	-
+NC_014500.1	4835238	4835339	yfiH | medium+pred | Intrinsic	100.0	-
+NC_014500.1	2858822	2858923	yfiO | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	4514987	4515088	raiA | strong+pred | Intrinsic	98.9	+
+NC_014500.1	1074228	1074329	pheA | strong+pred | Intrinsic	1.1	+
+NC_014500.1	2768581	2768682	tyrA | strong+pred | Intrinsic	100.0	-
+NC_014500.1	2115847	2115948	yfiL | medium | Not found	100.0	+
+NC_014500.1	2513379	2513480	Dda3937_01563 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	2130525	2130626	rplS | strong+pred | Intrinsic	100.0	-
+NC_014500.1	1103700	1103801	ypjD | strong+pred | Intrinsic	100.0	+
+NC_014500.1	511593	511694	luxS | strong+pred | Intrinsic	100.0	-
+NC_014500.1	831396	831497	csrA | strong | Not found	100.0	-
+NC_014500.1	4898948	4899049	alaS | medium | Not found	100.0	-
+NC_014500.1	1946683	1946784	Dda3937_03156 | medium | Not found	100.0	+
+NC_014500.1	1031364	1031465	Dda3937_03158 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	4305103	4305204	cybB | strong+pred | Intrinsic	0.3	-
+NC_014500.1	3051611	3051712	Dda3937_03160 | medium+pred | Rho-dependent	99.7	-
+NC_014500.1	895662	895763	budC | strong | Not found	100.0	+
+NC_014500.1	1141156	1141257	Dda3937_03163 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	1199788	1199889	Dda3937_03164 | medium | Not found	28.2	+
+NC_014500.1	944578	944679	Dda3937_03165 | medium | Not found	71.8	+
+NC_014500.1	3246997	3247098	Dda3937_03166 | medium | Not found	100.0	-
+NC_014500.1	1595809	1595910	ytfQ | medium | Not found	73.0	+
+NC_014500.1	3129080	3129181	ytfT | medium+pred | Rho-dependent	23.6	+
+NC_014500.1	4799995	4800096	Dda3937_03171 | medium | Not found	3.4	+
+NC_014500.1	1823019	1823120	Dda3937_03172 | medium | Not found	100.0	+
+NC_014500.1	486359	486460	eutE | medium | Not found	22.7	+
+NC_014500.1	842886	842987	Dda3937_03175 | strong+pred | Rho-dependent	100.0	-
+NC_014500.1	1081069	1081170	yfeG | medium | Not found	77.3	+
+NC_014500.1	728894	728995	Dda3937_03188 | medium | Not found	100.0	+
+NC_014500.1	1315375	1315476	dltC | medium+pred | Intrinsic	100.0	-
+NC_014500.1	60028	60129	Dda3937_03192 | medium | Not found	100.0	+
+NC_014500.1	215306	215407	yafO | medium | Not found	100.0	-
+NC_014500.1	2496800	2496901	Dda3937_00950 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	2293813	2293914	Dda3937_00943 | medium | Not found	100.0	-
+NC_014500.1	600621	600722	proA | strong | Not found	100.0	-
+NC_014500.1	3959435	3959536	pepD | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	4566287	4566388	dinB | medium | Not found	100.0	-
+NC_014500.1	1098805	1098906	yafJ | medium+pred | Intrinsic	100.0	-
+NC_014500.1	3826271	3826372	yafK | strong | Not found	100.0	+
+NC_014500.1	2553199	2553300	fadE | medium | Not found	100.0	+
+NC_014500.1	390911	391012	Dda3937_00924 | strong+pred | Intrinsic	100.0	+
+NC_014500.1	661936	662037	Dda3937_00923 | strong+pred | Intrinsic	100.0	-
+NC_014500.1	1328477	1328578	yafV | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	494574	494675	Dda3937_00909 | medium | Not found	100.0	+
+NC_014500.1	3494019	3494120	Dda3937_00908 | medium | Not found	100.0	+
+NC_014500.1	4368397	4368498	Dda3937_00904 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	4417031	4417132	Dda3937_00902 | medium | Not found	100.0	+
+NC_014500.1	1097432	1097533	proX | strong | Not found	25.7	+
+NC_014500.1	4199626	4199727	mprA | strong | Not found	33.8	+
+NC_014500.1	3393487	3393588	emrA | strong | Not found	32.4	+
+NC_014500.1	572299	572400	emrB | strong+pred | Rho-dependent	8.1	+
+NC_014500.1	3678047	3678148	trxC | medium | Not found	31.7	+
+NC_014500.1	4181505	4181606	yfiP | medium | Not found	68.3	+
+NC_014500.1	2966160	2966261	patZ | medium | Not found	39.2	+
+NC_014500.1	3596318	3596419	pssA | strong | Not found	58.6	+
+NC_014500.1	1035911	1036012	yfiM | medium | Not found	2.3	+
+NC_014500.1	2337655	2337756	metQ | strong+pred | Intrinsic	40.4	+
+NC_014500.1	1774702	1774803	proS | strong+pred | Intrinsic	59.6	+
+NC_014500.1	1654741	1654842	rpoS | strong+pred | Intrinsic	100.0	-
+NC_014500.1	3005146	3005247	ygbE | medium | Not found	100.0	-
+NC_014500.1	3084089	3084190	Dda3937_00208 | medium | Not found	100.0	+
+NC_014500.1	29533	29634	pehK | medium | Not found	100.0	+
+NC_014500.1	2410802	2410903	queD | medium | Not found	100.0	+
+NC_014500.1	4856281	4856382	meh | strong | Not found	100.0	+
+NC_014500.1	4447427	4447528	Dda3937_00200 | medium | Not found	100.0	-
+NC_014500.1	1081171	1081272	eno | strong+pred | Intrinsic	100.0	-
+NC_014500.1	2871940	2872041	mazG | medium | Not found	53.9	-
+NC_014500.1	2782168	2782269	relA | strong | Not found	46.1	-
+NC_014500.1	4407188	4407289	barA | medium | Not found	100.0	+
+NC_014500.1	3249974	3250075	garD | medium | Not found	100.0	+
+NC_014500.1	1898812	1898913	Dda3937_00183 | strong+pred | Intrinsic	55.1	+
+NC_014500.1	72710	72811	Dda3937_00181 | strong+pred | Intrinsic	44.9	+
+NC_014500.1	501659	501760	cca | strong | Not found	100.0	+
+NC_014500.1	4201702	4201803	folB | medium | Not found	100.0	-
+NC_014500.1	740940	741041	plsY | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	2227453	2227554	Dda3937_00170 | medium+pred | Intrinsic	100.0	-
+NC_014500.1	581826	581927	ppa | strong+pred | Intrinsic	100.0	+
+NC_014500.1	1472653	1472754	ytfP | strong+pred | Intrinsic	100.0	-
+NC_014500.1	6982	7083	msrA | strong | Not found	100.0	+
+NC_014500.1	2058339	2058440	ytfK | strong+pred | Intrinsic	100.0	-
+NC_014500.1	1254193	1254294	ytfL | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	2706089	2706190	cysQ | strong | Not found	100.0	-
+NC_014500.1	1399170	1399271	cpdB | strong | Not found	97.0	+
+NC_014500.1	3130995	3131096	ytfE | medium+pred | Intrinsic	3.0	+
+NC_014500.1	768412	768513	fklB | strong+pred | Rho-dependent	100.0	-
+NC_014500.1	2349477	2349578	ytfB | strong | Not found	100.0	+
+NC_014500.1	3503921	3504022	rplI | strong+pred | Intrinsic	100.0	-
+NC_014500.1	4292590	4292691	Dda3937_02614 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	2680178	2680279	yjfO | medium | Not found	100.0	+
+NC_014500.1	2678569	2678670	Dda3937_02606 | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	3923369	3923470	codA | medium+pred | Rho-dependent	62.5	+
+NC_014500.1	1252457	1252558	Dda3937_02603 | medium | Not found	37.5	+
+NC_014500.1	514587	514688	yggS | medium | Not found	100.0	+
+NC_014500.1	3791560	3791661	proC | medium | Not found	15.5	+
+NC_014500.1	3822166	3822267	yggT | strong | Not found	81.1	+
+NC_014500.1	1400318	1400419	yggW | medium | Not found	3.4	+
+NC_014500.1	1407677	1407778	elaA | strong | Not found	100.0	-
+NC_014500.1	946897	946998	ecnA | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	4443169	4443270	Dda3937_02591 | medium+pred | Intrinsic	100.0	-
+NC_014500.1	536441	536542	Dda3937_02587 | medium | Not found	100.0	-
+NC_014500.1	1970372	1970473	galR | medium | Not found	100.0	+
+NC_014500.1	3435269	3435370	celC | medium | Not found	21.7	+
+NC_014500.1	3687692	3687793	ascG | strong | Not found	78.3	+
+NC_014500.1	2413155	2413256	lysR | medium | Not found	100.0	+
+NC_014500.1	2916948	2917049	Dda3937_04081 | medium | Not found	100.0	+
+NC_014500.1	3173670	3173771	Dda3937_03440 | medium+pred | Rho-dependent	44.2	+
+NC_014500.1	4736514	4736615	dusA | strong | Not found	55.8	+
+NC_014500.1	670557	670658	yjbO | medium | Not found	100.0	+
+NC_014500.1	3030350	3030451	Dda3937_03443 | medium+pred | Intrinsic	100.0	-
+NC_014500.1	3530435	3530536	dnaB | medium | Not found	15.1	+
+NC_014500.1	3741494	3741595	alr | strong+pred | Intrinsic	84.9	+
+NC_014500.1	381540	381641	Dda3937_03450 | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	454221	454322	Dda3937_03451 | medium | Not found	100.0	+
+NC_014500.1	1014609	1014710	tyrB | strong | Not found	100.0	+
+NC_014500.1	2408898	2408999	Dda3937_03463 | medium | Not found	100.0	+
+NC_014500.1	3619709	3619810	Dda3937_03464 | medium | Not found	100.0	+
+NC_014500.1	2944851	2944952	Dda3937_03466 | medium | Not found	100.0	+
+NC_014500.1	2355301	2355402	ssb | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3284243	3284344	Dda3937_03470 | medium | Not found	100.0	+
+NC_014500.1	4302040	4302141	Dda3937_03062 | medium | Not found	95.4	+
+NC_014500.1	3381200	3381301	Dda3937_03065 | medium | Not found	4.6	+
+NC_014500.1	4137936	4138037	Dda3937_03066 | medium | Not found	100.0	+
+NC_014500.1	98625	98726	Dda3937_03074 | medium | Not found	27.1	+
+NC_014500.1	4530284	4530385	Dda3937_03075 | medium | Not found	72.9	+
+NC_014500.1	3485937	3486038	Dda3937_03082 | medium | Not found	99.3	+
+NC_014500.1	653397	653498	Dda3937_03084 | medium | Not found	0.7	+
+NC_014500.1	2204883	2204984	Dda3937_04298 | strong | Not found	100.0	+
+NC_014500.1	3266033	3266134	Dda3937_02624 | medium | Not found	100.0	+
+NC_014500.1	1972405	1972506	Dda3937_02625 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	3757754	3757855	Dda3937_02630 | medium | Not found	21.6	+
+NC_014500.1	2457997	2458098	Dda3937_02631 | medium | Not found	19.3	+
+NC_014500.1	404404	404505	Dda3937_02632 | medium | Not found	51.3	+
+NC_014500.1	1161001	1161102	Dda3937_02635 | medium | Not found	100.0	-
+NC_014500.1	4400651	4400752	Dda3937_02634 | medium | Not found	7.8	+
+NC_014500.1	3764102	3764203	Dda3937_03093 | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	3754201	3754302	Dda3937_03094 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	51526	51627	lpd | strong+pred | Rho-dependent	1.4	-
+NC_014500.1	4570944	4571045	aceF | strong+pred | Intrinsic	98.6	-
+NC_014500.1	4292232	4292333	aroP | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	3736330	3736431	nadC | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	1611467	1611568	hofB | medium | Not found	77.3	+
+NC_014500.1	2318720	2318821	hofC | medium | Not found	22.7	+
+NC_014500.1	4389512	4389613	coaE | medium | Not found	16.5	+
+NC_014500.1	4527541	4527642	yacG | medium | Not found	83.5	+
+NC_014500.1	4411892	4411993	lpxC | strong+pred | Rho-dependent	100.0	-
+NC_014500.1	1365165	1365266	Dda3937_02233 | medium | Not found	100.0	+
+NC_014500.1	2303952	2304053	mraZ | medium | Not found	100.0	-
+NC_014500.1	79752	79853	ygaW | strong | Not found	100.0	+
+NC_014500.1	445593	445694	leuD | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	4155878	4155979	tnaA | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	3945962	3946063	yabN | medium | Not found	100.0	+
+NC_014500.1	3839118	3839219	tbpA | medium | Not found	19.7	+
+NC_014500.1	2955402	2955503	thiQ | medium | Not found	80.3	+
+NC_014500.1	824364	824465	Dda3937_01360 | strong+pred | Intrinsic	22.3	+
+NC_014500.1	4482857	4482958	ilvN | strong | Not found	77.7	+
+NC_014500.1	335818	335919	Dda3937_01364 | medium | Not found	35.0	+
+NC_014500.1	4787934	4788035	Dda3937_01365 | medium | Not found	48.1	+
+NC_014500.1	602921	603022	Dda3937_01366 | medium | Not found	16.9	+
+NC_014500.1	1717359	1717460	Dda3937_01371 | medium | Not found	100.0	-
+NC_014500.1	2842796	2842897	polB | medium+pred | Intrinsic	100.0	+
+NC_014500.1	4849142	4849243	hepA | medium | Not found	93.7	+
+NC_014500.1	2602659	2602760	rluA | medium+pred | Intrinsic	6.3	+
+NC_014500.1	3985444	3985545	surA | strong | Not found	24.0	+
+NC_014500.1	1296798	1296899	apaG | strong | Not found	40.4	+
+NC_014500.1	825888	825989	apaH | medium | Not found	35.6	+
+NC_014500.1	2961843	2961944	Dda3937_01384 | medium | Not found	100.0	-
+NC_014500.1	849175	849276	folA | strong | Not found	100.0	-
+NC_014500.1	363321	363422	Dda3937_01388 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	4892522	4892623	rpsT | strong+pred | Intrinsic	100.0	+
+NC_014500.1	743362	743463	satP | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	4072909	4073010	Dda3937_00387 | medium+pred | Intrinsic	100.0	-
+NC_014500.1	4429156	4429257	Dda3937_00389 | medium | Not found	100.0	+
+NC_014500.1	1461875	1461976	talB | strong+pred | Intrinsic	100.0	-
+NC_014500.1	1222814	1222915	yaaA | strong | Not found	100.0	+
+NC_014500.1	477852	477953	Dda3937_00395 | medium | Not found	100.0	-
+NC_014500.1	1365031	1365132	arcA | strong+pred | Intrinsic	100.0	+
+NC_014500.1	3533526	3533627	rob | strong+pred | Intrinsic	100.0	+
+NC_014500.1	4879130	4879231	trpR | medium | Not found	20.8	-
+NC_014500.1	4641499	4641600	yjjX | medium | Not found	100.0	+
+NC_014500.1	847465	847566	slt | medium | Not found	79.2	-
+NC_014500.1	1867927	1868028	ettA | strong+pred | Intrinsic	100.0	+
+NC_014500.1	719470	719571	chmX | medium | Not found	100.0	-
+NC_014500.1	1279619	1279720	Dda3937_00406 | medium | Not found	100.0	+
+NC_014500.1	4843748	4843849	serA | strong+pred | Intrinsic	100.0	-
+NC_014500.1	4752470	4752571	argP | strong | Not found	100.0	+
+NC_014500.1	3691430	3691531	fbaA | strong+pred | Intrinsic	100.0	-
+NC_014500.1	1382641	1382742	metK | strong+pred | Intrinsic	99.9	+
+NC_014500.1	3369216	3369317	sprT | medium | Not found	0.1	+
+NC_014500.1	3893390	3893491	rsmE | medium | Not found	100.0	+
+NC_014500.1	3775015	3775116	gshB | strong | Not found	100.0	+
+NC_014500.1	266968	267069	yqgE | medium | Not found	26.7	+
+NC_014500.1	1717096	1717197	fbp | strong | Not found	100.0	-
+NC_014500.1	732650	732751	yqgF | strong | Not found	73.3	+
+NC_014500.1	3271899	3272000	mpl | strong+pred | Intrinsic	100.0	+
+NC_014500.1	2687504	2687605	purA | strong+pred | Intrinsic	100.0	-
+NC_014500.1	3798613	3798714	queG | medium | Not found	100.0	+
+NC_014500.1	313141	313242	gmd | strong+pred | Intrinsic	98.3	+
+NC_014500.1	587204	587305	Dda3937_00449 | strong | Not found	1.7	+
+NC_014500.1	1674912	1675013	Dda3937_00452 | medium | Not found	100.0	+
+NC_014500.1	3654017	3654118	Dda3937_00459 | medium | Not found	100.0	+
+NC_014500.1	782262	782363	ohrR | strong | Not found	100.0	-
+NC_014500.1	4092065	4092166	abgR | medium | Not found	100.0	+
+NC_014500.1	3096374	3096475	Dda3937_02183 | medium | Not found	100.0	+
+NC_014500.1	4654431	4654532	nifF | medium | Not found	100.0	+
+NC_014500.1	1462708	1462809	Dda3937_02177 | medium | Not found	100.0	+
+NC_014500.1	1915173	1915274	Dda3937_02169 | strong+pred | Intrinsic	100.0	+
+NC_014500.1	2600808	2600909	Dda3937_02163 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	1547397	1547498	Dda3937_02162 | medium | Not found	100.0	+
+NC_014500.1	575577	575678	nifY | medium | Not found	100.0	-
+NC_014500.1	4592027	4592128	nifJ | medium | Not found	100.0	+
+NC_014500.1	2752988	2753089	orn | medium | Not found	100.0	-
+NC_014500.1	2791734	2791835	rsgA | medium | Not found	30.5	+
+NC_014500.1	4553300	4553401	psd | medium | Not found	18.4	+
+NC_014500.1	4684203	4684304	bspA | medium+pred | Rho-dependent	51.1	+
+NC_014500.1	163610	163711	frdD | strong+pred | Rho-dependent	89.0	+
+NC_014500.1	4102249	4102350	blc | medium+pred | Intrinsic	11.0	+
+NC_014500.1	2238203	2238304	efp | strong | Not found	100.0	-
+NC_014500.1	4875122	4875223	yjeI | strong | Not found	100.0	-
+NC_014500.1	602780	602881	yjeK | medium | Not found	100.0	+
+NC_014500.1	693776	693877	Dda3937_02137 | strong+pred | Intrinsic	100.0	+
+NC_014500.1	4585565	4585666	lysC | medium+pred | Intrinsic	100.0	+
+NC_014500.1	3845696	3845797	Dda3937_02132 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	182187	182288	iclR | medium | Not found	100.0	+
+NC_014500.1	1278609	1278710	metA | strong+pred | Intrinsic	100.0	-
+NC_014500.1	2248341	2248442	yrdA | medium | Not found	100.0	+
+NC_014500.1	4417158	4417259	yrdB | medium | Not found	100.0	-
+NC_014500.1	2384709	2384810	def | strong | Not found	17.7	+
+NC_014500.1	2715577	2715678	fmt | strong | Not found	26.0	+
+NC_014500.1	1334428	1334529	trkA | strong | Not found	56.3	+
+NC_014500.1	310547	310648	mscL | strong | Not found	100.0	+
+NC_014500.1	3780622	3780723	yhdN | medium | Not found	100.0	-
+NC_014500.1	519189	519290	rplQ | strong+pred | Intrinsic	0.9	-
+NC_014500.1	3678162	3678263	rpmJ | strong | Not found	17.6	-
+NC_014500.1	1484804	1484905	rplP | medium | Not found	62.1	-
+NC_014500.1	3584935	3585036	rpsC | strong | Not found	19.4	-
+NC_014500.1	692720	692821	bfd | strong | Not found	100.0	-
+NC_014500.1	2408362	2408463	eptA | medium | Not found	15.7	+
+NC_014500.1	1554440	1554541	basR | medium | Not found	71.8	+
+NC_014500.1	2243267	2243368	basS | medium | Not found	12.5	+
+NC_014500.1	620824	620925	fkpA | strong+pred | Intrinsic	100.0	-
+NC_014500.1	411932	412033	yhiW | medium | Not found	100.0	-
+NC_014500.1	1604224	1604325	slyX | medium | Not found	100.0	+
+NC_014500.1	561494	561595	Dda3937_00532 | medium | Not found	100.0	+
+NC_014500.1	4251854	4251955	Dda3937_00535 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	2634433	2634534	slyD | strong+pred | Intrinsic	100.0	-
+NC_014500.1	834618	834719	kefG | medium | Not found	100.0	-
+NC_014500.1	4890917	4891018	yheS | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	1133106	1133207	yheU | medium | Not found	18.0	+
+NC_014500.1	1089999	1090100	prkB | medium | Not found	82.0	+
+NC_014500.1	639685	639786	crp | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	3014782	3014883	Dda3937_00549 | medium+pred | Intrinsic	100.0	-
+NC_014500.1	3795623	3795724	Dda3937_00553 | medium+pred | Intrinsic	55.3	-
+NC_014500.1	662856	662957	Dda3937_00554 | medium | Not found	44.7	-
+NC_014500.1	481233	481334	pelB | strong+pred | Intrinsic	100.0	+
+NC_014500.1	2713151	2713252	pelC | strong | Not found	79.9	+
+NC_014500.1	4398749	4398850	pelZ | medium+pred | Intrinsic	20.1	+
+NC_014500.1	268582	268683	Dda3937_04189 | medium+pred | Intrinsic	100.0	-
+NC_014500.1	225227	225328	hofQ | medium | Not found	100.0	-
+NC_014500.1	1811619	1811720	mrcA | medium+pred | Intrinsic	100.0	+
+NC_014500.1	2818083	2818184	yrfF | strong | Not found	49.1	+
+NC_014500.1	1069622	1069723	yrfG | medium | Not found	28.5	+
+NC_014500.1	3993163	3993264	hslO | medium | Not found	22.4	+
+NC_014500.1	2114391	2114492	pck | strong+pred | Intrinsic	100.0	+
+NC_014500.1	917638	917739	envZ | medium+pred | Intrinsic	100.0	-
+NC_014500.1	1624943	1625044	greB | medium | Not found	100.0	+
+NC_014500.1	2169302	2169403	Dda3937_00352 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	2955776	2955877	yhgF | strong+pred | Intrinsic	66.2	+
+NC_014500.1	2312238	2312339	Dda3937_00351 | strong | Not found	33.8	+
+NC_014500.1	1928174	1928275	nfuA | strong+pred | Intrinsic	100.0	+
+NC_014500.1	1807258	1807359	Dda3937_00342 | medium | Not found	100.0	+
+NC_014500.1	1382060	1382161	Dda3937_00339 | medium | Not found	61.5	+
+NC_014500.1	1205273	1205374	Dda3937_00338 | medium | Not found	30.3	+
+NC_014500.1	4124263	4124364	Dda3937_00337 | medium | Not found	8.3	+
+NC_014500.1	1911900	1912001	glpD | medium | Not found	100.0	+
+NC_014500.1	2751773	2751874	glgP | medium | Not found	42.7	-
+NC_014500.1	2894825	2894926	glgC | medium | Not found	57.3	-
+NC_014500.1	1341404	1341505	Dda3937_00329 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	4488282	4488383	Dda3937_00328 | strong | Not found	10.0	-
+NC_014500.1	177473	177574	nikR | medium | Not found	72.6	-
+NC_014500.1	3892225	3892326	asd | strong+pred | Intrinsic	17.4	-
+NC_014500.1	3475230	3475331	yhgN | medium | Not found	100.0	+
+NC_014500.1	3448292	3448393	gntK | medium | Not found	100.0	+
+NC_014500.1	632859	632960	Dda3937_00321 | medium | Not found	100.0	+
+NC_014500.1	2031914	2032015	glpC | medium | Not found	100.0	-
+NC_014500.1	3421696	3421797	glpT | medium+pred | Rho-dependent	68.9	+
+NC_014500.1	2613440	2613541	glpQ | medium | Not found	31.1	+
+NC_014500.1	1697030	1697131	rhtB | strong | Not found	100.0	+
+NC_014500.1	3683890	3683991	Dda3937_00311 | medium | Not found	100.0	-
+NC_014500.1	3433496	3433597	yigI | medium | Not found	27.7	+
+NC_014500.1	529424	529525	rarD | medium | Not found	72.3	+
+NC_014500.1	4033151	4033252	uvrD | medium | Not found	100.0	-
+NC_014500.1	2835755	2835856	yifL | strong | Not found	82.5	-
+NC_014500.1	3918406	3918507	cyaA | strong | Not found	17.5	-
+NC_014500.1	4174823	4174924	cyaY | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	2011304	2011405	hemX | medium | Not found	25.2	+
+NC_014500.1	3389207	3389308	hemY | strong | Not found	74.8	+
+NC_014500.1	2297149	2297250	Dda3937_00289 | strong+pred | Intrinsic	100.0	-
+NC_014500.1	1356680	1356781	Dda3937_00283 | medium | Not found	100.0	+
+NC_014500.1	2734737	2734838	Dda3937_00280 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	780881	780982	rffM | medium | Not found	69.2	-
+NC_014500.1	1554968	1555069	rho | strong+pred | Intrinsic	30.8	-
+NC_014500.1	1200997	1201098	trxA | strong | Not found	100.0	-
+NC_014500.1	1641731	1641832	gppA | strong | Not found	84.7	+
+NC_014500.1	2322600	2322701	pehV | medium | Not found	15.3	+
+NC_014500.1	3900939	3901040	pehW | medium | Not found	26.4	+
+NC_014500.1	551011	551112	pehX | strong | Not found	73.6	+
+NC_014500.1	41679	41780	rep | medium | Not found	100.0	-
+NC_014500.1	3537685	3537786	ppiC | strong | Not found	100.0	+
+NC_014500.1	1244401	1244502	putP | strong+pred | Intrinsic	100.0	+
+NC_014500.1	867899	868000	ilvY | medium | Not found	62.4	+
+NC_014500.1	2075100	2075201	Dda3937_00254 | strong | Not found	37.6	+
+NC_014500.1	4869505	4869606	ilvA | strong+pred | Intrinsic	100.0	-
+NC_014500.1	3632072	3632173	Dda3937_00247 | medium | Not found	100.0	-
+NC_014500.1	1248077	1248178	yifE | strong | Not found	100.0	-
+NC_014500.1	2635689	2635790	yifB | medium | Not found	34.1	+
+NC_014500.1	303577	303678	hdfR | medium | Not found	65.9	+
+NC_014500.1	4511053	4511154	fadA | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	3046355	3046456	Dda3937_02072 | medium | Not found	100.0	+
+NC_014500.1	27775	27876	fre | strong+pred | Intrinsic	100.0	-
+NC_014500.1	371331	371432	rfaH | medium | Not found	100.0	+
+NC_014500.1	2785188	2785289	argH | strong+pred | Intrinsic	100.0	-
+NC_014500.1	3546584	3546685	argE | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	2150355	2150456	ppc | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	1584439	1584540	metE | strong | Not found	100.0	-
+NC_014500.1	3319835	3319936	ysgA | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	3225601	3225702	metR | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	1253118	1253219	cysE | medium+pred | Intrinsic	100.0	-
+NC_014500.1	4247640	4247741	yibQ | medium | Not found	100.0	+
+NC_014500.1	2201653	2201754	rfaD | medium | Not found	75.2	+
+NC_014500.1	66827	66928	rfaC | medium | Not found	19.4	+
+NC_014500.1	3365356	3365457	waaG | medium | Not found	5.4	+
+NC_014500.1	4012597	4012698	kdtA | medium | Not found	42.0	+
+NC_014500.1	701081	701182	Dda3937_02032 | medium | Not found	36.8	+
+NC_014500.1	3537138	3537239	coaD | medium | Not found	21.2	+
+NC_014500.1	2839414	2839515	rpmB | strong | Not found	100.0	-
+NC_014500.1	4104625	4104726	dut | strong | Not found	94.8	+
+NC_014500.1	1871756	1871857	ttk | medium | Not found	5.2	+
+NC_014500.1	2960630	2960731	Dda3937_03256 | medium | Not found	100.0	+
+NC_014500.1	4582152	4582253	Dda3937_03255 | medium | Not found	100.0	+
+NC_014500.1	4430502	4430603	yliD | medium | Not found	36.6	+
+NC_014500.1	1908036	1908137	Dda3937_03248 | medium | Not found	34.9	+
+NC_014500.1	1516709	1516810	iaaA | medium+pred | Intrinsic	28.5	+
+NC_014500.1	3026009	3026110	Dda3937_03245 | strong | Not found	100.0	+
+NC_014500.1	4057940	4058041	Dda3937_03243 | medium | Not found	100.0	-
+NC_014500.1	3293029	3293130	Dda3937_03238 | medium | Not found	59.5	+
+NC_014500.1	148351	148452	Dda3937_03237 | strong | Not found	40.5	+
+NC_014500.1	3746289	3746390	yicC | strong+pred | Intrinsic	100.0	+
+NC_014500.1	28259	28360	Dda3937_03234 | medium+pred | Intrinsic	100.0	-
+NC_014500.1	1528218	1528319	Dda3937_03235 | medium | Not found	100.0	+
+NC_014500.1	2844722	2844823	Dda3937_03233 | medium | Not found	100.0	+
+NC_014500.1	4199406	4199507	Dda3937_03231 | strong | Not found	100.0	+
+NC_014500.1	3410103	3410204	Dda3937_03229 | medium | Not found	19.0	+
+NC_014500.1	1838075	1838176	Dda3937_03227 | medium | Not found	19.9	+
+NC_014500.1	4534777	4534878	Dda3937_03226 | medium+pred | Rho-dependent	61.1	+
+NC_014500.1	2851903	2852004	expI | medium | Not found	100.0	+
+NC_014500.1	4446458	4446559	vfmQ | strong | Not found	39.8	+
+NC_014500.1	495073	495174	vfmR | strong+pred | Rho-dependent	51.3	+
+NC_014500.1	1094622	1094723	vfmV | strong | Not found	8.9	+
+NC_014500.1	2258893	2258994	vfmW | medium | Not found	100.0	+
+NC_014500.1	4570357	4570458	Dda3937_00960 | strong | Not found	100.0	+
+NC_014500.1	3116381	3116482	vfmG | medium | Not found	16.5	-
+NC_014500.1	3274024	3274125	vfmE | strong | Not found	100.0	+
+NC_014500.1	1011313	1011414	vfmB | medium | Not found	18.5	-
+NC_014500.1	4408587	4408688	indC | medium+pred | Intrinsic	65.0	-
+NC_014500.1	2246408	2246509	indB | medium | Not found	100.0	-
+NC_014500.1	2192487	2192588	pecS | strong+pred | Intrinsic	100.0	+
+NC_014500.1	144536	144637	argG | strong+pred | Intrinsic	100.0	-
+NC_014500.1	2695791	2695892	yohL | medium | Not found	100.0	+
+NC_014500.1	2179889	2179990	tpfX | strong+pred | Rho-dependent	100.0	+
+NC_014500.1	4043893	4043994	xylR | medium | Not found	100.0	-
+NC_014500.1	2823971	2824072	Dda3937_00987 | medium | Not found	100.0	+
+NC_014500.1	3474254	3474355	fdhD | medium | Not found	100.0	+
+NC_014500.1	264284	264385	sodA | strong | Not found	92.6	+
+NC_014500.1	2586780	2586881	Dda3937_00992 | strong+pred | Intrinsic	7.4	+
+NC_014500.1	2550341	2550442	yiaF | strong | Not found	100.0	-
+NC_014500.1	2680036	2680137	Dda3937_01008 | medium+pred | Rho-dependent	89.1	+
+NC_014500.1	507063	507164	malK | medium | Not found	10.9	+
+NC_014500.1	278773	278874	glyS | strong+pred | Intrinsic	100.0	-
+NC_014500.1	197530	197631	yiaC | medium | Not found	23.0	+
+NC_014500.1	2728419	2728520	tkrA | medium | Not found	77.0	+
+NC_014500.1	1709397	1709498	avtA | medium | Not found	100.0	+
+NC_014500.1	2080880	2080981	Dda3937_01019 | medium | Not found	100.0	+
+NC_014500.1	1471715	1471816	Dda3937_01025 | medium | Not found	100.0	+
+NC_014500.1	4190168	4190269	Dda3937_01028 | medium | Not found	100.0	+
+NC_014500.1	3224616	3224717	yfeR | medium | Not found	100.0	-
+NC_014500.1	1214754	1214855	Dda3937_01035 | medium | Not found	100.0	+
+NC_014500.1	408189	408290	Dda3937_01036 | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	1376353	1376454	Dda3937_01038 | medium | Not found	100.0	-
+NC_014500.1	4430378	4430479	Dda3937_01041 | strong | Not found	100.0	+
+NC_014500.1	1781546	1781647	Dda3937_01043 | medium | Not found	100.0	+
+NC_014500.1	2286349	2286450	Dda3937_01048 | medium | Not found	100.0	+
+NC_014500.1	3625078	3625179	Dda3937_01049 | medium | Not found	100.0	+
+NC_014500.1	4703210	4703311	rlmJ | medium | Not found	100.0	-
+NC_014500.1	4171450	4171551	elaC | medium | Not found	100.0	+
+NC_014500.1	754050	754151	yghW | medium+pred | Rho-dependent	100.0	+
+NC_014500.1	3728737	3728838	prlC | medium | Not found	71.0	+
+NC_014500.1	1699118	1699219	yhiQ | medium+pred | Rho-dependent	29.0	+
+NC_014500.1	1315496	1315597	gyrB | strong+pred | Intrinsic	16.2	-
+NC_014500.1	305813	305914	Dda3937_01056 | medium+pred | Intrinsic	100.0	+
+NC_014500.1	3415895	3415996	dnaN | strong | Not found	83.8	-
+NC_014500.1	4339137	4339238	rpmH | strong+pred | Rho-dependent	83.1	+
+NC_014500.1	4463407	4463508	yidC | strong+pred | Intrinsic	16.8	+
+NC_014500.1	2335470	2335571	mnmE | medium+pred | Rho-dependent	0.1	+
+NC_014500.1	1175508	1175609	Dda3937_01069 | strong | Not found	58.9	+
+NC_014500.1	3155413	3155514	Dda3937_01071 | strong+pred | Intrinsic	41.1	+
+NC_014500.1	4677865	4677966	Dda3937_01073 | medium | Not found	100.0	+
+NC_014500.1	2380869	2380970	Dda3937_01086 | strong | Not found	54.2	+
+NC_014500.1	1662418	1662519	yieE | strong | Not found	45.8	+
+NC_014500.1	4015285	4015386	yieH | strong | Not found	100.0	+
+NC_014500.1	4562761	4562862	phoU | strong+pred | Intrinsic	100.0	-
+NC_014500.1	1644000	1644101	Dda3937_01100 | strong+pred | Intrinsic	98.7	+
+NC_014500.1	3497439	3497540	Dda3937_01101 | medium+pred | Intrinsic	1.3	+
+NC_014500.1	2584494	2584595	Dda3937_01102 | medium | Not found	100.0	-
+NC_014500.1	1967176	1967277	glmU | strong | Not found	100.0	-
+NC_014500.1	826086	826187	pelX | medium+pred | Intrinsic	100.0	+
+NC_014500.1	1016525	1016626	atpC | strong+pred | Intrinsic	100.0	-
