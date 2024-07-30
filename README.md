@@ -4,7 +4,7 @@
 Terminator is a region in the DNA that ends the transcription process. Finding bacterial terminators will lead to a better understanding of how bacteria's transcription works.  Currently, multiple tools are available for predicting bacterial terminators. However, most methods are specialized for certain bacteria or terminator types. In this work, we developed BacTermFinder, a tool that utilizes Convolutional Neural Networks (CNNs) with four different genomic representations trained on 41k bacterial terminators identified using RNA-seq technologies. Based on our results, BacTermFinder's recall score is  higher than that of the other four approaches we considered in our independent validation set of five different bacteria. Moreover, BacTermFinder's model identifies both types of terminators (intrinsic and factor-dependent) and even generalizes to archeal terminators. 
 
 ## How to run 
-1. Create a virutal environment, I prefere miniconda,
+1. Create a virutal environment, we recommend miniconda,
 
 `conda create -n bactermfinder python==3.9`
 
