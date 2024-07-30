@@ -1,7 +1,7 @@
 # BacTermFinder: Bacteria-agnostic Comprehensive Terminator Finder using a CNN Ensemble
 
 ## Abstract 
-Terminator is a region in the DNA that ends the transcription process. Finding bacterial terminators will lead to a better understanding of how bacteria's transcription works. This might facilitate bio-engineering and support bacterial genomic studies. Currently, multiple tools are available for predicting bacterial terminators. However, most methods are specialized for certain bacteria or terminator types. In this work, we developed BacTermFinder, a tool that utilized Deep Learning models, specifically Convolutional Neural Networks (CNN), with four different genomic representations trained on 46,386 bacterial terminators identified using RNA-seq technologies. Based on our results, BacTermFinder's recall score is significantly higher than the next best approach (0.69 vs 0.56) in our diverse test set of five different bacteria while reducing the number of false positives. Moreover, BacTermFinder's model identifies both types of terminators (intrinsic and factor-dependent) and even generalizes to Archea. 
+Terminator is a region in the DNA that ends the transcription process. Finding bacterial terminators will lead to a better understanding of how bacteria's transcription works.  Currently, multiple tools are available for predicting bacterial terminators. However, most methods are specialized for certain bacteria or terminator types. In this work, we developed BacTermFinder, a tool that utilizes Convolutional Neural Networks (CNNs) with four different genomic representations trained on 41k bacterial terminators identified using RNA-seq technologies. Based on our results, BacTermFinder's recall score is  higher than that of the other four approaches we considered in our independent validation set of five different bacteria. Moreover, BacTermFinder's model identifies both types of terminators (intrinsic and factor-dependent) and even generalizes to archeal terminators. 
 
 ## How to run 
 1. Create a virutal environment, I prefere miniconda,
@@ -26,7 +26,7 @@ The log of prediction will be in log.out text file.
 
 The sliding windows would be in the `out_sequence.fasta_sliding_windows.csv`
 
-## Cite it if you've used it!
-Thank you very much for using our software, you can cite is follow: 
+## Please cite it if you've used it!
+Thank you very much for using our software, you can cite it as follows: 
 
 BacTermFinder: A Comprehensive and General Bacterial Terminator Finder using a CNN Ensemble Seyed Mohammad Amin Taheri Ghahfarokhi, Lourdes Peña-Castillo. bioRxiv 2024.07.05.602086; doi: https://doi.org/10.1101/2024.07.05.602086 
