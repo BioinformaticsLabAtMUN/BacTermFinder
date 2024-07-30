@@ -29,4 +29,4 @@ The sliding windows would be in the `out_sequence.fasta_sliding_windows.csv`
 ## Cite it if you've used it!
 Thank you very much for using our software, you can cite is follow: 
 
-`LOREMIPSUM`
+BacTermFinder: A Comprehensive and General Bacterial Terminator Finder using a CNN Ensemble Seyed Mohammad Amin Taheri Ghahfarokhi, Lourdes Peña-Castillo. bioRxiv 2024.07.05.602086; doi: https://doi.org/10.1101/2024.07.05.602086 
