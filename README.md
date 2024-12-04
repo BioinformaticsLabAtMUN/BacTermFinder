@@ -14,7 +14,8 @@ conda create -n bactermfinder python==3.9
 
 ```
 pip install numpy==1.23.0
-
+```
+```
 pip install -r requirements.txt
 ```
 
@@ -22,7 +23,8 @@ pip install -r requirements.txt
 
 ```bash
 python genome_scan.py  YOUR_SEQ.fasta             3            out         10000              > log.out
-
+```
+```
         	        your fasta file | sliding window step | output | Feature gen batch size | > log.out
 
 ```
