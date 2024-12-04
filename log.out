@@ -1,0 +1,51 @@
+
+
+Sliding windows generation started
+
+num cores 16
+ENAC
+binary
+PS2
+NCP
+Failed to initialize NVML: N/A
+Failed to properly shut down NVML: N/A
+
+
+Sliding windows generated
+
+
+iLearnPlus biological feature generation started
+number_of_batches 0
+
+iLearnPlus biological feature generation finished
+Feature generation took 1.6983516216278076 s.
+###### GPU doesn't exists, predicting with CPU  ########
+
+Loading data
+
+Loading Deep Learning Model ENAC.csv 
+
+x shape of ENAC.csv is: (354, 97, 4)
+Predicting sequences
+Appending the results
+
+Loading Deep Learning Model PS2.csv 
+
+x shape of PS2.csv is: (354, 100, 16)
+Predicting sequences
+Appending the results
+
+Loading Deep Learning Model NCP.csv 
+
+x shape of NCP.csv is: (354, 101, 3)
+Predicting sequences
+Appending the results
+
+Loading Deep Learning Model binary.csv 
+
+x shape of binary.csv is: (354, 101, 4)
+Predicting sequences
+Appending the results
+Predicting sequences took 1.4505500793457031 s.
+Totally, it took 3.155467987060547 s to find the terminators of a genome file that has 354 windows
+Done
