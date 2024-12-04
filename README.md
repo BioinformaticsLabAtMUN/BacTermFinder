@@ -22,14 +22,14 @@ pip install -r requirements.txt
 3. After that you can run 
 
 ```bash
-python genome_scan.py  YOUR_SEQ.fasta             3            out         10000              > log.out
+python genome_scan.py  ref-genome-test.fasta       3            out         10000              > log.out
 ```
 ```
         	        your fasta file | sliding window step | output | Feature gen batch size | > log.out
 
 ```
 
-The results would be in a file called `outsequence.fasta_mean.csv`. We included `ref-genome-test-CP054306.1-Synechocystis-PCC-7338.fasta` file so that you can run it for test. 
+The results would be in a file called `outsequence.fasta_mean.csv`. We included `ref-genome-test.fasta` - CP054306.1-Synechocystis-PCC-7338 - file so that you can run it for test. 
 
 The script generates these files and folders:
 - `output_sample/` (directory) - *These are encodings (embeddings) of your input file to features sets. Binary is one hot encoding. Other encodings are described in our paper.*
