@@ -73,6 +73,9 @@ We recommend to use  these thresholds to classify terminators. High GC content b
 | F0.5 - more strict      |     0.47      |
 
 
+## Gene viewer for the final test results of BacTermFinder
+You can use [this Google Colab notebook](https://colab.research.google.com/drive/13aW6Kezl-XaPjJ9lY94YDFebeAqbf70f?usp=sharing) to visualize the final predicted results of test data. Simply run all cells.
+
 ## Please cite it if you've used it!
 Thank you very much for using our software, you can cite it as follows: 
 
