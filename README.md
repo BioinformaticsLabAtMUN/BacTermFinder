@@ -2,6 +2,7 @@
 
 ## Abstract 
 Terminator is a region in the DNA that ends the transcription process. Finding bacterial terminators will lead to a better understanding of how bacterial transcription works.  Currently, multiple tools are available for predicting bacterial terminators. However, most methods are specialized for certain bacteria or terminator types. In this work, we developed BacTermFinder, a tool that utilizes Convolutional Neural Networks (CNNs) with four different genomic representations trained on 41k bacterial terminators identified using RNA-seq technologies. Based on our results, BacTermFinder's recall score is higher than that of the other four approaches we considered in our independent validation set of five different bacteria. Moreover, BacTermFinder's model identifies both types of terminators (intrinsic and factor-dependent) and even generalizes to archeal terminators. 
+![Visual abstract of BacTermFinder](./misc/vis_abstract.png)
 
 ## How to run 
 1. Create a virtual environment, we recommend [miniconda](https://docs.anaconda.com/miniconda/install/#),
@@ -65,6 +66,7 @@ The sliding windows would be in the `out_sequence.fasta_sliding_windows.csv`
 
 ## Threshold for different bacteria
 We recommend to use  these thresholds to classify terminators. High GC content bacteria genomes tend to have more factor-dependent terminators - which usually don't have strong motifs - and it's better to use less strict thresholds to find factor-dependent terminators. One issue with less strict thresholds is that there will be more false positive terminators predicted. We got these recommended thresholds by maximizing the F-scores in our validation datasets.
+<div align="center">
 
 |  Maximizing metric      | Threshold     |
 | ----------------------- | ------------- |
@@ -72,11 +74,16 @@ We recommend to use  these thresholds to classify terminators. High GC content b
 | F1 - normal stringency  |     0.3       |
 | F0.5 - more strict      |     0.47      |
 
+</div>
 
 ## Gene viewer for the final test results of BacTermFinder
 You can use [this Google Colab notebook](https://colab.research.google.com/drive/13aW6Kezl-XaPjJ9lY94YDFebeAqbf70f?usp=sharing) to visualize the final predicted results of test data. Simply run all cells.
 
+![igv](./misc/IGV.png)
+
 ## Please cite it if you've used it!
 Thank you very much for using our software, you can cite it as follows: 
 
+```
 BacTermFinder: A Comprehensive and General Bacterial Terminator Finder using a CNN Ensemble Seyed Mohammad Amin Taheri Ghahfarokhi, Lourdes Peña-Castillo. bioRxiv 2024.07.05.602086; doi: https://doi.org/10.1101/2024.07.05.602086 
+```
