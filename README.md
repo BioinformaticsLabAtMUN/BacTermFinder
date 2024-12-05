@@ -22,7 +22,7 @@ pip install -r requirements.txt
 3. After that you can run 
 
 ```bash
-python genome_scan.py  [genome fasta file] [sliding window step] [output directory] [Feature generation batch size] > log.out 
+python genome_scan.py  [genome fasta file] [sliding window step] [prefix for output files] [Feature generation batch size] > log.out 
 ```
 For example:
 ```
