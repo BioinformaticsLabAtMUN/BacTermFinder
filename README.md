@@ -86,5 +86,7 @@ You can use [this Google Colab notebook](https://colab.research.google.com/drive
 Thank you very much for using our software, you can cite it as follows: 
 
 ```
-BacTermFinder: A Comprehensive and General Bacterial Terminator Finder using a CNN Ensemble Seyed Mohammad Amin Taheri Ghahfarokhi, Lourdes Peña-Castillo. bioRxiv 2024.07.05.602086; doi: https://doi.org/10.1101/2024.07.05.602086 
+BacTermFinder: A Comprehensive and General Bacterial Terminator Finder using a CNN Ensemble
+Seyed Mohammad Amin Taheri Ghahfarokhi, Lourdes Peña-Castillo. 
+bioRxiv 2024.07.05.602086; doi: https://doi.org/10.1101/2024.07.05.602086 
 ```
