@@ -22,12 +22,13 @@ pip install -r requirements.txt
 
 3. After that you can run 
 
-```bash
+`
 python genome_scan.py  [genome fasta file] [sliding window step] [prefix for output files] [Feature generation batch size] > log.out 
-```
+`
+
 For example:
-```
-python genome_scan.py myGenome.fasta 3 out 10000 > log.out
+```bash
+python genome_scan.py ref-genome-test.fasta 3 out 10000 > log.out
 ```
 
 The results would be in a file called `outsequence.fasta_mean.csv`. In this repository, we are including `ref-genome-test.fasta` - CP054306.1-Synechocystis-PCC-7338 - file so that you can run it for testing BacTermFinder. 
