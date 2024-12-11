@@ -66,7 +66,7 @@ The log of the execution will be in log.out text file.
 The sliding windows would be in the `out_sequence.fasta_sliding_windows.csv`
 
 ## Threshold for different bacteria
-We recommend to use  these thresholds to classify terminators. High GC content bacteria genomes tend to have more factor-dependent terminators - which usually don't have strong motifs - and it's better to use less strict thresholds to find factor-dependent terminators. One issue with less strict thresholds is that there will be more false positive terminators predicted. We got these recommended thresholds by maximizing the F-scores in our validation datasets.
+We recommend to use  these thresholds to classify terminators. High GC content bacteria genomes tend to have more factor-dependent terminators - which usually don't have strong motifs - and it's better to use less strict thresholds to find factor-dependent terminators. One issue with less strict thresholds is that there will be more false positive terminators predicted. We got these recommended thresholds by maximizing the F-scores during cross-validation.
 <div align="center">
 
 |  Maximizing metric      | Threshold     |
