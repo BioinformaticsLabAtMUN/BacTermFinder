@@ -59,11 +59,13 @@ SampleName,probability_binary,probability_ENAC,probability_PS2,probability_NCP,p
 2_CP054306.1_3_104_+,0.15433508,0.07148871,0.29429638,0.07657251,0.14917317
 ```
 
-BacTermfinder will encode each sequence to four different encodings (binary, ENAC, NCP, PS2) and run a CNN for each of them. After that, the mean of the predictions will be stored in the output file  `outsequence.fasta_mean.csv`.
+BacTermFinder will encode each sequence to four different encodings (binary, ENAC, NCP, PS2) and run a CNN for each of them. After that, the mean of the predictions will be stored in the output file  `outsequence.fasta_mean.csv`.
 
 The log of the execution will be in log.out text file. 
 
 The sliding windows would be in the `out_sequence.fasta_sliding_windows.csv`
+
+BacTermFinder outputs all sliding windows predicted to contain a terminator-like sequence with a probability above the specified  threshold. Some of these predictions overlap. One can find the union between overlapping sequences. To do so, we recommend using [BedTools' merge command](https://bedtools.readthedocs.io/en/latest/content/tools/merge.html) with the -s parameter. TO DO
 
 ## Threshold for different bacteria
 We recommend to use  these thresholds to classify terminators. High GC content bacteria genomes tend to have more factor-dependent terminators - which usually don't have strong motifs - and it's better to use less strict thresholds to find factor-dependent terminators. One issue with less strict thresholds is that there will be more false positive terminators predicted. We got these recommended thresholds by maximizing the F-scores during cross-validation.
