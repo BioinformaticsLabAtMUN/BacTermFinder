@@ -68,7 +68,7 @@ The sliding windows would be in the `out_sequence.fasta_sliding_windows.csv`
 ### Processing BacTermFinder output
 BacTermFinder outputs all sliding windows with their predicted probability to contain a terminator-like sequence. Thus, we reccommend the following steps to process BacTermFinder output:
 1. Filter out predictions below the desired probability threshold (see **Threshold for different bacteria** section below).
-2. Select predictions based on the strand of interest (+ or -).
+2. [Optional] Select predictions based on the strand of interest (+ or -).
 3. Merge overlapping/consecutive predictions. To find the union between overlapping/consecutive predictions, we recommend using [BedTools' merge command](https://bedtools.readthedocs.io/en/latest/content/tools/merge.html) with the -s -d 3 options.
 4. To adjust the length of merge predictions, find middle of merged predictions and trim from both ends until the desired length (i.e., 101 characters) (see **Scripts to process BacTermFinder output** section below).
 
