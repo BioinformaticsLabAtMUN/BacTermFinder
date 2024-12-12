@@ -85,7 +85,7 @@ We recommend to use  these thresholds to classify terminators. High GC-content b
 </div>
 
 ## Gene viewer for the final test results of BacTermFinder
-You can use [this Google Colab notebook](https://colab.research.google.com/drive/13aW6Kezl-XaPjJ9lY94YDFebeAqbf70f?usp=sharing) to visualize the final predicted results of test data. To acccess the Google Colab notebook, one needs to be signed into a Gmail account. To use the notebook, run all cells. As a sample, the notebook will show BacTermFinder predictions for _ _Streptomyces gardneri_ _ ATCC 15439. This can be modified in the Colab notebook. In the genome viewer, predictions on the forward strand are colour-coded red, while predictions on the reverse strand are blue.
+You can use [this Google Colab notebook](https://colab.research.google.com/drive/13aW6Kezl-XaPjJ9lY94YDFebeAqbf70f?usp=sharing) to visualize the final predicted results of test data. To acccess the Google Colab notebook, one needs to be signed into a Gmail account. To use the notebook, run all cells. As a sample, the notebook will show BacTermFinder predictions for _Streptomyces gardneri_ ATCC 15439. This can be modified in the Colab notebook. In the genome viewer, predictions on the forward strand are colour-coded red, while predictions on the reverse strand are blue.
 
 ![igv](./misc/IGV.png)
 
