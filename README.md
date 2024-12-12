@@ -65,7 +65,12 @@ The log of the execution will be in log.out text file.
 
 The sliding windows would be in the `out_sequence.fasta_sliding_windows.csv`
 
-BacTermFinder outputs all sliding windows predicted to contain a terminator-like sequence with a probability above the specified  threshold. Some of these predictions overlap. One can find the union between overlapping sequences. To do so, we recommend using [BedTools' merge command](https://bedtools.readthedocs.io/en/latest/content/tools/merge.html) with the -s parameter. TO DO
+### Processing BacTermFinder output
+BacTermFinder outputs all sliding windows with their predicted probability to contain a terminator-like sequence. Thus, we reccommend the following steps to process BacTermFinder output:
+1. Filter out predictions below the desired probability threshold (see **Threshold for different bacteria** section below).
+2. Select predictions based on the strand of interest (+ or -).
+3. Merge overlapping/consecutive predictions. To find the union between overlapping/consecutive predictions, we recommend using [BedTools' merge command](https://bedtools.readthedocs.io/en/latest/content/tools/merge.html) with the -s -d 3 options.
+4. To adjust the length of merge predictions, find middle of merged predictions and trim from both ends until the desired length (i.e., 101 characters) (see **Scripts to process BacTermFinder output** section below).
 
 ## Threshold for different bacteria
 We recommend to use  these thresholds to classify terminators. High GC-content bacteria genomes tend to have more factor-dependent terminators - which usually don't have strong motifs - and it's better to use less strict thresholds to find factor-dependent terminators. One issue with less strict thresholds is that there will be more false positive terminators predicted. We got these recommended thresholds by maximizing the F-scores during cross-validation.
@@ -85,7 +90,7 @@ You can use [this Google Colab notebook](https://colab.research.google.com/drive
 ![igv](./misc/IGV.png)
 
 
-## Useful bash scripts after running BacTermFinder to create bed files
+## Scripts to process BacTermFinder output
 ```python
 # This script gets the CSV file and outputs a BED file. 
 import pandas as pd
