@@ -122,7 +122,7 @@ test.to_csv('test_r_capsul.bed', index=False, sep='\t', header=False)
 sort -k 1,1 -k2,2n test_r_capsul.bed > r_capsule_pred_sorted.bed
 
 # Merging the results that are 3 nucleotides apart and averaging the score for them. Then, using AWK to center the regions
-bedtools merge -s -d -3 -c 4,5,6 -o distinct, mean,distinct -i r_capsule_pred_sorted.bed | awk -F"\t" '{if ($3-$2 > 101) {OFS="\t"; print $1,int(($3-$2)/2)+$2-50,int(($3-$2)/2)+$2+51,$4,$5,$6} else {print}}' > r_capsule_pred_sorted_merged.bed
+bedtools merge -s -d -3 -c 4,5,6 -o distinct,mean,distinct -i r_capsule_pred_sorted.bed | awk -F"\t" '{if ($3-$2 > 101) {OFS="\t"; print $1,int(($3-$2)/2)+$2-50,int(($3-$2)/2)+$2+51,$4,$5,$6} else {print}}' > r_capsule_pred_sorted_merged.bed
 
 # If you are predicting only a small region in a fasta file, you can add the offset with this script
 cat r_capsule_pred_sorted_merged.bed | awk -F"\t" '{OFS="\t"; print $1,$2+2720330,$3+2720330,$4,$5,$6}' > r_capsule_pred_sorted_merged_plusCoordinate.bed
