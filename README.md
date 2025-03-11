@@ -132,7 +132,8 @@ cat r_capsule_pred_sorted_merged.bed | awk -F"\t" '{OFS="\t"; print $1,$2+272033
 Thank you very much for using our software, you can cite it as follows: 
 
 ```
-BacTermFinder: A Comprehensive and General Bacterial Terminator Finder using a CNN Ensemble
-Seyed Mohammad Amin Taheri Ghahfarokhi, Lourdes Peña-Castillo. 
-bioRxiv 2024.07.05.602086; doi: https://doi.org/10.1101/2024.07.05.602086 
+Seyed Mohammad Amin Taheri Ghahfarokhi, Lourdes Peña-Castillo,
+BacTermFinder: a comprehensive and general bacterial terminator finder using a CNN ensemble,
+NAR Genomics and Bioinformatics, Volume 7, Issue 1, March 2025, lqaf016,
+https://doi.org/10.1093/nargab/lqaf016
 ```
