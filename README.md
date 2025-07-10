@@ -5,7 +5,7 @@ Terminator is a region in the DNA that ends the transcription process. Finding b
 ![Visual abstract of BacTermFinder](./misc/vis_abstract.png)
 
 ## How to run 
-We have run BacTermFinder in Ubuntu 22 LTS and MS Windows 11. Issues have been reported when running BacTermFinder in Apple Silicon computers.
+We have run BacTermFinder in Ubuntu 22 LTS and MS Windows 11. Issues have been reported when running BacTermFinder in Apple Silicon computers (see issue https://github.com/BioinformaticsLabAtMUN/BacTermFinder/issues/3).
 1. Create a virtual environment, we recommend [miniconda](https://docs.anaconda.com/miniconda/install/#),
 
 ```
